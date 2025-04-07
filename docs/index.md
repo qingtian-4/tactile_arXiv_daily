@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Dexterous Manipulation through Imitation Learning: A Survey**|Hong Zhang Team|[2504.03515](http://arxiv.org/abs/2504.03515)|null|
+|**2025-04-04**|**GraphSeg: Segmented 3D Representations via Graph Edge Addition and Contraction**|Weiming Zhi Team|[2504.03129](http://arxiv.org/abs/2504.03129)|null|
 |**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Abhishek Gupta Team|[2504.02792](http://arxiv.org/abs/2504.02792)|null|
 |**2025-04-03**|**Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision**|Shibiao Xu Team|[2504.02477](http://arxiv.org/abs/2504.02477)|null|
 |**2025-04-02**|**RoboAct-CLIP: Video-Driven Pre-training of Atomic Action Understanding for Robotics**|Qiang Nie Team|[2504.02069](http://arxiv.org/abs/2504.02069)|null|
@@ -34,6 +36,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Know What You do Not Know: Verbalized Uncertainty Estimation Robustness on Corrupted Images in Vision-Language Models**|Matias Valdenegro-Toro Team|[2504.03440](http://arxiv.org/abs/2504.03440)|null|
+|**2025-04-04**|**SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding**|Naoto Yokoya Team|[2504.03254](http://arxiv.org/abs/2504.03254)|null|
+|**2025-04-04**|**Seeing is Believing: Belief-Space Planning with Foundation Models as Uncertainty Estimators**|Lawson L. S. Wong Team|[2504.03245](http://arxiv.org/abs/2504.03245)|null|
+|**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Robby T. Tan Team|[2504.03193](http://arxiv.org/abs/2504.03193)|null|
+|**2025-04-04**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Zhengzhong Tu Team|[2504.03164](http://arxiv.org/abs/2504.03164)|null|
+|**2025-04-04**|**TokenFLEX: Unified VLM Training for Flexible Visual Tokens Inference**|Xianpeng Lang Team|[2504.03154](http://arxiv.org/abs/2504.03154)|null|
+|**2025-04-04**|**MORAL: A Multimodal Reinforcement Learning Framework for Decision Making in Autonomous Laboratories**|Arvind Ramanathan Team|[2504.03153](http://arxiv.org/abs/2504.03153)|null|
+|**2025-04-03**|**QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free Visual Document Understanding**|Bryan Wang Team|[2504.02971](http://arxiv.org/abs/2504.02971)|null|
 |**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Naoufel Werghi Team|[2504.02823](http://arxiv.org/abs/2504.02823)|null|
 |**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Zeynep Akata Team|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
 |**2025-04-03**|**Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence**|Serena Yeung-Levy Team|[2504.02799](http://arxiv.org/abs/2504.02799)|null|
@@ -109,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Dexterous Manipulation through Imitation Learning: A Survey**|Hong Zhang Team|[2504.03515](http://arxiv.org/abs/2504.03515)|null|
 |**2025-03-29**|**Dexterous Non-Prehensile Manipulation for Ungraspable Object via Extrinsic Dexterity**|Yuanpei Chen Team|[2503.23120](http://arxiv.org/abs/2503.23120)|null|
 |**2025-03-27**|**ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning**|Siyuan Huang Team|[2503.21860](http://arxiv.org/abs/2503.21860)|null|
 |**2025-03-25**|**G-DexGrasp: Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation**|Ruizhen Hu Team|[2503.19457](http://arxiv.org/abs/2503.19457)|null|
