@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -51,7 +51,7 @@ layout: default
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Thomas Wolf Team|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
 |**2025-04-07**|**A Reality Check of Vision-Language Pre-training in Radiology: Have We Progressed Using Text?**|Ismail Ben Ayed Team|[2504.05227](http://arxiv.org/abs/2504.05227)|null|
 |**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Wei Zhang Team|[2504.05225](http://arxiv.org/abs/2504.05225)|null|
-|**2025-04-07**|**A Taxonomy of Self-Handover**|Katsushi Ikeuchi Team|[2504.04939](http://arxiv.org/abs/2504.04939)|null|
+|**2025-04-08**|**A Taxonomy of Self-Handover**|Katsushi Ikeuchi Team|[2504.04939](http://arxiv.org/abs/2504.04939)|null|
 |**2025-04-07**|**SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models**|Lorenz Hufe Team|[2504.04893](http://arxiv.org/abs/2504.04893)|null|
 |**2025-04-07**|**Don't Lag, RAG: Training-Free Adversarial Detection Using RAG**|Ofer Hadar Team|[2504.04858](http://arxiv.org/abs/2504.04858)|null|
 |**2025-04-07**|**OCC-MLLM-CoT-Alpha: Towards Multi-stage Occlusion Recognition Based on Large Language Models via 3D-Aware Supervision and Chain-of-Thoughts Guidance**|Xinhan Di Team|[2504.04781](http://arxiv.org/abs/2504.04781)|null|
