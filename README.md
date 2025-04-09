@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface**|Rui Chen Team|[2504.06156](http://arxiv.org/abs/2504.06156)|null|
+|**2025-04-08**|**MAPLE: Encoding Dexterous Robotic Manipulation Priors Learned From Egocentric Videos**|Marc Pollefeys Team|[2504.06084](http://arxiv.org/abs/2504.06084)|null|
+|**2025-04-08**|**Learning-enhanced electronic skin for tactile sensing on deformable surface based on electrical impedance tomography**|Yunjie Yang Team|[2504.05987](http://arxiv.org/abs/2504.05987)|null|
+|**2025-04-08**|**Stratified Expert Cloning with Adaptive Selection for User Retention in Large-Scale Recommender Systems**|Yongqi Liu Team|[2504.05628](http://arxiv.org/abs/2504.05628)|null|
+|**2025-04-08**|**TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning**|Stephen Xia Team|[2504.05585](http://arxiv.org/abs/2504.05585)|null|
+|**2025-04-07**|**SPARK-Remote: A Cost-Effective System for Remote Bimanual Robot Teleoperation**|Karthik Desingh Team|[2504.05488](http://arxiv.org/abs/2504.05488)|null|
 |**2025-04-07**|**RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception**|Jie Song Team|[2504.05287](http://arxiv.org/abs/2504.05287)|null|
 |**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Wei Zhang Team|[2504.05225](http://arxiv.org/abs/2504.05225)|null|
 |**2025-04-07**|**Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms**|Hongrui Zhu Team|[2504.04991](http://arxiv.org/abs/2504.04991)|null|
@@ -56,6 +62,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yu-Gang Jiang Team|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
+|**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Panagiotis C. Petrantonakis Team|[2504.06010](http://arxiv.org/abs/2504.06010)|null|
+|**2025-04-08**|**Measuring Déjà vu Memorization Efficiently**|Kamalika Chaudhuri Team|[2504.05651](http://arxiv.org/abs/2504.05651)|null|
+|**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Navid Toosy Saidy Team|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
+|**2025-04-07**|**ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering**|Shafiq Joty Team|[2504.05506](http://arxiv.org/abs/2504.05506)|null|
+|**2025-04-07**|**Trust Through Transparency: Explainable Social Navigation for Autonomous Mobile Robots via Vision-Language Models**|Aliasghar Arab Team|[2504.05477](http://arxiv.org/abs/2504.05477)|null|
+|**2025-04-07**|**Taxonomy-Aware Evaluation of Vision-Language Models**|Stella Frank Team|[2504.05457](http://arxiv.org/abs/2504.05457)|null|
+|**2025-04-07**|**Probing the Visualization Literacy of Vision Language Models: the Good, the Bad, and the Ugly**|Anamaria Crisan Team|[2504.05445](http://arxiv.org/abs/2504.05445)|null|
 |**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Dimitrios Tzionas Team|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Thomas Wolf Team|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
 |**2025-04-07**|**A Reality Check of Vision-Language Pre-training in Radiology: Have We Progressed Using Text?**|Ismail Ben Ayed Team|[2504.05227](http://arxiv.org/abs/2504.05227)|null|
@@ -168,6 +182,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface**|Rui Chen Team|[2504.06156](http://arxiv.org/abs/2504.06156)|null|
 |**2025-04-06**|**DexTOG: Learning Task-Oriented Dexterous Grasp with Language**|Cewu Lu Team|[2504.04573](http://arxiv.org/abs/2504.04573)|null|
 |**2025-04-06**|**DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments**|Lin Shao Team|[2504.04516](http://arxiv.org/abs/2504.04516)|null|
 |**2025-04-05**|**ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning**|Robert K. Katzschmann Team|[2504.04259](http://arxiv.org/abs/2504.04259)|null|
