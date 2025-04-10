@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Anca Dragan Team|[2504.07091](http://arxiv.org/abs/2504.07091)|null|
+|**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Huazhe Xu Team|[2504.06961](http://arxiv.org/abs/2504.06961)|null|
+|**2025-04-09**|**Developing Modular Grasping and Manipulation Pipeline Infrastructure to Streamline Performance Benchmarking**|Holly Yanco Team|[2504.06819](http://arxiv.org/abs/2504.06819)|null|
+|**2025-04-09**|**Interactive Expressive Motion Generation Using Dynamic Movement Primitives**|Kai O. Arras Team|[2504.06735](http://arxiv.org/abs/2504.06735)|null|
+|**2025-04-09**|**Overcoming Dynamic Environments: A Hybrid Approach to Motion Planning for Manipulators**|Gavin Paul Team|[2504.06596](http://arxiv.org/abs/2504.06596)|null|
+|**2025-04-09**|**CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving**|Yanyong Zhang Team|[2504.06584](http://arxiv.org/abs/2504.06584)|null|
+|**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Tyler Fenstermaker Team|[2504.06538](http://arxiv.org/abs/2504.06538)|null|
 |**2025-04-08**|**ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface**|Rui Chen Team|[2504.06156](http://arxiv.org/abs/2504.06156)|null|
 |**2025-04-08**|**MAPLE: Encoding Dexterous Robotic Manipulation Priors Learned From Egocentric Videos**|Marc Pollefeys Team|[2504.06084](http://arxiv.org/abs/2504.06084)|null|
 |**2025-04-08**|**Learning-enhanced electronic skin for tactile sensing on deformable surface based on electrical impedance tomography**|Yunjie Yang Team|[2504.05987](http://arxiv.org/abs/2504.05987)|null|
@@ -53,6 +60,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation**|Marzieh Fadaee Team|[2504.07072](http://arxiv.org/abs/2504.07072)|null|
+|**2025-04-09**|**Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition**|Aythami Morales Team|[2504.06925](http://arxiv.org/abs/2504.06925)|null|
+|**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Hesheng Wang Team|[2504.06863](http://arxiv.org/abs/2504.06863)|null|
+|**2025-04-09**|**ZIP: An Efficient Zeroth-order Prompt Tuning for Black-box Vision-Language Models**|Namhoon Lee Team|[2504.06838](http://arxiv.org/abs/2504.06838)|null|
+|**2025-04-09**|**LVC: A Lightweight Compression Framework for Enhancing VLMs in Long Video Understanding**|Bo XU Team|[2504.06835](http://arxiv.org/abs/2504.06835)|null|
+|**2025-04-08**|**PromptHMR: Promptable Human Mesh Recovery**|Muhammed Kocabas Team|[2504.06397](http://arxiv.org/abs/2504.06397)|null|
+|**2025-04-08**|**SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation**|Zhaozheng Yin Team|[2504.06389](http://arxiv.org/abs/2504.06389)|null|
 |**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yu-Gang Jiang Team|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
 |**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Panagiotis C. Petrantonakis Team|[2504.06010](http://arxiv.org/abs/2504.06010)|null|
 |**2025-04-08**|**Measuring Déjà vu Memorization Efficiently**|Kamalika Chaudhuri Team|[2504.05651](http://arxiv.org/abs/2504.05651)|null|
@@ -114,6 +128,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Tyler Fenstermaker Team|[2504.06538](http://arxiv.org/abs/2504.06538)|null|
 |**2025-04-02**|**Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning**|Roozbeh Mottaghi Team|[2504.00907](http://arxiv.org/abs/2504.00907)|null|
 |**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Alois C. Knoll Team|[2503.23463](http://arxiv.org/abs/2503.23463)|**[link](https://github.com/DriveVLA/OpenDriveVLA)**|
 |**2025-03-27**|**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**|Tsung-Yi Lin Team|[2503.22020](http://arxiv.org/abs/2503.22020)|null|
