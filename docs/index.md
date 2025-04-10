@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -25,7 +25,7 @@ layout: default
 |**2025-04-06**|**DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments**|Lin Shao Team|[2504.04516](http://arxiv.org/abs/2504.04516)|null|
 |**2025-04-06**|**Human-Level Competitive Pokémon via Scalable Offline Reinforcement Learning with Transformers**|Yuke Zhu Team|[2504.04395](http://arxiv.org/abs/2504.04395)|null|
 |**2025-04-05**|**ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning**|Robert K. Katzschmann Team|[2504.04259](http://arxiv.org/abs/2504.04259)|null|
-|**2025-04-05**|**Learning about the Physical World through Analytic Concepts**|Cewu Lu Team|[2504.04170](http://arxiv.org/abs/2504.04170)|null|
+|**2025-04-09**|**Digital Gene: Learning about the Physical World through Analytic Concepts**|Cewu Lu Team|[2504.04170](http://arxiv.org/abs/2504.04170)|null|
 |**2025-04-04**|**Dexterous Manipulation through Imitation Learning: A Survey**|Hong Zhang Team|[2504.03515](http://arxiv.org/abs/2504.03515)|null|
 |**2025-04-04**|**GraphSeg: Segmented 3D Representations via Graph Edge Addition and Contraction**|Weiming Zhi Team|[2504.03129](http://arxiv.org/abs/2504.03129)|null|
 |**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Abhishek Gupta Team|[2504.02792](http://arxiv.org/abs/2504.02792)|null|
