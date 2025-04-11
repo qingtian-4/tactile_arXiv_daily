@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Echo: An Open-Source, Low-Cost Teleoperation System with Force Feedback for Dataset Collection in Robot Learning**|Dzmitry Tsetserukou Team|[2504.07939](http://arxiv.org/abs/2504.07939)|null|
+|**2025-04-10**|**TOCALib: Optimal control library with interpolation for bimanual manipulation and obstacles avoidance**|Aleksandr Panov Team|[2504.07708](http://arxiv.org/abs/2504.07708)|null|
+|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Hesheng Wang Team|[2504.07375](http://arxiv.org/abs/2504.07375)|null|
+|**2025-04-09**|**Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments**|Manoj Karkee Team|[2504.07309](http://arxiv.org/abs/2504.07309)|null|
 |**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Anca Dragan Team|[2504.07091](http://arxiv.org/abs/2504.07091)|null|
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Huazhe Xu Team|[2504.06961](http://arxiv.org/abs/2504.06961)|null|
 |**2025-04-09**|**Developing Modular Grasping and Manipulation Pipeline Infrastructure to Streamline Performance Benchmarking**|Holly Yanco Team|[2504.06819](http://arxiv.org/abs/2504.06819)|null|
@@ -69,6 +73,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Feng Zhao Team|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
+|**2025-04-10**|**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**|Yuhao Chen Team|[2504.07867](http://arxiv.org/abs/2504.07867)|null|
+|**2025-04-10**|**CollEX -- A Multimodal Agentic RAG System Enabling Interactive Exploration of Scientific Collections**|Chris Biemann Team|[2504.07643](http://arxiv.org/abs/2504.07643)|null|
+|**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Tiancheng Zhao Team|[2504.07615](http://arxiv.org/abs/2504.07615)|null|
+|**2025-04-10**|**TokenFocus-VQA: Enhancing Text-to-Image Alignment with Position-Aware Focus and Multi-Perspective Aggregations on LVLMs**|Xuezhi Cao Team|[2504.07556](http://arxiv.org/abs/2504.07556)|null|
+|**2025-04-10**|**Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models**|Xian-Sheng Hua Team|[2504.07521](http://arxiv.org/abs/2504.07521)|null|
+|**2025-04-10**|**Kimi-VL Technical Report**|Ziwei Chen Team|[2504.07491](http://arxiv.org/abs/2504.07491)|null|
+|**2025-04-09**|**Perception in Reflection**|Vishal M. Patel Team|[2504.07165](http://arxiv.org/abs/2504.07165)|null|
 |**2025-04-09**|**Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation**|Marzieh Fadaee Team|[2504.07072](http://arxiv.org/abs/2504.07072)|null|
 |**2025-04-09**|**Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition**|Aythami Morales Team|[2504.06925](http://arxiv.org/abs/2504.06925)|null|
 |**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Hesheng Wang Team|[2504.06863](http://arxiv.org/abs/2504.06863)|null|
@@ -197,6 +209,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Functionally graded keratin facilitates tactile sensing in elephant whiskers**|Katherine J. Kuchenbecker Team|[2504.07143](http://arxiv.org/abs/2504.07143)|null|
 |**2025-04-08**|**ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface**|Rui Chen Team|[2504.06156](http://arxiv.org/abs/2504.06156)|null|
 |**2025-04-06**|**DexTOG: Learning Task-Oriented Dexterous Grasp with Language**|Cewu Lu Team|[2504.04573](http://arxiv.org/abs/2504.04573)|null|
 |**2025-04-06**|**DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments**|Lin Shao Team|[2504.04516](http://arxiv.org/abs/2504.04516)|null|
