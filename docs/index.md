@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -71,7 +71,7 @@ layout: default
 |**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Panagiotis C. Petrantonakis Team|[2504.06010](http://arxiv.org/abs/2504.06010)|null|
 |**2025-04-08**|**Measuring Déjà vu Memorization Efficiently**|Kamalika Chaudhuri Team|[2504.05651](http://arxiv.org/abs/2504.05651)|null|
 |**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Navid Toosy Saidy Team|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
-|**2025-04-07**|**ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering**|Shafiq Joty Team|[2504.05506](http://arxiv.org/abs/2504.05506)|null|
+|**2025-04-10**|**ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering**|Shafiq Joty Team|[2504.05506](http://arxiv.org/abs/2504.05506)|null|
 |**2025-04-07**|**Trust Through Transparency: Explainable Social Navigation for Autonomous Mobile Robots via Vision-Language Models**|Aliasghar Arab Team|[2504.05477](http://arxiv.org/abs/2504.05477)|null|
 |**2025-04-07**|**Taxonomy-Aware Evaluation of Vision-Language Models**|Stella Frank Team|[2504.05457](http://arxiv.org/abs/2504.05457)|null|
 |**2025-04-07**|**Probing the Visualization Literacy of Vision Language Models: the Good, the Bad, and the Ugly**|Anamaria Crisan Team|[2504.05445](http://arxiv.org/abs/2504.05445)|null|
