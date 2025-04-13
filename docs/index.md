@@ -11,14 +11,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-10**|**Echo: An Open-Source, Low-Cost Teleoperation System with Force Feedback for Dataset Collection in Robot Learning**|Dzmitry Tsetserukou Team|[2504.07939](http://arxiv.org/abs/2504.07939)|null|
 |**2025-04-10**|**TOCALib: Optimal control library with interpolation for bimanual manipulation and obstacles avoidance**|Aleksandr Panov Team|[2504.07708](http://arxiv.org/abs/2504.07708)|null|
-|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Hesheng Wang Team|[2504.07375](http://arxiv.org/abs/2504.07375)|null|
+|**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Hesheng Wang Team|[2504.07375](http://arxiv.org/abs/2504.07375)|**[link](https://github.com/irmvlab/mmtwin)**|
 |**2025-04-09**|**Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments**|Manoj Karkee Team|[2504.07309](http://arxiv.org/abs/2504.07309)|null|
 |**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Anca Dragan Team|[2504.07091](http://arxiv.org/abs/2504.07091)|null|
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Huazhe Xu Team|[2504.06961](http://arxiv.org/abs/2504.06961)|null|
 |**2025-04-09**|**Developing Modular Grasping and Manipulation Pipeline Infrastructure to Streamline Performance Benchmarking**|Holly Yanco Team|[2504.06819](http://arxiv.org/abs/2504.06819)|null|
 |**2025-04-09**|**Interactive Expressive Motion Generation Using Dynamic Movement Primitives**|Kai O. Arras Team|[2504.06735](http://arxiv.org/abs/2504.06735)|null|
 |**2025-04-09**|**Overcoming Dynamic Environments: A Hybrid Approach to Motion Planning for Manipulators**|Gavin Paul Team|[2504.06596](http://arxiv.org/abs/2504.06596)|null|
-|**2025-04-09**|**CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving**|Yanyong Zhang Team|[2504.06584](http://arxiv.org/abs/2504.06584)|null|
+|**2025-04-09**|**CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving**|Yanyong Zhang Team|[2504.06584](http://arxiv.org/abs/2504.06584)|**[link](https://github.com/alniyatrui/cafe-ad)**|
 |**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Tyler Fenstermaker Team|[2504.06538](http://arxiv.org/abs/2504.06538)|null|
 |**2025-04-08**|**ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface**|Rui Chen Team|[2504.06156](http://arxiv.org/abs/2504.06156)|null|
 |**2025-04-08**|**MAPLE: Encoding Dexterous Robotic Manipulation Priors Learned From Egocentric Videos**|Marc Pollefeys Team|[2504.06084](http://arxiv.org/abs/2504.06084)|null|
@@ -27,7 +27,7 @@ layout: default
 |**2025-04-08**|**TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning**|Stephen Xia Team|[2504.05585](http://arxiv.org/abs/2504.05585)|null|
 |**2025-04-07**|**SPARK-Remote: A Cost-Effective System for Remote Bimanual Robot Teleoperation**|Karthik Desingh Team|[2504.05488](http://arxiv.org/abs/2504.05488)|null|
 |**2025-04-07**|**RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception**|Jie Song Team|[2504.05287](http://arxiv.org/abs/2504.05287)|null|
-|**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Wei Zhang Team|[2504.05225](http://arxiv.org/abs/2504.05225)|null|
+|**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Wei Zhang Team|[2504.05225](http://arxiv.org/abs/2504.05225)|**[link](https://github.com/ppjmchen/vlmpc)**|
 |**2025-04-07**|**Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms**|Hongrui Zhu Team|[2504.04991](http://arxiv.org/abs/2504.04991)|null|
 |**2025-04-07**|**Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion**|Fengyu Zhou Team|[2504.04795](http://arxiv.org/abs/2504.04795)|null|
 |**2025-04-06**|**Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning**|Katherine Driggs-Campbell Team|[2504.04612](http://arxiv.org/abs/2504.04612)|null|
@@ -67,10 +67,10 @@ layout: default
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Feng Zhao Team|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
 |**2025-04-10**|**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**|Yuhao Chen Team|[2504.07867](http://arxiv.org/abs/2504.07867)|null|
 |**2025-04-10**|**CollEX -- A Multimodal Agentic RAG System Enabling Interactive Exploration of Scientific Collections**|Chris Biemann Team|[2504.07643](http://arxiv.org/abs/2504.07643)|null|
-|**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Tiancheng Zhao Team|[2504.07615](http://arxiv.org/abs/2504.07615)|null|
+|**2025-04-10**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Tiancheng Zhao Team|[2504.07615](http://arxiv.org/abs/2504.07615)|**[link](https://github.com/om-ai-lab/vlm-r1)**|
 |**2025-04-10**|**TokenFocus-VQA: Enhancing Text-to-Image Alignment with Position-Aware Focus and Multi-Perspective Aggregations on LVLMs**|Xuezhi Cao Team|[2504.07556](http://arxiv.org/abs/2504.07556)|null|
-|**2025-04-10**|**Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models**|Xian-Sheng Hua Team|[2504.07521](http://arxiv.org/abs/2504.07521)|null|
-|**2025-04-10**|**Kimi-VL Technical Report**|Ziwei Chen Team|[2504.07491](http://arxiv.org/abs/2504.07491)|null|
+|**2025-04-10**|**Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models**|Xian-Sheng Hua Team|[2504.07521](http://arxiv.org/abs/2504.07521)|**[link](https://github.com/lum1104/eibench)**|
+|**2025-04-10**|**Kimi-VL Technical Report**|Ziwei Chen Team|[2504.07491](http://arxiv.org/abs/2504.07491)|**[link](https://github.com/moonshotai/kimi-vl)**|
 |**2025-04-09**|**Perception in Reflection**|Vishal M. Patel Team|[2504.07165](http://arxiv.org/abs/2504.07165)|null|
 |**2025-04-09**|**Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation**|Marzieh Fadaee Team|[2504.07072](http://arxiv.org/abs/2504.07072)|null|
 |**2025-04-09**|**Are Vision-Language Models Ready for Dietary Assessment? Exploring the Next Frontier in AI-Powered Food Image Recognition**|Aythami Morales Team|[2504.06925](http://arxiv.org/abs/2504.06925)|null|
@@ -80,7 +80,7 @@ layout: default
 |**2025-04-08**|**PromptHMR: Promptable Human Mesh Recovery**|Muhammed Kocabas Team|[2504.06397](http://arxiv.org/abs/2504.06397)|null|
 |**2025-04-08**|**SemiDAViL: Semi-supervised Domain Adaptation with Vision-Language Guidance for Semantic Segmentation**|Zhaozheng Yin Team|[2504.06389](http://arxiv.org/abs/2504.06389)|null|
 |**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yu-Gang Jiang Team|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
-|**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Panagiotis C. Petrantonakis Team|[2504.06010](http://arxiv.org/abs/2504.06010)|null|
+|**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Panagiotis C. Petrantonakis Team|[2504.06010](http://arxiv.org/abs/2504.06010)|**[link](https://github.com/stevejpapad/miscaptioned-image-reconstruction)**|
 |**2025-04-08**|**Measuring Déjà vu Memorization Efficiently**|Kamalika Chaudhuri Team|[2504.05651](http://arxiv.org/abs/2504.05651)|null|
 |**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Navid Toosy Saidy Team|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
 |**2025-04-10**|**ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering**|Shafiq Joty Team|[2504.05506](http://arxiv.org/abs/2504.05506)|null|
