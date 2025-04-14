@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments**|Roberto Martín-Martín Team|[2504.08706](http://arxiv.org/abs/2504.08706)|null|
+|**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rania Rayyes Team|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
 |**2025-04-10**|**Echo: An Open-Source, Low-Cost Teleoperation System with Force Feedback for Dataset Collection in Robot Learning**|Dzmitry Tsetserukou Team|[2504.07939](http://arxiv.org/abs/2504.07939)|null|
 |**2025-04-10**|**TOCALib: Optimal control library with interpolation for bimanual manipulation and obstacles avoidance**|Aleksandr Panov Team|[2504.07708](http://arxiv.org/abs/2504.07708)|null|
 |**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Hesheng Wang Team|[2504.07375](http://arxiv.org/abs/2504.07375)|**[link](https://github.com/irmvlab/mmtwin)**|
@@ -73,6 +75,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**AstroLLaVA: towards the unification of astronomical data and natural language**|Dimitrios Tanoglidis Team|[2504.08583](http://arxiv.org/abs/2504.08583)|null|
+|**2025-04-11**|**EO-VLM: VLM-Guided Energy Overload Attacks on Vision Models**|Jinwoo Kim Team|[2504.08205](http://arxiv.org/abs/2504.08205)|null|
+|**2025-04-10**|**Investigating Vision-Language Model for Point Cloud-based Vehicle Classification**|Camille Kamga Team|[2504.08154](http://arxiv.org/abs/2504.08154)|null|
+|**2025-04-10**|**The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search**|David Ha Team|[2504.08066](http://arxiv.org/abs/2504.08066)|null|
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Feng Zhao Team|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
 |**2025-04-10**|**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**|Yuhao Chen Team|[2504.07867](http://arxiv.org/abs/2504.07867)|null|
 |**2025-04-10**|**CollEX -- A Multimodal Agentic RAG System Enabling Interactive Exploration of Scientific Collections**|Chris Biemann Team|[2504.07643](http://arxiv.org/abs/2504.07643)|null|
@@ -179,6 +185,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Spectral Normalization for Lipschitz-Constrained Policies on Learning Humanoid Locomotion**|Jaeheung Park Team|[2504.08246](http://arxiv.org/abs/2504.08246)|null|
 |**2025-04-07**|**MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond**|Xun Cao Team|[2504.05046](http://arxiv.org/abs/2504.05046)|null|
 |**2025-04-07**|**A High-Force Gripper with Embedded Multimodal Sensing for Powerful and Perception Driven Grasping**|Nikos G. Tsagarakis Team|[2504.04970](http://arxiv.org/abs/2504.04970)|null|
 |**2025-04-06**|**Public speech recognition transcripts as a configuring parameter**|Christian Licoppe Team|[2504.04488](http://arxiv.org/abs/2504.04488)|null|
