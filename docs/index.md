@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -171,7 +171,7 @@ layout: default
 |**2025-04-06**|**Public speech recognition transcripts as a configuring parameter**|Christian Licoppe Team|[2504.04488](http://arxiv.org/abs/2504.04488)|null|
 |**2025-04-02**|**The Social Life of Industrial Arms: How Arousal and Attention Shape Human-Robot Interaction**|Matthew K. X. J Pan Team|[2504.01260](http://arxiv.org/abs/2504.01260)|null|
 |**2025-04-01**|**Extended Hybrid Zero Dynamics for Bipedal Walking of the Knee-less Robot SLIDER**|Petar Kormushev Team|[2504.01165](http://arxiv.org/abs/2504.01165)|null|
-|**2025-04-01**|**Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs**|Masaya Kinoshita Team|[2504.00614](http://arxiv.org/abs/2504.00614)|null|
+|**2025-04-11**|**Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs**|Masaya Kinoshita Team|[2504.00614](http://arxiv.org/abs/2504.00614)|null|
 |**2025-03-30**|**Exploring GPT-4 for Robotic Agent Strategy with Real-Time State Feedback and a Reactive Behaviour Framework**|Ysobel Sims Team|[2503.23601](http://arxiv.org/abs/2503.23601)|null|
 |**2025-03-28**|**Control of Humanoid Robots with Parallel Mechanisms using Kinematic Actuation Models**|Nicolas Mansard Team|[2503.22459](http://arxiv.org/abs/2503.22459)|null|
 |**2025-03-28**|**FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation**|Debin Zhao Team|[2503.22249](http://arxiv.org/abs/2503.22249)|null|
