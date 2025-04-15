@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning**|Guanya Shi Team|[2504.10334](http://arxiv.org/abs/2504.10334)|null|
+|**2025-04-14**|**Look-to-Touch: A Vision-Enhanced Proximity and Tactile Sensor for Distance and Geometry Perception in Robotic Manipulation**|Guoying Gu Team|[2504.10280](http://arxiv.org/abs/2504.10280)|null|
+|**2025-04-14**|**Prior Does Matter: Visual Navigation via Denoising Diffusion Bridge Models**|Hui Cheng Team|[2504.10041](http://arxiv.org/abs/2504.10041)|null|
+|**2025-04-14**|**Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization**|Wei Sui Team|[2504.09927](http://arxiv.org/abs/2504.09927)|null|
+|**2025-04-12**|**Compliant Explicit Reference Governor for Contact Friendly Robotic Manipulators**|Marco M. Nicotra Team|[2504.09188](http://arxiv.org/abs/2504.09188)|null|
 |**2025-04-11**|**BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments**|Roberto Martín-Martín Team|[2504.08706](http://arxiv.org/abs/2504.08706)|null|
 |**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rania Rayyes Team|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
 |**2025-04-10**|**Echo: An Open-Source, Low-Cost Teleoperation System with Force Feedback for Dataset Collection in Robot Learning**|Dzmitry Tsetserukou Team|[2504.07939](http://arxiv.org/abs/2504.07939)|null|
@@ -66,6 +71,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Jiashi Feng Team|[2504.10465](http://arxiv.org/abs/2504.10465)|null|
+|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Run Luo Team|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-14**|**SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model**|Yanning Zhang Team|[2504.10320](http://arxiv.org/abs/2504.10320)|null|
+|**2025-04-14**|**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**|Junxian He Team|[2504.10127](http://arxiv.org/abs/2504.10127)|null|
+|**2025-04-14**|**AGO: Adaptive Grounding for Open World 3D Occupancy Prediction**|Andreas Zell Team|[2504.10117](http://arxiv.org/abs/2504.10117)|null|
+|**2025-04-14**|**CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography**|Jun-Cheng Chen Team|[2504.10090](http://arxiv.org/abs/2504.10090)|null|
+|**2025-04-14**|**Summarization of Multimodal Presentations with Vision-Language Models: Study of the Effect of Modalities and Structure**|Frédéric Dufaux Team|[2504.10049](http://arxiv.org/abs/2504.10049)|null|
+|**2025-04-14**|**Aligning Anime Video Generation with Human Feedback**|Zuxuan Wu Team|[2504.10044](http://arxiv.org/abs/2504.10044)|null|
+|**2025-04-14**|**KeyMPs: One-Shot Vision-Language Guided Motion Generation by Sequencing DMPs for Occlusion-Rich Tasks**|Takamitsu Matsubara Team|[2504.10011](http://arxiv.org/abs/2504.10011)|null|
+|**2025-04-14**|**GenTe: Generative Real-world Terrains for General Legged Robot Locomotion Control**|Xiaoqiang Ji Team|[2504.09997](http://arxiv.org/abs/2504.09997)|null|
+|**2025-04-14**|**Resampling Benchmark for Efficient Comprehensive Evaluation of Large Vision-Language Models**|Keisuke Ozawa Team|[2504.09979](http://arxiv.org/abs/2504.09979)|null|
+|**2025-04-14**|**Can VLMs Assess Similarity Between Graph Visualizations?**|Jinwook Seo Team|[2504.09859](http://arxiv.org/abs/2504.09859)|null|
+|**2025-04-14**|**VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents**|Jun Suzuki Team|[2504.09795](http://arxiv.org/abs/2504.09795)|null|
+|**2025-04-13**|**A Survey on Efficient Vision-Language Models**|Nirmalya Roy Team|[2504.09724](http://arxiv.org/abs/2504.09724)|null|
+|**2025-04-13**|**Metropolis-Hastings Captioning Game: Knowledge Fusion of Vision Language Models via Decentralized Bayesian Inference**|Tadahiro Taniguchi Team|[2504.09620](http://arxiv.org/abs/2504.09620)|null|
+|**2025-04-13**|**DualPrompt-MedCap: A Dual-Prompt Enhanced Approach for Medical Image Captioning**|Mukesh Prasad Team|[2504.09598](http://arxiv.org/abs/2504.09598)|null|
+|**2025-04-13**|**Vision-Language Model for Object Detection and Segmentation: A Review and Evaluation**|Yunhong Wang Team|[2504.09480](http://arxiv.org/abs/2504.09480)|null|
+|**2025-04-13**|**Identity-Aware Vision-Language Model for Explainable Face Forgery Detection**|Yu-Gang Jiang Team|[2504.09439](http://arxiv.org/abs/2504.09439)|null|
+|**2025-04-13**|**BabyVLM: Data-Efficient Pretraining of VLMs Inspired by Infant Learning**|Boqing Gong Team|[2504.09426](http://arxiv.org/abs/2504.09426)|null|
+|**2025-04-12**|**PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks**|Yang Liu Team|[2504.09258](http://arxiv.org/abs/2504.09258)|null|
 |**2025-04-11**|**AstroLLaVA: towards the unification of astronomical data and natural language**|Dimitrios Tanoglidis Team|[2504.08583](http://arxiv.org/abs/2504.08583)|null|
 |**2025-04-11**|**EO-VLM: VLM-Guided Energy Overload Attacks on Vision Models**|Jinwoo Kim Team|[2504.08205](http://arxiv.org/abs/2504.08205)|null|
 |**2025-04-10**|**Investigating Vision-Language Model for Point Cloud-based Vehicle Classification**|Camille Kamga Team|[2504.08154](http://arxiv.org/abs/2504.08154)|null|
@@ -146,11 +171,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Run Luo Team|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Tyler Fenstermaker Team|[2504.06538](http://arxiv.org/abs/2504.06538)|null|
 |**2025-04-02**|**Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning**|Roozbeh Mottaghi Team|[2504.00907](http://arxiv.org/abs/2504.00907)|null|
 |**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Alois C. Knoll Team|[2503.23463](http://arxiv.org/abs/2503.23463)|**[link](https://github.com/DriveVLA/OpenDriveVLA)**|
 |**2025-03-27**|**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**|Tsung-Yi Lin Team|[2503.22020](http://arxiv.org/abs/2503.22020)|null|
-|**2025-03-26**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Shanghang Zhang Team|[2503.20384](http://arxiv.org/abs/2503.20384)|null|
+|**2025-04-14**|**MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation**|Shanghang Zhang Team|[2503.20384](http://arxiv.org/abs/2503.20384)|null|
 |**2025-03-25**|**Gemini Robotics: Bringing AI into the Physical World**|Yuxiang Zhou Team|[2503.20020](http://arxiv.org/abs/2503.20020)|null|
 |**2025-03-25**|**Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy**|Yuntao Chen Team|[2503.19757](http://arxiv.org/abs/2503.19757)|null|
 |**2025-03-25**|**DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data**|Lin Ma Team|[2503.19516](http://arxiv.org/abs/2503.19516)|null|
@@ -172,6 +198,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain**|Zhengtao Zhang Team|[2504.10390](http://arxiv.org/abs/2504.10390)|null|
+|**2025-04-14**|**PreCi: Pretraining and Continual Improvement of Humanoid Locomotion via Model-Assumption-Based Regularization**|Sehoon Ha Team|[2504.09833](http://arxiv.org/abs/2504.09833)|null|
+|**2025-04-13**|**Embodied Chain of Action Reasoning with Multi-Modal Foundation Model for Humanoid Loco-manipulation**|Yi Fang Team|[2504.09532](http://arxiv.org/abs/2504.09532)|null|
 |**2025-04-11**|**Spectral Normalization for Lipschitz-Constrained Policies on Learning Humanoid Locomotion**|Jaeheung Park Team|[2504.08246](http://arxiv.org/abs/2504.08246)|null|
 |**2025-04-07**|**MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond**|Xun Cao Team|[2504.05046](http://arxiv.org/abs/2504.05046)|null|
 |**2025-04-07**|**A High-Force Gripper with Embedded Multimodal Sensing for Powerful and Perception Driven Grasping**|Nikos G. Tsagarakis Team|[2504.04970](http://arxiv.org/abs/2504.04970)|null|
@@ -201,6 +230,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Look-to-Touch: A Vision-Enhanced Proximity and Tactile Sensor for Distance and Geometry Perception in Robotic Manipulation**|Guoying Gu Team|[2504.10280](http://arxiv.org/abs/2504.10280)|null|
 |**2025-04-08**|**Functionally graded keratin facilitates tactile sensing in elephant whiskers**|Katherine J. Kuchenbecker Team|[2504.07143](http://arxiv.org/abs/2504.07143)|null|
 |**2025-04-08**|**ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface**|Rui Chen Team|[2504.06156](http://arxiv.org/abs/2504.06156)|null|
 |**2025-04-06**|**DexTOG: Learning Task-Oriented Dexterous Grasp with Language**|Cewu Lu Team|[2504.04573](http://arxiv.org/abs/2504.04573)|null|
