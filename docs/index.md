@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks**|Suryansh Kumar Team|[2504.11247](http://arxiv.org/abs/2504.11247)|null|
+|**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Yi Zhu Team|[2504.11230](http://arxiv.org/abs/2504.11230)|null|
+|**2025-04-15**|**Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning**|Daniela Rus Team|[2504.10783](http://arxiv.org/abs/2504.10783)|null|
+|**2025-04-14**|**Improving In-Context Learning with Reasoning Distillation**|Xiang Gao Team|[2504.10647](http://arxiv.org/abs/2504.10647)|null|
 |**2025-04-14**|**Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning**|Guanya Shi Team|[2504.10334](http://arxiv.org/abs/2504.10334)|null|
 |**2025-04-14**|**Look-to-Touch: A Vision-Enhanced Proximity and Tactile Sensor for Distance and Geometry Perception in Robotic Manipulation**|Guoying Gu Team|[2504.10280](http://arxiv.org/abs/2504.10280)|null|
 |**2025-04-14**|**Prior Does Matter: Visual Navigation via Denoising Diffusion Bridge Models**|Hui Cheng Team|[2504.10041](http://arxiv.org/abs/2504.10041)|null|
@@ -71,10 +75,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**From Gaze to Insight: Bridging Human Visual Attention and Vision Language Model Explanation for Weakly-Supervised Medical Image Segmentation**|Jungong Han Team|[2504.11368](http://arxiv.org/abs/2504.11368)|null|
+|**2025-04-15**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Yan Lu Team|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
+|**2025-04-15**|**R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning**|Ran He Team|[2504.11195](http://arxiv.org/abs/2504.11195)|null|
+|**2025-04-15**|**Benchmarking Vision Language Models on German Factual Data**|Vincent Tischler Team|[2504.11108](http://arxiv.org/abs/2504.11108)|null|
+|**2025-04-15**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Gongshen Liu Team|[2504.11101](http://arxiv.org/abs/2504.11101)|null|
+|**2025-04-15**|**QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models**|Yu Wang Team|[2504.11038](http://arxiv.org/abs/2504.11038)|null|
+|**2025-04-15**|**Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**|Ross Greer Team|[2504.10873](http://arxiv.org/abs/2504.10873)|null|
+|**2025-04-15**|**LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation**|Mohsen Imani Team|[2504.10854](http://arxiv.org/abs/2504.10854)|null|
+|**2025-04-15**|**Enhancing Features in Long-tailed Data Using Large Vision Mode**|Xuesong Li Team|[2504.10852](http://arxiv.org/abs/2504.10852)|null|
+|**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Lifeng Zhou Team|[2504.10757](http://arxiv.org/abs/2504.10757)|null|
+|**2025-04-14**|**AgMMU: A Comprehensive Agricultural Multimodal Understanding and Reasoning Benchmark**|Yu-Xiong Wang Team|[2504.10568](http://arxiv.org/abs/2504.10568)|null|
 |**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Jiashi Feng Team|[2504.10465](http://arxiv.org/abs/2504.10465)|null|
-|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Run Luo Team|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-15**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Run Luo Team|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-14**|**SlowFastVAD: Video Anomaly Detection via Integrating Simple Detector and RAG-Enhanced Vision-Language Model**|Yanning Zhang Team|[2504.10320](http://arxiv.org/abs/2504.10320)|null|
-|**2025-04-14**|**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**|Junxian He Team|[2504.10127](http://arxiv.org/abs/2504.10127)|null|
+|**2025-04-15**|**Breaking the Data Barrier -- Building GUI Agents Through Task Generalization**|Junxian He Team|[2504.10127](http://arxiv.org/abs/2504.10127)|null|
 |**2025-04-14**|**AGO: Adaptive Grounding for Open World 3D Occupancy Prediction**|Andreas Zell Team|[2504.10117](http://arxiv.org/abs/2504.10117)|null|
 |**2025-04-14**|**CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography**|Jun-Cheng Chen Team|[2504.10090](http://arxiv.org/abs/2504.10090)|null|
 |**2025-04-14**|**Summarization of Multimodal Presentations with Vision-Language Models: Study of the Effect of Modalities and Structure**|Frédéric Dufaux Team|[2504.10049](http://arxiv.org/abs/2504.10049)|null|
@@ -171,7 +186,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Run Luo Team|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-15**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Run Luo Team|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Tyler Fenstermaker Team|[2504.06538](http://arxiv.org/abs/2504.06538)|null|
 |**2025-04-02**|**Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning**|Roozbeh Mottaghi Team|[2504.00907](http://arxiv.org/abs/2504.00907)|null|
 |**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Alois C. Knoll Team|[2503.23463](http://arxiv.org/abs/2503.23463)|**[link](https://github.com/DriveVLA/OpenDriveVLA)**|
