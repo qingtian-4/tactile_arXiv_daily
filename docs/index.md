@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -20,7 +20,7 @@ layout: default
 |**2025-04-10**|**TOCALib: Optimal control library with interpolation for bimanual manipulation and obstacles avoidance**|Aleksandr Panov Team|[2504.07708](http://arxiv.org/abs/2504.07708)|null|
 |**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Hesheng Wang Team|[2504.07375](http://arxiv.org/abs/2504.07375)|**[link](https://github.com/irmvlab/mmtwin)**|
 |**2025-04-09**|**Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments**|Manoj Karkee Team|[2504.07309](http://arxiv.org/abs/2504.07309)|null|
-|**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Anca Dragan Team|[2504.07091](http://arxiv.org/abs/2504.07091)|null|
+|**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Anca Dragan Team|[2504.07091](http://arxiv.org/abs/2504.07091)|**[link](https://github.com/cassidylaidlaw/minecraft-building-assistance-game)**|
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Huazhe Xu Team|[2504.06961](http://arxiv.org/abs/2504.06961)|null|
 |**2025-04-09**|**Developing Modular Grasping and Manipulation Pipeline Infrastructure to Streamline Performance Benchmarking**|Holly Yanco Team|[2504.06819](http://arxiv.org/abs/2504.06819)|null|
 |**2025-04-09**|**Interactive Expressive Motion Generation Using Dynamic Movement Primitives**|Kai O. Arras Team|[2504.06735](http://arxiv.org/abs/2504.06735)|null|
