@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -76,10 +76,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-15**|**From Gaze to Insight: Bridging Human Visual Attention and Vision Language Model Explanation for Weakly-Supervised Medical Image Segmentation**|Jungong Han Team|[2504.11368](http://arxiv.org/abs/2504.11368)|null|
-|**2025-04-15**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Yan Lu Team|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
+|**2025-04-16**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Yan Lu Team|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
 |**2025-04-15**|**R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning**|Ran He Team|[2504.11195](http://arxiv.org/abs/2504.11195)|null|
 |**2025-04-15**|**Benchmarking Vision Language Models on German Factual Data**|Vincent Tischler Team|[2504.11108](http://arxiv.org/abs/2504.11108)|null|
-|**2025-04-15**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Gongshen Liu Team|[2504.11101](http://arxiv.org/abs/2504.11101)|null|
+|**2025-04-16**|**Consensus Entropy: Harnessing Multi-VLM Agreement for Self-Verifying and Self-Improving OCR**|Gongshen Liu Team|[2504.11101](http://arxiv.org/abs/2504.11101)|null|
 |**2025-04-15**|**QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models**|Yu Wang Team|[2504.11038](http://arxiv.org/abs/2504.11038)|null|
 |**2025-04-15**|**Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**|Ross Greer Team|[2504.10873](http://arxiv.org/abs/2504.10873)|null|
 |**2025-04-15**|**LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation**|Mohsen Imani Team|[2504.10854](http://arxiv.org/abs/2504.10854)|null|
