@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Raluca Georgescu Team|[2504.12299](http://arxiv.org/abs/2504.12299)|null|
+|**2025-04-16**|**Towards Forceful Robotic Foundation Models: a Literature Survey**|Nikolaus Correll Team|[2504.11827](http://arxiv.org/abs/2504.11827)|null|
+|**2025-04-14**|**Toward Aligning Human and Robot Actions via Multi-Modal Demonstration Learning**|Fei Liu Team|[2504.11493](http://arxiv.org/abs/2504.11493)|null|
 |**2025-04-15**|**Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks**|Suryansh Kumar Team|[2504.11247](http://arxiv.org/abs/2504.11247)|null|
 |**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Yi Zhu Team|[2504.11230](http://arxiv.org/abs/2504.11230)|null|
 |**2025-04-15**|**Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning**|Daniela Rus Team|[2504.10783](http://arxiv.org/abs/2504.10783)|null|
@@ -75,6 +78,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**FLIP Reasoning Challenge**|Roger Wattenhofer Team|[2504.12256](http://arxiv.org/abs/2504.12256)|null|
+|**2025-04-16**|**Efficient Contrastive Decoding with Probabilistic Hallucination Detection - Mitigating Hallucinations in Large Vision Language Models -**|Hanno Gottschalk Team|[2504.12137](http://arxiv.org/abs/2504.12137)|null|
+|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Zhi-Qi Cheng Team|[2504.11967](http://arxiv.org/abs/2504.11967)|null|
+|**2025-04-16**|**Beyond Words: Augmenting Discriminative Richness via Diffusions in Unsupervised Prompt Learning**|Yi Chang Team|[2504.11930](http://arxiv.org/abs/2504.11930)|null|
+|**2025-04-16**|**A Visual RAG Pipeline for Few-Shot Fine-Grained Product Classification**|Janis Keuper Team|[2504.11838](http://arxiv.org/abs/2504.11838)|null|
+|**2025-04-16**|**DVLTA-VQA: Decoupled Vision-Language Modeling with Text-Guided Adaptation for Blind Video Quality Assessment**|Moncef Gabbouj Team|[2504.11733](http://arxiv.org/abs/2504.11733)|null|
+|**2025-04-16**|**Interpreting the Linear Structure of Vision-language Model Embedding Spaces**|Stephanie Gil Team|[2504.11695](http://arxiv.org/abs/2504.11695)|null|
+|**2025-04-16**|**VLM-Fuzz: Vision Language Model Assisted Recursive Depth-first Search Exploration for Effective UI Testing of Android Apps**|Mariano Ceccato Team|[2504.11675](http://arxiv.org/abs/2504.11675)|null|
+|**2025-04-15**|**Co-STAR: Collaborative Curriculum Self-Training with Adaptive Regularization for Source-Free Video Domain Adaptation**|Majid Mirmehdi Team|[2504.11669](http://arxiv.org/abs/2504.11669)|null|
+|**2025-04-15**|**PATFinger: Prompt-Adapted Transferable Fingerprinting against Unauthorized Multimodal Dataset Usage**|Lina Wang Team|[2504.11509](http://arxiv.org/abs/2504.11509)|null|
 |**2025-04-15**|**From Gaze to Insight: Bridging Human Visual Attention and Vision Language Model Explanation for Weakly-Supervised Medical Image Segmentation**|Jungong Han Team|[2504.11368](http://arxiv.org/abs/2504.11368)|null|
 |**2025-04-16**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Yan Lu Team|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
 |**2025-04-15**|**R-TPT: Improving Adversarial Robustness of Vision-Language Models through Test-Time Prompt Tuning**|Ran He Team|[2504.11195](http://arxiv.org/abs/2504.11195)|null|
@@ -213,6 +226,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**EmoACT: a Framework to Embed Emotions into Artificial Agents Based on Affect Control Theory**|Carmine Tommaso Recchiuto Team|[2504.12125](http://arxiv.org/abs/2504.12125)|null|
 |**2025-04-14**|**Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain**|Zhengtao Zhang Team|[2504.10390](http://arxiv.org/abs/2504.10390)|null|
 |**2025-04-14**|**PreCi: Pretraining and Continual Improvement of Humanoid Locomotion via Model-Assumption-Based Regularization**|Sehoon Ha Team|[2504.09833](http://arxiv.org/abs/2504.09833)|null|
 |**2025-04-13**|**Embodied Chain of Action Reasoning with Multi-Modal Foundation Model for Humanoid Loco-manipulation**|Yi Fang Team|[2504.09532](http://arxiv.org/abs/2504.09532)|null|
