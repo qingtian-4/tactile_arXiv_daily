@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins**|Ping Luo Team|[2504.13059](http://arxiv.org/abs/2504.13059)|null|
+|**2025-04-17**|**Adaptive Task Space Non-Singular Terminal Super-Twisting Sliding Mode Control of a 7-DOF Robotic Manipulator**|E. Witrant Team|[2504.13056](http://arxiv.org/abs/2504.13056)|null|
+|**2025-04-17**|**Krysalis Hand: A Lightweight, High-Payload, 18-DoF Anthropomorphic End-Effector for Robotic Learning and Dexterous Manipulation**|Iman Soltani Team|[2504.12967](http://arxiv.org/abs/2504.12967)|null|
+|**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Yi Yang Team|[2504.12799](http://arxiv.org/abs/2504.12799)|null|
+|**2025-04-17**|**Trajectory Adaptation using Large Language Models**|Ravi Prakash Team|[2504.12755](http://arxiv.org/abs/2504.12755)|null|
+|**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Lei Wang Team|[2504.12702](http://arxiv.org/abs/2504.12702)|null|
+|**2025-04-17**|**A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation**|Xiaodan Liang Team|[2504.12636](http://arxiv.org/abs/2504.12636)|null|
+|**2025-04-17**|**Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration**|Jeannette Bohg Team|[2504.12609](http://arxiv.org/abs/2504.12609)|null|
 |**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Raluca Georgescu Team|[2504.12299](http://arxiv.org/abs/2504.12299)|null|
 |**2025-04-16**|**Towards Forceful Robotic Foundation Models: a Literature Survey**|Nikolaus Correll Team|[2504.11827](http://arxiv.org/abs/2504.11827)|null|
 |**2025-04-14**|**Toward Aligning Human and Robot Actions via Multi-Modal Demonstration Learning**|Fei Liu Team|[2504.11493](http://arxiv.org/abs/2504.11493)|null|
@@ -78,6 +86,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Christoph Feichtenhofer Team|[2504.13180](http://arxiv.org/abs/2504.13180)|null|
+|**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|David M. Chan Team|[2504.13169](http://arxiv.org/abs/2504.13169)|null|
+|**2025-04-17**|**Low-hallucination Synthetic Captions for Large-Scale Vision-Language Model Pre-training**|Zhanhui Kang Team|[2504.13123](http://arxiv.org/abs/2504.13123)|null|
+|**2025-04-17**|**Probing and Inducing Combinational Creativity in Vision-Language Models**|Zilong Zheng Team|[2504.13120](http://arxiv.org/abs/2504.13120)|null|
+|**2025-04-17**|**Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration**|Yong Hong Kuo Team|[2504.13119](http://arxiv.org/abs/2504.13119)|null|
+|**2025-04-17**|**Early Accessibility: Automating Alt-Text Generation for UI Icons During App Development**|Christoph Csallner Team|[2504.13069](http://arxiv.org/abs/2504.13069)|null|
+|**2025-04-17**|**NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**|Michael Qizhe Shieh Team|[2504.13055](http://arxiv.org/abs/2504.13055)|null|
+|**2025-04-17**|**Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning**|Wenwu Zhu Team|[2504.12680](http://arxiv.org/abs/2504.12680)|null|
+|**2025-04-17**|**VLMGuard-R1: Proactive Safety Alignment for VLMs via Reasoning-Driven Prompt Optimization**|Siheng Chen Team|[2504.12661](http://arxiv.org/abs/2504.12661)|null|
+|**2025-04-16**|**Sparsity Outperforms Low-Rank Projections in Few-Shot Adaptation**|Éric Granger Team|[2504.12436](http://arxiv.org/abs/2504.12436)|null|
 |**2025-04-16**|**FLIP Reasoning Challenge**|Roger Wattenhofer Team|[2504.12256](http://arxiv.org/abs/2504.12256)|null|
 |**2025-04-16**|**Efficient Contrastive Decoding with Probabilistic Hallucination Detection - Mitigating Hallucinations in Large Vision Language Models -**|Hanno Gottschalk Team|[2504.12137](http://arxiv.org/abs/2504.12137)|null|
 |**2025-04-17**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Zhi-Qi Cheng Team|[2504.11967](http://arxiv.org/abs/2504.11967)|null|
@@ -259,6 +277,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**RUKA: Rethinking the Design of Humanoid Hands with Learning**|Lerrel Pinto Team|[2504.13165](http://arxiv.org/abs/2504.13165)|null|
+|**2025-04-17**|**Adaptive Task Space Non-Singular Terminal Super-Twisting Sliding Mode Control of a 7-DOF Robotic Manipulator**|E. Witrant Team|[2504.13056](http://arxiv.org/abs/2504.13056)|null|
+|**2025-04-17**|**Krysalis Hand: A Lightweight, High-Payload, 18-DoF Anthropomorphic End-Effector for Robotic Learning and Dexterous Manipulation**|Iman Soltani Team|[2504.12967](http://arxiv.org/abs/2504.12967)|null|
+|**2025-04-17**|**Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration**|Jeannette Bohg Team|[2504.12609](http://arxiv.org/abs/2504.12609)|null|
 |**2025-04-14**|**Look-to-Touch: A Vision-Enhanced Proximity and Tactile Sensor for Distance and Geometry Perception in Robotic Manipulation**|Guoying Gu Team|[2504.10280](http://arxiv.org/abs/2504.10280)|null|
 |**2025-04-08**|**Functionally graded keratin facilitates tactile sensing in elephant whiskers**|Katherine J. Kuchenbecker Team|[2504.07143](http://arxiv.org/abs/2504.07143)|null|
 |**2025-04-08**|**ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface**|Rui Chen Team|[2504.06156](http://arxiv.org/abs/2504.06156)|null|
