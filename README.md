@@ -16,17 +16,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**DiffOG: Differentiable Policy Trajectory Optimization with Generalizability**|Yu She Team|[2504.13807](http://arxiv.org/abs/2504.13807)|null|
+|**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song Team|[2504.13803](http://arxiv.org/abs/2504.13803)|null|
+|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Javier Civera Team|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-18**|**Self-Mixing Laser Interferometry: In Search of an Ambient Noise-Resilient Alternative to Acoustic Sensing**|Francis wyffels Team|[2504.13711](http://arxiv.org/abs/2504.13711)|null|
+|**2025-04-18**|**On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting**|Jan Peters Team|[2504.13618](http://arxiv.org/abs/2504.13618)|null|
+|**2025-04-18**|**A Model-Based Approach to Imitation Learning through Multi-Step Predictions**|Na Li Team|[2504.13413](http://arxiv.org/abs/2504.13413)|null|
 |**2025-04-17**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins**|Ping Luo Team|[2504.13059](http://arxiv.org/abs/2504.13059)|null|
 |**2025-04-17**|**Adaptive Task Space Non-Singular Terminal Super-Twisting Sliding Mode Control of a 7-DOF Robotic Manipulator**|E. Witrant Team|[2504.13056](http://arxiv.org/abs/2504.13056)|null|
 |**2025-04-17**|**Krysalis Hand: A Lightweight, High-Payload, 18-DoF Anthropomorphic End-Effector for Robotic Learning and Dexterous Manipulation**|Iman Soltani Team|[2504.12967](http://arxiv.org/abs/2504.12967)|null|
 |**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Yi Yang Team|[2504.12799](http://arxiv.org/abs/2504.12799)|null|
 |**2025-04-17**|**Trajectory Adaptation using Large Language Models**|Ravi Prakash Team|[2504.12755](http://arxiv.org/abs/2504.12755)|null|
-|**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Lei Wang Team|[2504.12702](http://arxiv.org/abs/2504.12702)|null|
+|**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Lei Wang Team|[2504.12702](http://arxiv.org/abs/2504.12702)|**[link](https://bitbucket.org/icubdataset/inverse-dynamic)**|
 |**2025-04-17**|**A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation**|Xiaodan Liang Team|[2504.12636](http://arxiv.org/abs/2504.12636)|null|
 |**2025-04-17**|**Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration**|Jeannette Bohg Team|[2504.12609](http://arxiv.org/abs/2504.12609)|null|
 |**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Raluca Georgescu Team|[2504.12299](http://arxiv.org/abs/2504.12299)|null|
 |**2025-04-16**|**Towards Forceful Robotic Foundation Models: a Literature Survey**|Nikolaus Correll Team|[2504.11827](http://arxiv.org/abs/2504.11827)|null|
-|**2025-04-14**|**Toward Aligning Human and Robot Actions via Multi-Modal Demonstration Learning**|Fei Liu Team|[2504.11493](http://arxiv.org/abs/2504.11493)|null|
+|**2025-04-14**|**Toward Aligning Human and Robot Actions via Multi-Modal Demonstration Learning**|Fei Liu Team|[2504.11493](http://arxiv.org/abs/2504.11493)|**[link](https://github.com/utkauraslab/aligning_hr_actions)**|
 |**2025-04-15**|**Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks**|Suryansh Kumar Team|[2504.11247](http://arxiv.org/abs/2504.11247)|null|
 |**2025-04-17**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Yi Zhu Team|[2504.11230](http://arxiv.org/abs/2504.11230)|null|
 |**2025-04-15**|**Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning**|Daniela Rus Team|[2504.10783](http://arxiv.org/abs/2504.10783)|**[link](https://github.com/wernerpe/csdecomp)**|
@@ -95,6 +101,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Umair Bin Mansoor Team|[2504.13690](http://arxiv.org/abs/2504.13690)|null|
+|**2025-04-18**|**EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model**|Beng Chin Ooi Team|[2504.13650](http://arxiv.org/abs/2504.13650)|null|
+|**2025-04-18**|**PV-VLM: A Multimodal Vision-Language Approach Incorporating Sky Images for Intra-Hour Photovoltaic Power Forecasting**|Miao Yu Team|[2504.13624](http://arxiv.org/abs/2504.13624)|null|
+|**2025-04-18**|**Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization**|Huadong Ma Team|[2504.13460](http://arxiv.org/abs/2504.13460)|null|
+|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Ross Greer Team|[2504.13399](http://arxiv.org/abs/2504.13399)|null|
+|**2025-04-17**|**VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture**|Yanbo Huang Team|[2504.13365](http://arxiv.org/abs/2504.13365)|null|
+|**2025-04-17**|**Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models**|Jacky Liang Team|[2504.13351](http://arxiv.org/abs/2504.13351)|null|
+|**2025-04-17**|**WildFireCan-MMD: A Multimodal dataset for Classification of User-generated Content During Wildfires in Canada**|Marzieh Amini Team|[2504.13231](http://arxiv.org/abs/2504.13231)|null|
 |**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Christoph Feichtenhofer Team|[2504.13180](http://arxiv.org/abs/2504.13180)|null|
 |**2025-04-17**|**Generate, but Verify: Reducing Hallucination in Vision-Language Models with Retrospective Resampling**|David M. Chan Team|[2504.13169](http://arxiv.org/abs/2504.13169)|**[link](https://github.com/tsunghan-wu/reverse_vlm)**|
 |**2025-04-17**|**Low-hallucination Synthetic Captions for Large-Scale Vision-Language Model Pre-training**|Zhanhui Kang Team|[2504.13123](http://arxiv.org/abs/2504.13123)|null|
@@ -102,9 +116,9 @@
 |**2025-04-17**|**Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration**|Yong Hong Kuo Team|[2504.13119](http://arxiv.org/abs/2504.13119)|null|
 |**2025-04-17**|**Early Accessibility: Automating Alt-Text Generation for UI Icons During App Development**|Christoph Csallner Team|[2504.13069](http://arxiv.org/abs/2504.13069)|null|
 |**2025-04-17**|**NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**|Michael Qizhe Shieh Team|[2504.13055](http://arxiv.org/abs/2504.13055)|null|
-|**2025-04-17**|**Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning**|Wenwu Zhu Team|[2504.12680](http://arxiv.org/abs/2504.12680)|null|
+|**2025-04-17**|**Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning**|Wenwu Zhu Team|[2504.12680](http://arxiv.org/abs/2504.12680)|**[link](https://github.com/embodiedcity/embodied-r.code)**|
 |**2025-04-17**|**VLMGuard-R1: Proactive Safety Alignment for VLMs via Reasoning-Driven Prompt Optimization**|Siheng Chen Team|[2504.12661](http://arxiv.org/abs/2504.12661)|null|
-|**2025-04-16**|**Sparsity Outperforms Low-Rank Projections in Few-Shot Adaptation**|Éric Granger Team|[2504.12436](http://arxiv.org/abs/2504.12436)|null|
+|**2025-04-16**|**Sparsity Outperforms Low-Rank Projections in Few-Shot Adaptation**|Éric Granger Team|[2504.12436](http://arxiv.org/abs/2504.12436)|**[link](https://github.com/nairouz/SO)**|
 |**2025-04-16**|**FLIP Reasoning Challenge**|Roger Wattenhofer Team|[2504.12256](http://arxiv.org/abs/2504.12256)|null|
 |**2025-04-16**|**Efficient Contrastive Decoding with Probabilistic Hallucination Detection - Mitigating Hallucinations in Large Vision Language Models -**|Hanno Gottschalk Team|[2504.12137](http://arxiv.org/abs/2504.12137)|null|
 |**2025-04-17**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Zhi-Qi Cheng Team|[2504.11967](http://arxiv.org/abs/2504.11967)|null|
@@ -257,6 +271,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning**|Fumio Kanehiro Team|[2504.13619](http://arxiv.org/abs/2504.13619)|null|
 |**2025-04-16**|**EmoACT: a Framework to Embed Emotions into Artificial Agents Based on Affect Control Theory**|Carmine Tommaso Recchiuto Team|[2504.12125](http://arxiv.org/abs/2504.12125)|null|
 |**2025-04-14**|**Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain**|Zhengtao Zhang Team|[2504.10390](http://arxiv.org/abs/2504.10390)|null|
 |**2025-04-14**|**PreCi: Pretraining and Continual Improvement of Humanoid Locomotion via Model-Assumption-Based Regularization**|Sehoon Ha Team|[2504.09833](http://arxiv.org/abs/2504.09833)|null|
@@ -292,6 +307,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting**|Jan Peters Team|[2504.13618](http://arxiv.org/abs/2504.13618)|null|
 |**2025-04-17**|**RUKA: Rethinking the Design of Humanoid Hands with Learning**|Lerrel Pinto Team|[2504.13165](http://arxiv.org/abs/2504.13165)|null|
 |**2025-04-17**|**Adaptive Task Space Non-Singular Terminal Super-Twisting Sliding Mode Control of a 7-DOF Robotic Manipulator**|E. Witrant Team|[2504.13056](http://arxiv.org/abs/2504.13056)|null|
 |**2025-04-17**|**Krysalis Hand: A Lightweight, High-Payload, 18-DoF Anthropomorphic End-Effector for Robotic Learning and Dexterous Manipulation**|Iman Soltani Team|[2504.12967](http://arxiv.org/abs/2504.12967)|null|
