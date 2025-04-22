@@ -9,9 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Immersive Teleoperation Framework for Locomanipulation Tasks**|Dimitrios Kanoulas Team|[2504.15229](http://arxiv.org/abs/2504.15229)|null|
+|**2025-04-21**|**A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing**|Kelly Cohen Team|[2504.15226](http://arxiv.org/abs/2504.15226)|null|
+|**2025-04-21**|**A General Infrastructure and Workflow for Quadrotor Deep Reinforcement Learning and Reality Deployment**|Huaping Liu Team|[2504.15129](http://arxiv.org/abs/2504.15129)|null|
+|**2025-04-21**|**SuFIA-BC: Generating High Quality Demonstration Data for Visuomotor Policy Learning in Surgical Subtasks**|Animesh Garg Team|[2504.14857](http://arxiv.org/abs/2504.14857)|null|
+|**2025-04-20**|**Exposing the Copycat Problem of Imitation-based Planner: A Novel Closed-Loop Simulator, Causal Benchmark and Joint IL-RL Baseline**|Hongsheng Li Team|[2504.14709](http://arxiv.org/abs/2504.14709)|null|
+|**2025-04-20**|**Latent Representations for Visual Proprioception in Inexpensive Robots**|Ladislau Bölöni Team|[2504.14634](http://arxiv.org/abs/2504.14634)|null|
 |**2025-04-18**|**DiffOG: Differentiable Policy Trajectory Optimization with Generalizability**|Yu She Team|[2504.13807](http://arxiv.org/abs/2504.13807)|null|
 |**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song Team|[2504.13803](http://arxiv.org/abs/2504.13803)|null|
-|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Javier Civera Team|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Javier Civera Team|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 |**2025-04-18**|**Self-Mixing Laser Interferometry: In Search of an Ambient Noise-Resilient Alternative to Acoustic Sensing**|Francis wyffels Team|[2504.13711](http://arxiv.org/abs/2504.13711)|null|
 |**2025-04-18**|**On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting**|Jan Peters Team|[2504.13618](http://arxiv.org/abs/2504.13618)|null|
 |**2025-04-18**|**A Model-Based Approach to Imitation Learning through Multi-Step Predictions**|Na Li Team|[2504.13413](http://arxiv.org/abs/2504.13413)|null|
@@ -21,7 +27,7 @@ layout: default
 |**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Yi Yang Team|[2504.12799](http://arxiv.org/abs/2504.12799)|null|
 |**2025-04-17**|**Trajectory Adaptation using Large Language Models**|Ravi Prakash Team|[2504.12755](http://arxiv.org/abs/2504.12755)|null|
 |**2025-04-17**|**Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator**|Lei Wang Team|[2504.12702](http://arxiv.org/abs/2504.12702)|**[link](https://bitbucket.org/icubdataset/inverse-dynamic)**|
-|**2025-04-17**|**A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation**|Xiaodan Liang Team|[2504.12636](http://arxiv.org/abs/2504.12636)|null|
+|**2025-04-21**|**A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation**|Xiaodan Liang Team|[2504.12636](http://arxiv.org/abs/2504.12636)|null|
 |**2025-04-17**|**Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration**|Jeannette Bohg Team|[2504.12609](http://arxiv.org/abs/2504.12609)|null|
 |**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Raluca Georgescu Team|[2504.12299](http://arxiv.org/abs/2504.12299)|null|
 |**2025-04-16**|**Towards Forceful Robotic Foundation Models: a Literature Survey**|Nikolaus Correll Team|[2504.11827](http://arxiv.org/abs/2504.11827)|null|
@@ -92,8 +98,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-18**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Umair Bin Mansoor Team|[2504.13690](http://arxiv.org/abs/2504.13690)|null|
-|**2025-04-18**|**EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model**|Beng Chin Ooi Team|[2504.13650](http://arxiv.org/abs/2504.13650)|null|
+|**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guilin Liu Team|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
+|**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Kijung Shin Team|[2504.15135](http://arxiv.org/abs/2504.15135)|**[link](https://github.com/juyeonnn/kgmel)**|
+|**2025-04-21**|**Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation**|Serge Belongie Team|[2504.14988](http://arxiv.org/abs/2504.14988)|**[link](https://github.com/seu-vipgroup/fg-bmk)**|
+|**2025-04-21**|**VLM as Policy: Common-Law Content Moderation Framework for Short Video Platform**|Kun Gai Team|[2504.14904](http://arxiv.org/abs/2504.14904)|null|
+|**2025-04-21**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models via Semantic Perturbation**|Yunji Chen Team|[2504.14848](http://arxiv.org/abs/2504.14848)|null|
+|**2025-04-20**|**OmniV-Med: Scaling Medical Vision-Language Model for Universal Visual Understanding**|Zuozhu Liu Team|[2504.14692](http://arxiv.org/abs/2504.14692)|null|
+|**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Juho Kannala Team|[2504.14638](http://arxiv.org/abs/2504.14638)|null|
+|**2025-04-20**|**LGD: Leveraging Generative Descriptions for Zero-Shot Referring Image Segmentation**|Yongsheng Gao Team|[2504.14467](http://arxiv.org/abs/2504.14467)|null|
+|**2025-04-20**|**Neglected Risks: The Disturbing Reality of Children's Images in Datasets and the Urgent Call for Accountability**|Sandra Avila Team|[2504.14446](http://arxiv.org/abs/2504.14446)|null|
+|**2025-04-19**|**Hydra: An Agentic Reasoning Approach for Enhancing Adversarial Robustness and Mitigating Hallucinations in Vision-Language Models**|Nathaniel D. Bastian Team|[2504.14395](http://arxiv.org/abs/2504.14395)|null|
+|**2025-04-19**|**How Well Can General Vision-Language Models Learn Medicine By Watching Public Educational Videos?**|James Zou Team|[2504.14391](http://arxiv.org/abs/2504.14391)|null|
+|**2025-04-19**|**A Multimodal Recaptioning Framework to Account for Perceptual Diversity in Multilingual Vision-Language Modeling**|Adriana Kovashka Team|[2504.14359](http://arxiv.org/abs/2504.14359)|null|
+|**2025-04-19**|**Diffusion-based Dynamic Contract for Federated AI Agent Construction in Mobile Metaverses**|Chau Yuen Team|[2504.14326](http://arxiv.org/abs/2504.14326)|null|
+|**2025-04-19**|**Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization**|Xu Yang Team|[2504.14200](http://arxiv.org/abs/2504.14200)|null|
+|**2025-04-19**|**Bayesian Principles Improve Prompt Learning In Vision-Language Models**|Mijung Park Team|[2504.14123](http://arxiv.org/abs/2504.14123)|null|
+|**2025-04-19**|**PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models**|Ozlem Ozmen Garibay Team|[2504.14117](http://arxiv.org/abs/2504.14117)|null|
+|**2025-04-21**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Umair Bin Mansoor Team|[2504.13690](http://arxiv.org/abs/2504.13690)|null|
+|**2025-04-18**|**EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model**|Beng Chin Ooi Team|[2504.13650](http://arxiv.org/abs/2504.13650)|**[link](https://github.com/dcdmllm/eyecaregpt)**|
 |**2025-04-18**|**PV-VLM: A Multimodal Vision-Language Approach Incorporating Sky Images for Intra-Hour Photovoltaic Power Forecasting**|Miao Yu Team|[2504.13624](http://arxiv.org/abs/2504.13624)|null|
 |**2025-04-18**|**Chain-of-Thought Textual Reasoning for Few-shot Temporal Action Localization**|Huadong Ma Team|[2504.13460](http://arxiv.org/abs/2504.13460)|null|
 |**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Ross Greer Team|[2504.13399](http://arxiv.org/abs/2504.13399)|null|
@@ -258,6 +280,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-20**|**ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training**|Jiahao Chen Team|[2504.14477](http://arxiv.org/abs/2504.14477)|null|
+|**2025-04-19**|**Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning**|Xuelong Li Team|[2504.14305](http://arxiv.org/abs/2504.14305)|null|
 |**2025-04-18**|**Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning**|Fumio Kanehiro Team|[2504.13619](http://arxiv.org/abs/2504.13619)|null|
 |**2025-04-16**|**EmoACT: a Framework to Embed Emotions into Artificial Agents Based on Affect Control Theory**|Carmine Tommaso Recchiuto Team|[2504.12125](http://arxiv.org/abs/2504.12125)|null|
 |**2025-04-14**|**Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain**|Zhengtao Zhang Team|[2504.10390](http://arxiv.org/abs/2504.10390)|null|
@@ -292,6 +316,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**SuFIA-BC: Generating High Quality Demonstration Data for Visuomotor Policy Learning in Surgical Subtasks**|Animesh Garg Team|[2504.14857](http://arxiv.org/abs/2504.14857)|null|
+|**2025-04-20**|**BiDexHand: Design and Evaluation of an Open-Source 16-DoF Biomimetic Dexterous Hand**|Zhengyang Kris Weng Team|[2504.14712](http://arxiv.org/abs/2504.14712)|null|
 |**2025-04-18**|**On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting**|Jan Peters Team|[2504.13618](http://arxiv.org/abs/2504.13618)|null|
 |**2025-04-17**|**RUKA: Rethinking the Design of Humanoid Hands with Learning**|Lerrel Pinto Team|[2504.13165](http://arxiv.org/abs/2504.13165)|null|
 |**2025-04-17**|**Adaptive Task Space Non-Singular Terminal Super-Twisting Sliding Mode Control of a 7-DOF Robotic Manipulator**|E. Witrant Team|[2504.13056](http://arxiv.org/abs/2504.13056)|null|
