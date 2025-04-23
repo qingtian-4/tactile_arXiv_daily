@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Ury Zhilinsky Team|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
+|**2025-04-22**|**SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation**|Xiangli Nie Team|[2504.15561](http://arxiv.org/abs/2504.15561)|null|
+|**2025-04-22**|**VibeCheck: Using Active Acoustic Tactile Sensing for Contact-Rich Manipulation**|Matei Ciocarlie Team|[2504.15535](http://arxiv.org/abs/2504.15535)|null|
+|**2025-04-22**|**Few-Shot Vision-Language Action-Incremental Policy Learning**|Weili Guan Team|[2504.15517](http://arxiv.org/abs/2504.15517)|null|
+|**2025-04-21**|**LAPP: Large Language Model Feedback for Preference-Driven Reinforcement Learning**|Boyuan Chen Team|[2504.15472](http://arxiv.org/abs/2504.15472)|null|
+|**2025-04-21**|**Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**|Peng Qi Team|[2504.15327](http://arxiv.org/abs/2504.15327)|null|
 |**2025-04-21**|**Immersive Teleoperation Framework for Locomanipulation Tasks**|Dimitrios Kanoulas Team|[2504.15229](http://arxiv.org/abs/2504.15229)|null|
 |**2025-04-21**|**A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing**|Kelly Cohen Team|[2504.15226](http://arxiv.org/abs/2504.15226)|null|
 |**2025-04-21**|**A General Infrastructure and Workflow for Quadrotor Deep Reinforcement Learning and Reality Deployment**|Huaping Liu Team|[2504.15129](http://arxiv.org/abs/2504.15129)|null|
@@ -98,6 +104,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Lili Qiu Team|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
+|**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Yu-Xiong Wang Team|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
+|**2025-04-22**|**Describe Anything: Detailed Localized Image and Video Captioning**|Yin Cui Team|[2504.16072](http://arxiv.org/abs/2504.16072)|null|
+|**2025-04-22**|**Vision language models are unreliable at trivial spatial cognition**|J. Gregory Trafton Team|[2504.16061](http://arxiv.org/abs/2504.16061)|null|
+|**2025-04-22**|**Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation**|Joyce Chai Team|[2504.16060](http://arxiv.org/abs/2504.16060)|null|
+|**2025-04-22**|**Evaluating Vision Language Models (VLMs) for Radiology: A Comprehensive Analysis**|Judy Gichoya Team|[2504.16047](http://arxiv.org/abs/2504.16047)|null|
+|**2025-04-22**|**LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale**|Mike Zheng Shou Team|[2504.16030](http://arxiv.org/abs/2504.16030)|null|
+|**2025-04-22**|**Meta-Entity Driven Triplet Mining for Aligning Medical Vision-Language Models**|Tolga Çukur Team|[2504.15929](http://arxiv.org/abs/2504.15929)|null|
+|**2025-04-21**|**CAPTURe: Evaluating Spatial Reasoning in Vision Language Models via Occluded Object Counting**|Mohit Bansal Team|[2504.15485](http://arxiv.org/abs/2504.15485)|null|
 |**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guilin Liu Team|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
 |**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Kijung Shin Team|[2504.15135](http://arxiv.org/abs/2504.15135)|**[link](https://github.com/juyeonnn/kgmel)**|
 |**2025-04-21**|**Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation**|Serge Belongie Team|[2504.14988](http://arxiv.org/abs/2504.14988)|**[link](https://github.com/seu-vipgroup/fg-bmk)**|
@@ -253,6 +268,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Ury Zhilinsky Team|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
+|**2025-04-22**|**Few-Shot Vision-Language Action-Incremental Policy Learning**|Weili Guan Team|[2504.15517](http://arxiv.org/abs/2504.15517)|null|
 |**2025-04-18**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia Team|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-09**|**OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning**|Tyler Fenstermaker Team|[2504.06538](http://arxiv.org/abs/2504.06538)|null|
 |**2025-04-02**|**Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning**|Roozbeh Mottaghi Team|[2504.00907](http://arxiv.org/abs/2504.00907)|null|
@@ -316,6 +333,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Ury Zhilinsky Team|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
+|**2025-04-21**|**LAPP: Large Language Model Feedback for Preference-Driven Reinforcement Learning**|Boyuan Chen Team|[2504.15472](http://arxiv.org/abs/2504.15472)|null|
 |**2025-04-21**|**SuFIA-BC: Generating High Quality Demonstration Data for Visuomotor Policy Learning in Surgical Subtasks**|Animesh Garg Team|[2504.14857](http://arxiv.org/abs/2504.14857)|null|
 |**2025-04-20**|**BiDexHand: Design and Evaluation of an Open-Source 16-DoF Biomimetic Dexterous Hand**|Zhengyang Kris Weng Team|[2504.14712](http://arxiv.org/abs/2504.14712)|null|
 |**2025-04-18**|**On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting**|Jan Peters Team|[2504.13618](http://arxiv.org/abs/2504.13618)|null|
