@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Chelsea Finn Team|[2504.16925](http://arxiv.org/abs/2504.16925)|null|
+|**2025-04-23**|**MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning**|Maxim Likhachev Team|[2504.16738](http://arxiv.org/abs/2504.16738)|null|
+|**2025-04-23**|**ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance**|Shanghang Zhang Team|[2504.16464](http://arxiv.org/abs/2504.16464)|null|
+|**2025-04-22**|**Mass-Adaptive Admittance Control for Robotic Manipulators**|Logan E. Beaver Team|[2504.16224](http://arxiv.org/abs/2504.16224)|null|
 |**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Ury Zhilinsky Team|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
 |**2025-04-22**|**SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation**|Xiangli Nie Team|[2504.15561](http://arxiv.org/abs/2504.15561)|null|
 |**2025-04-22**|**VibeCheck: Using Active Acoustic Tactile Sensing for Contact-Rich Manipulation**|Matei Ciocarlie Team|[2504.15535](http://arxiv.org/abs/2504.15535)|null|
@@ -104,6 +108,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**V $^2$ R-Bench: Holistically Evaluating LVLM Robustness to Fundamental Visual Variations**|Fung Team|[2504.16727](http://arxiv.org/abs/2504.16727)|null|
+|**2025-04-23**|**Streetscape Analysis with Generative AI (SAGAI): Vision-Language Assessment and Mapping of Urban Scenes**|Giovanni Fusco Team|[2504.16538](http://arxiv.org/abs/2504.16538)|null|
+|**2025-04-23**|**TraveLLaMA: Facilitating Multi-modal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**|Jiaya Jia Team|[2504.16505](http://arxiv.org/abs/2504.16505)|null|
+|**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Biplab Banerjee Team|[2504.16433](http://arxiv.org/abs/2504.16433)|null|
+|**2025-04-22**|**CLIP-IT: CLIP-based Pairing for Histology Images Classification**|Eric Granger Team|[2504.16181](http://arxiv.org/abs/2504.16181)|null|
 |**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Lili Qiu Team|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Yu-Xiong Wang Team|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
 |**2025-04-22**|**Describe Anything: Detailed Localized Image and Video Captioning**|Yin Cui Team|[2504.16072](http://arxiv.org/abs/2504.16072)|null|
@@ -333,6 +342,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands**|Ziyuan Jiao Team|[2504.16649](http://arxiv.org/abs/2504.16649)|null|
 |**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Ury Zhilinsky Team|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
 |**2025-04-21**|**LAPP: Large Language Model Feedback for Preference-Driven Reinforcement Learning**|Boyuan Chen Team|[2504.15472](http://arxiv.org/abs/2504.15472)|null|
 |**2025-04-21**|**SuFIA-BC: Generating High Quality Demonstration Data for Visuomotor Policy Learning in Surgical Subtasks**|Animesh Garg Team|[2504.14857](http://arxiv.org/abs/2504.14857)|null|
