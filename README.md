@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation**|Jiangmiao Pang Team|[2504.17784](http://arxiv.org/abs/2504.17784)|null|
+|**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Dong Xuan Team|[2504.17771](http://arxiv.org/abs/2504.17771)|null|
+|**2025-04-24**|**Robotic Grinding Skills Learning Based on Geodesic Length Dynamic Motion Primitives**|Han Ding Team|[2504.17216](http://arxiv.org/abs/2504.17216)|null|
+|**2025-04-23**|**Geometric Formulation of Unified Force-Impedance Control on SE(3) for Robotic Manipulators**|Roberto Horowitz Team|[2504.17080](http://arxiv.org/abs/2504.17080)|null|
+|**2025-04-23**|**A Systematic Approach to Design Real-World Human-in-the-Loop Deep Reinforcement Learning: Salient Features, Challenges and Trade-offs**|Younes Zerouali Team|[2504.17006](http://arxiv.org/abs/2504.17006)|null|
 |**2025-04-23**|**Latent Diffusion Planning for Imitation Learning**|Chelsea Finn Team|[2504.16925](http://arxiv.org/abs/2504.16925)|null|
 |**2025-04-23**|**MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning**|Maxim Likhachev Team|[2504.16738](http://arxiv.org/abs/2504.16738)|null|
 |**2025-04-23**|**ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance**|Shanghang Zhang Team|[2504.16464](http://arxiv.org/abs/2504.16464)|null|
@@ -117,6 +122,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Weiyan Wen Team|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
+|**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Qingming Huang Team|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
+|**2025-04-24**|**M-MRE: Extending the Mutual Reinforcement Effect to Multimodal Information Extraction**|Tatsunori Mori Team|[2504.17353](http://arxiv.org/abs/2504.17353)|null|
+|**2025-04-24**|**DIMT25@ICDAR2025: HW-TSC's End-to-End Document Image Machine Translation System Leveraging Large Vision-Language Model**|Hao Yang Team|[2504.17315](http://arxiv.org/abs/2504.17315)|null|
+|**2025-04-24**|**Cracking the Code of Action: a Generative Approach to Affordances for Reinforcement Learning**|Khimya Khetarpal Team|[2504.17282](http://arxiv.org/abs/2504.17282)|null|
+|**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Minhyuk Sung Team|[2504.17207](http://arxiv.org/abs/2504.17207)|null|
+|**2025-04-23**|**Distilling semantically aware orders for autoregressive image generation**|Marco Pedersoli Team|[2504.17069](http://arxiv.org/abs/2504.17069)|null|
+|**2025-04-23**|**DyMU: Dynamic Merging and Virtual Unmerging for Efficient VLMs**|Ran Xu Team|[2504.17040](http://arxiv.org/abs/2504.17040)|null|
 |**2025-04-24**|**V $^2$ R-Bench: Holistically Evaluating LVLM Robustness to Fundamental Visual Variations**|Yi R. Fung Team|[2504.16727](http://arxiv.org/abs/2504.16727)|null|
 |**2025-04-23**|**Streetscape Analysis with Generative AI (SAGAI): Vision-Language Assessment and Mapping of Urban Scenes**|Giovanni Fusco Team|[2504.16538](http://arxiv.org/abs/2504.16538)|null|
 |**2025-04-23**|**TraveLLaMA: Facilitating Multi-modal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**|Jiaya Jia Team|[2504.16505](http://arxiv.org/abs/2504.16505)|null|
@@ -319,6 +332,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot**|Koushil Sreenath Team|[2504.17249](http://arxiv.org/abs/2504.17249)|null|
 |**2025-04-20**|**ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training**|Jiahao Chen Team|[2504.14477](http://arxiv.org/abs/2504.14477)|null|
 |**2025-04-19**|**Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning**|Xuelong Li Team|[2504.14305](http://arxiv.org/abs/2504.14305)|null|
 |**2025-04-18**|**Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning**|Fumio Kanehiro Team|[2504.13619](http://arxiv.org/abs/2504.13619)|null|
