@@ -1,4 +1,4 @@
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 |**2025-04-21**|**A General Infrastructure and Workflow for Quadrotor Deep Reinforcement Learning and Reality Deployment**|Huaping Liu Team|[2504.15129](http://arxiv.org/abs/2504.15129)|null|
 |**2025-04-21**|**SuFIA-BC: Generating High Quality Demonstration Data for Visuomotor Policy Learning in Surgical Subtasks**|Animesh Garg Team|[2504.14857](http://arxiv.org/abs/2504.14857)|null|
 |**2025-04-20**|**Exposing the Copycat Problem of Imitation-based Planner: A Novel Closed-Loop Simulator, Causal Benchmark and Joint IL-RL Baseline**|Hongsheng Li Team|[2504.14709](http://arxiv.org/abs/2504.14709)|null|
-|**2025-04-20**|**Latent Representations for Visual Proprioception in Inexpensive Robots**|Ladislau Bölöni Team|[2504.14634](http://arxiv.org/abs/2504.14634)|null|
+|**2025-04-24**|**Latent Representations for Visual Proprioception in Inexpensive Robots**|Ladislau Bölöni Team|[2504.14634](http://arxiv.org/abs/2504.14634)|null|
 |**2025-04-18**|**DiffOG: Differentiable Policy Trajectory Optimization with Generalizability**|Yu She Team|[2504.13807](http://arxiv.org/abs/2504.13807)|null|
 |**2025-04-18**|**Imitation Learning with Precisely Labeled Human Demonstrations**|Yilong Song Team|[2504.13803](http://arxiv.org/abs/2504.13803)|null|
 |**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Javier Civera Team|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
@@ -111,13 +111,13 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-23**|**V $^2$ R-Bench: Holistically Evaluating LVLM Robustness to Fundamental Visual Variations**|Fung Team|[2504.16727](http://arxiv.org/abs/2504.16727)|null|
+|**2025-04-24**|**V $^2$ R-Bench: Holistically Evaluating LVLM Robustness to Fundamental Visual Variations**|Yi R. Fung Team|[2504.16727](http://arxiv.org/abs/2504.16727)|null|
 |**2025-04-23**|**Streetscape Analysis with Generative AI (SAGAI): Vision-Language Assessment and Mapping of Urban Scenes**|Giovanni Fusco Team|[2504.16538](http://arxiv.org/abs/2504.16538)|null|
 |**2025-04-23**|**TraveLLaMA: Facilitating Multi-modal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**|Jiaya Jia Team|[2504.16505](http://arxiv.org/abs/2504.16505)|null|
 |**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Biplab Banerjee Team|[2504.16433](http://arxiv.org/abs/2504.16433)|null|
@@ -129,7 +129,7 @@
 |**2025-04-22**|**Vision-Language Models Are Not Pragmatically Competent in Referring Expression Generation**|Joyce Chai Team|[2504.16060](http://arxiv.org/abs/2504.16060)|null|
 |**2025-04-22**|**Evaluating Vision Language Models (VLMs) for Radiology: A Comprehensive Analysis**|Judy Gichoya Team|[2504.16047](http://arxiv.org/abs/2504.16047)|null|
 |**2025-04-22**|**LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale**|Mike Zheng Shou Team|[2504.16030](http://arxiv.org/abs/2504.16030)|null|
-|**2025-04-22**|**Meta-Entity Driven Triplet Mining for Aligning Medical Vision-Language Models**|Tolga Çukur Team|[2504.15929](http://arxiv.org/abs/2504.15929)|null|
+|**2025-04-24**|**Meta-Entity Driven Triplet Mining for Aligning Medical Vision-Language Models**|Tolga Çukur Team|[2504.15929](http://arxiv.org/abs/2504.15929)|null|
 |**2025-04-21**|**CAPTURe: Evaluating Spatial Reasoning in Vision Language Models via Occluded Object Counting**|Mohit Bansal Team|[2504.15485](http://arxiv.org/abs/2504.15485)|null|
 |**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guilin Liu Team|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
 |**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Kijung Shin Team|[2504.15135](http://arxiv.org/abs/2504.15135)|**[link](https://github.com/juyeonnn/kgmel)**|
@@ -282,7 +282,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## VLA
 
@@ -313,7 +313,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Humanoid
 
@@ -351,7 +351,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Dexterous
 
@@ -373,7 +373,7 @@
 |**2025-04-06**|**DexTOG: Learning Task-Oriented Dexterous Grasp with Language**|Cewu Lu Team|[2504.04573](http://arxiv.org/abs/2504.04573)|null|
 |**2025-04-06**|**DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments**|Lin Shao Team|[2504.04516](http://arxiv.org/abs/2504.04516)|null|
 |**2025-04-05**|**ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning**|Robert K. Katzschmann Team|[2504.04259](http://arxiv.org/abs/2504.04259)|null|
-|**2025-04-04**|**Dexterous Manipulation through Imitation Learning: A Survey**|Hong Zhang Team|[2504.03515](http://arxiv.org/abs/2504.03515)|null|
+|**2025-04-24**|**Dexterous Manipulation through Imitation Learning: A Survey**|Hong Zhang Team|[2504.03515](http://arxiv.org/abs/2504.03515)|null|
 |**2025-03-29**|**Dexterous Non-Prehensile Manipulation for Ungraspable Object via Extrinsic Dexterity**|Yuanpei Chen Team|[2503.23120](http://arxiv.org/abs/2503.23120)|null|
 |**2025-03-27**|**ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning**|Siyuan Huang Team|[2503.21860](http://arxiv.org/abs/2503.21860)|null|
 |**2025-03-25**|**G-DexGrasp: Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation**|Ruizhen Hu Team|[2503.19457](http://arxiv.org/abs/2503.19457)|null|
@@ -395,5 +395,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
