@@ -16,6 +16,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang Team|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
+|**2025-04-25**|**Instrumentation for Better Demonstrations: A Case Study**|Francis wyffels Team|[2504.18481](http://arxiv.org/abs/2504.18481)|null|
+|**2025-04-25**|**Action Flow Matching for Continual Robot Learning**|Lantao Liu Team|[2504.18471](http://arxiv.org/abs/2504.18471)|null|
+|**2025-04-25**|**Design and Evaluation of a UGV-Based Robotic Platform for Precision Soil Moisture Remote Sensing**|George Nikolakopoulos Team|[2504.18284](http://arxiv.org/abs/2504.18284)|null|
+|**2025-04-25**|**Implementation Analysis of Collaborative Robot Digital Twins in Physics Engines**|Hand D. Schooten Team|[2504.18200](http://arxiv.org/abs/2504.18200)|null|
+|**2025-04-25**|**Offline Learning of Controllable Diverse Behaviors**|Ludovic Denoyer Team|[2504.18160](http://arxiv.org/abs/2504.18160)|null|
+|**2025-04-24**|**CIVIL: Causal and Intuitive Visual Imitation Learning**|Dylan P. Losey Team|[2504.17959](http://arxiv.org/abs/2504.17959)|null|
+|**2025-04-24**|**Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning**|Prithviraj Ammanabrolu Team|[2504.17950](http://arxiv.org/abs/2504.17950)|null|
+|**2025-04-24**|**Learning Attentive Neural Processes for Planning with Pushing Actions**|Nicholas Roy Team|[2504.17924](http://arxiv.org/abs/2504.17924)|null|
+|**2025-04-24**|**CaRL: Learning Scalable Planning Policies with Simple Rewards**|Andreas Geiger Team|[2504.17838](http://arxiv.org/abs/2504.17838)|null|
+|**2025-04-23**|**Learning Underwater Active Perception in Simulation**|Donald G. Dansereau Team|[2504.17817](http://arxiv.org/abs/2504.17817)|null|
 |**2025-04-24**|**Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation**|Jiangmiao Pang Team|[2504.17784](http://arxiv.org/abs/2504.17784)|null|
 |**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Dong Xuan Team|[2504.17771](http://arxiv.org/abs/2504.17771)|null|
 |**2025-04-24**|**Robotic Grinding Skills Learning Based on Geodesic Length Dynamic Motion Primitives**|Han Ding Team|[2504.17216](http://arxiv.org/abs/2504.17216)|null|
@@ -122,6 +133,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang Team|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
+|**2025-04-25**|**Fast-Slow Thinking for Large Vision-Language Model Reasoning**|Fei Wu Team|[2504.18458](http://arxiv.org/abs/2504.18458)|null|
+|**2025-04-25**|**Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation**|Guang Yang Team|[2504.18453](http://arxiv.org/abs/2504.18453)|null|
+|**2025-04-25**|**Revisiting Data Auditing in Large Vision-Language Models**|Zhuosheng Zhang Team|[2504.18349](http://arxiv.org/abs/2504.18349)|null|
+|**2025-04-25**|**A Large Vision-Language Model based Environment Perception System for Visually Impaired People**|Shiguo Lian Team|[2504.18027](http://arxiv.org/abs/2504.18027)|null|
+|**2025-04-24**|**CAMU: Context Augmentation for Meme Understanding**|Aditya Joshi Team|[2504.17902](http://arxiv.org/abs/2504.17902)|null|
+|**2025-04-24**|**FashionM3: Multimodal, Multitask, and Multiround Fashion Assistant based on Unified Vision-Language Model**|Waikeung Wong Team|[2504.17826](http://arxiv.org/abs/2504.17826)|null|
 |**2025-04-25**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Weiyan Wen Team|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
 |**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Qingming Huang Team|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
 |**2025-04-24**|**M-MRE: Extending the Mutual Reinforcement Effect to Multimodal Information Extraction**|Tatsunori Mori Team|[2504.17353](http://arxiv.org/abs/2504.17353)|null|
