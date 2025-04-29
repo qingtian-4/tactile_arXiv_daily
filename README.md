@@ -16,11 +16,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**UTTG_ A Universal Teleoperation Approach via Online Trajectory Generation**|Hesheng Wang Team|[2504.19736](http://arxiv.org/abs/2504.19736)|null|
+|**2025-04-28**|**GPA-RAM: Grasp-Pretraining Augmented Robotic Attention Mamba for Spatial Task Learning**|Mengyuan Liu Team|[2504.19683](http://arxiv.org/abs/2504.19683)|null|
+|**2025-04-27**|**PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies**|Edward Adelson Team|[2504.19341](http://arxiv.org/abs/2504.19341)|null|
+|**2025-04-27**|**Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation**|Marco Hutter Team|[2504.19322](http://arxiv.org/abs/2504.19322)|**[link](https://github.com/leggedrobotics/fdm)**|
+|**2025-04-27**|**Learning to Drive from a World Model**|Yassine Yousfi Team|[2504.19077](http://arxiv.org/abs/2504.19077)|null|
+|**2025-04-26**|**RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning**|Pieter Abbeel Team|[2504.18904](http://arxiv.org/abs/2504.18904)|null|
+|**2025-04-26**|**Imitation Learning for Autonomous Driving: Insights from Real-World Testing**|Tufan Kumbasar Team|[2504.18847](http://arxiv.org/abs/2504.18847)|null|
+|**2025-04-26**|**Hierarchical Reinforcement Learning in Multi-Goal Spatial Navigation with Autonomous Mobile Robots**|Alfredo Weitzenfeld Team|[2504.18794](http://arxiv.org/abs/2504.18794)|null|
+|**2025-04-26**|**STDArm: Transferring Visuomotor Policies From Static Data Training to Dynamic Robot Manipulation**|Yanyong Zhang Team|[2504.18792](http://arxiv.org/abs/2504.18792)|null|
 |**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang Team|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
 |**2025-04-25**|**Instrumentation for Better Demonstrations: A Case Study**|Francis wyffels Team|[2504.18481](http://arxiv.org/abs/2504.18481)|null|
 |**2025-04-25**|**Action Flow Matching for Continual Robot Learning**|Lantao Liu Team|[2504.18471](http://arxiv.org/abs/2504.18471)|null|
 |**2025-04-25**|**Design and Evaluation of a UGV-Based Robotic Platform for Precision Soil Moisture Remote Sensing**|George Nikolakopoulos Team|[2504.18284](http://arxiv.org/abs/2504.18284)|null|
-|**2025-04-25**|**Implementation Analysis of Collaborative Robot Digital Twins in Physics Engines**|Hand D. Schooten Team|[2504.18200](http://arxiv.org/abs/2504.18200)|null|
+|**2025-04-28**|**Implementation Analysis of Collaborative Robot Digital Twins in Physics Engines**|Hans D. Schotten Team|[2504.18200](http://arxiv.org/abs/2504.18200)|null|
 |**2025-04-25**|**Offline Learning of Controllable Diverse Behaviors**|Ludovic Denoyer Team|[2504.18160](http://arxiv.org/abs/2504.18160)|null|
 |**2025-04-24**|**CIVIL: Causal and Intuitive Visual Imitation Learning**|Dylan P. Losey Team|[2504.17959](http://arxiv.org/abs/2504.17959)|null|
 |**2025-04-24**|**Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning**|Prithviraj Ammanabrolu Team|[2504.17950](http://arxiv.org/abs/2504.17950)|null|
@@ -133,6 +142,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning**|Alan Yuille Team|[2504.20024](http://arxiv.org/abs/2504.20024)|null|
+|**2025-04-28**|**EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak Supervision with Species Observations and Wikipedia**|Diego Marcos Team|[2504.19742](http://arxiv.org/abs/2504.19742)|null|
+|**2025-04-28**|**Contrastive Language-Image Learning with Augmented Textual Prompts for 3D/4D FER Using Vision-Language Model**|Guoying Zhao Team|[2504.19739](http://arxiv.org/abs/2504.19739)|null|
+|**2025-04-28**|**VCM: Vision Concept Modeling Based on Implicit Contrastive Learning with Vision-Language Instruction Fine-Tuning**|Xiaobo Xia Team|[2504.19627](http://arxiv.org/abs/2504.19627)|null|
+|**2025-04-28**|**LR-IAD:Mask-Free Industrial Anomaly Detection with Logical Reasoning**|Aimin Yang Team|[2504.19524](http://arxiv.org/abs/2504.19524)|null|
+|**2025-04-27**|**DeepSPG: Exploring Deep Semantic Prior Guidance for Low-light Image Enhancement with Multimodal Learning**|Shini Han Team|[2504.19127](http://arxiv.org/abs/2504.19127)|null|
+|**2025-04-27**|**Boosting Single-domain Generalized Object Detection via Vision-Language Knowledge Interaction**|Jian Liu Team|[2504.19086](http://arxiv.org/abs/2504.19086)|null|
+|**2025-04-26**|**Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation**|Arif Mahmood Team|[2504.18856](http://arxiv.org/abs/2504.18856)|null|
+|**2025-04-26**|**Video CLIP Model for Multi-View Echocardiography Interpretation**|Norihiko Takeda Team|[2504.18800](http://arxiv.org/abs/2504.18800)|null|
+|**2025-04-25**|**A Review of 3D Object Detection with Vision-Language Models**|Manoj Karkee Team|[2504.18738](http://arxiv.org/abs/2504.18738)|null|
+|**2025-04-25**|**Proof-of-TBI -- Fine-Tuned Vision Language Model Consortium and OpenAI-o3 Reasoning LLM-Based Medical Diagnosis Support System for Mild Traumatic Brain Injury (TBI) Prediction**|Donna Broshek Team|[2504.18671](http://arxiv.org/abs/2504.18671)|null|
 |**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang Team|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
 |**2025-04-25**|**Fast-Slow Thinking for Large Vision-Language Model Reasoning**|Fei Wu Team|[2504.18458](http://arxiv.org/abs/2504.18458)|null|
 |**2025-04-25**|**Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation**|Guang Yang Team|[2504.18453](http://arxiv.org/abs/2504.18453)|null|
@@ -319,6 +339,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks**|Soujanya Poria Team|[2504.19854](http://arxiv.org/abs/2504.19854)|null|
 |**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Ury Zhilinsky Team|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
 |**2025-04-22**|**Few-Shot Vision-Language Action-Incremental Policy Learning**|Weili Guan Team|[2504.15517](http://arxiv.org/abs/2504.15517)|null|
 |**2025-04-18**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia Team|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
@@ -389,6 +410,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-27**|**PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies**|Edward Adelson Team|[2504.19341](http://arxiv.org/abs/2504.19341)|null|
 |**2025-04-23**|**PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands**|Ziyuan Jiao Team|[2504.16649](http://arxiv.org/abs/2504.16649)|null|
 |**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Ury Zhilinsky Team|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
 |**2025-04-21**|**LAPP: Large Language Model Feedback for Preference-Driven Reinforcement Learning**|Boyuan Chen Team|[2504.15472](http://arxiv.org/abs/2504.15472)|null|
