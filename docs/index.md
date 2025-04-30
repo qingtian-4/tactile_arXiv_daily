@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -12,7 +12,7 @@ layout: default
 |**2025-04-28**|**UTTG_ A Universal Teleoperation Approach via Online Trajectory Generation**|Hesheng Wang Team|[2504.19736](http://arxiv.org/abs/2504.19736)|null|
 |**2025-04-28**|**GPA-RAM: Grasp-Pretraining Augmented Robotic Attention Mamba for Spatial Task Learning**|Mengyuan Liu Team|[2504.19683](http://arxiv.org/abs/2504.19683)|null|
 |**2025-04-27**|**PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies**|Edward Adelson Team|[2504.19341](http://arxiv.org/abs/2504.19341)|null|
-|**2025-04-27**|**Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation**|Marco Hutter Team|[2504.19322](http://arxiv.org/abs/2504.19322)|**[link](https://github.com/leggedrobotics/fdm)**|
+|**2025-04-29**|**Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation**|Marco Hutter Team|[2504.19322](http://arxiv.org/abs/2504.19322)|**[link](https://github.com/leggedrobotics/fdm)**|
 |**2025-04-27**|**Learning to Drive from a World Model**|Yassine Yousfi Team|[2504.19077](http://arxiv.org/abs/2504.19077)|null|
 |**2025-04-26**|**RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning**|Pieter Abbeel Team|[2504.18904](http://arxiv.org/abs/2504.18904)|null|
 |**2025-04-26**|**Imitation Learning for Autonomous Driving: Insights from Real-World Testing**|Tufan Kumbasar Team|[2504.18847](http://arxiv.org/abs/2504.18847)|null|
