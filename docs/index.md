@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Chuang Gan Team|[2504.20995](http://arxiv.org/abs/2504.20995)|null|
+|**2025-04-29**|**XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search**|Elena Shrestha Team|[2504.20969](http://arxiv.org/abs/2504.20969)|null|
+|**2025-04-29**|**PRISM: Projection-based Reward Integration for Scene-Aware Real-to-Sim-to-Real Transfer with Few Demonstrations**|Xuguang Lan Team|[2504.20520](http://arxiv.org/abs/2504.20520)|null|
+|**2025-04-29**|**SPARK Hand: Scooping-Pinching Adaptive Robotic Hand with Kempe Mechanism for Vertical Passive Grasp in Environmental Constraints**|Wenzeng Zhang Team|[2504.20506](http://arxiv.org/abs/2504.20506)|null|
 |**2025-04-28**|**UTTG_ A Universal Teleoperation Approach via Online Trajectory Generation**|Hesheng Wang Team|[2504.19736](http://arxiv.org/abs/2504.19736)|null|
 |**2025-04-28**|**GPA-RAM: Grasp-Pretraining Augmented Robotic Attention Mamba for Spatial Task Learning**|Mengyuan Liu Team|[2504.19683](http://arxiv.org/abs/2504.19683)|null|
 |**2025-04-27**|**PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies**|Edward Adelson Team|[2504.19341](http://arxiv.org/abs/2504.19341)|null|
@@ -133,6 +137,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Real-Time Wayfinding Assistant for Blind and Low-Vision Users**|Farhan Sadaf Team|[2504.20976](http://arxiv.org/abs/2504.20976)|null|
+|**2025-04-29**|**FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models**|Elisa Ricci Team|[2504.20860](http://arxiv.org/abs/2504.20860)|null|
+|**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Yi Yang Team|[2504.20690](http://arxiv.org/abs/2504.20690)|null|
+|**2025-04-29**|**SpaRE: Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data**|Freda Shi Team|[2504.20648](http://arxiv.org/abs/2504.20648)|null|
+|**2025-04-29**|**PRISM: Projection-based Reward Integration for Scene-Aware Real-to-Sim-to-Real Transfer with Few Demonstrations**|Xuguang Lan Team|[2504.20520](http://arxiv.org/abs/2504.20520)|null|
+|**2025-04-29**|**Antidote: A Unified Framework for Mitigating LVLM Hallucinations in Counterfactual Presupposition and Object Perception**|Xiaoqiang Li Team|[2504.20468](http://arxiv.org/abs/2504.20468)|null|
+|**2025-04-29**|**Plant Disease Detection through Multimodal Large Language Models and Convolutional Neural Networks**|Dimitrios K. Nasiopoulos Team|[2504.20419](http://arxiv.org/abs/2504.20419)|null|
+|**2025-04-29**|**FiLA-Video: Spatio-Temporal Compression for Fine-Grained Long Video Understanding**|Bo Zheng Team|[2504.20384](http://arxiv.org/abs/2504.20384)|null|
+|**2025-04-28**|**A Multimodal Pipeline for Clinical Data Extraction: Applying Vision-Language Models to Scans of Transfusion Reaction Reports**|Christoph M. Friedrich Team|[2504.20220](http://arxiv.org/abs/2504.20220)|null|
+|**2025-04-28**|**Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains**|Rui Yan Team|[2504.20199](http://arxiv.org/abs/2504.20199)|null|
 |**2025-04-28**|**SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning**|Alan Yuille Team|[2504.20024](http://arxiv.org/abs/2504.20024)|null|
 |**2025-04-28**|**EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak Supervision with Species Observations and Wikipedia**|Diego Marcos Team|[2504.19742](http://arxiv.org/abs/2504.19742)|null|
 |**2025-04-28**|**Contrastive Language-Image Learning with Augmented Textual Prompts for 3D/4D FER Using Vision-Language Model**|Guoying Zhao Team|[2504.19739](http://arxiv.org/abs/2504.19739)|null|
@@ -358,6 +372,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Jianwei Zhang Team|[2504.20808](http://arxiv.org/abs/2504.20808)|null|
+|**2025-04-27**|**Personalized Artificial General Intelligence (AGI) via Neuroscience-Inspired Continuous Learning Systems**|Jairaj Singh Shaktawat Team|[2504.20109](http://arxiv.org/abs/2504.20109)|null|
 |**2025-04-24**|**Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot**|Koushil Sreenath Team|[2504.17249](http://arxiv.org/abs/2504.17249)|null|
 |**2025-04-20**|**ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training**|Jiahao Chen Team|[2504.14477](http://arxiv.org/abs/2504.14477)|null|
 |**2025-04-19**|**Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning**|Xuelong Li Team|[2504.14305](http://arxiv.org/abs/2504.14305)|null|
