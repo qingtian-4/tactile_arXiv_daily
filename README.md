@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**LLM-based Interactive Imitation Learning for Robotic Manipulation**|Stefan Wermter Team|[2504.21769](http://arxiv.org/abs/2504.21769)|null|
+|**2025-04-30**|**RoboGround: Robotic Manipulation with Grounded Vision-Language Priors**|Zhou Zhao Team|[2504.21530](http://arxiv.org/abs/2504.21530)|null|
+|**2025-04-30**|**Provably-Safe, Online System Identification**|Ram Vasudevan Team|[2504.21486](http://arxiv.org/abs/2504.21486)|null|
 |**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Chuang Gan Team|[2504.20995](http://arxiv.org/abs/2504.20995)|null|
 |**2025-04-29**|**XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search**|Elena Shrestha Team|[2504.20969](http://arxiv.org/abs/2504.20969)|null|
 |**2025-04-29**|**PRISM: Projection-based Reward Integration for Scene-Aware Real-to-Sim-to-Real Transfer with Few Demonstrations**|Xuguang Lan Team|[2504.20520](http://arxiv.org/abs/2504.20520)|null|
@@ -146,6 +149,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Ganesh Ramakrishnan Team|[2504.21831](http://arxiv.org/abs/2504.21831)|null|
+|**2025-04-30**|**Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models**|Lin Lee Cheong Team|[2504.21559](http://arxiv.org/abs/2504.21559)|null|
+|**2025-04-30**|**RoboGround: Robotic Manipulation with Grounded Vision-Language Priors**|Zhou Zhao Team|[2504.21530](http://arxiv.org/abs/2504.21530)|null|
+|**2025-04-30**|**Vision-Language Model-Based Semantic-Guided Imaging Biomarker for Early Lung Cancer Detection**|William Hsu Team|[2504.21344](http://arxiv.org/abs/2504.21344)|null|
+|**2025-04-29**|**MemeBLIP2: A novel lightweight multimodal system to detect harmful memes**|Lisha Xu Team|[2504.21226](http://arxiv.org/abs/2504.21226)|null|
+|**2025-04-29**|**GLIP-OOD: Zero-Shot Graph OOD Detection with Foundation Model**|Yue Zhao Team|[2504.21186](http://arxiv.org/abs/2504.21186)|null|
+|**2025-04-29**|**Token-Level Prompt Mixture with Parameter-Free Routing for Federated Domain Generalization**|Xiaojun Chang Team|[2504.21063](http://arxiv.org/abs/2504.21063)|null|
 |**2025-04-29**|**Real-Time Wayfinding Assistant for Blind and Low-Vision Users**|Farhan Sadaf Team|[2504.20976](http://arxiv.org/abs/2504.20976)|null|
 |**2025-04-29**|**FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models**|Elisa Ricci Team|[2504.20860](http://arxiv.org/abs/2504.20860)|null|
 |**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Yi Yang Team|[2504.20690](http://arxiv.org/abs/2504.20690)|null|
@@ -385,6 +395,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning**|Koushil Sreenath Team|[2504.21738](http://arxiv.org/abs/2504.21738)|null|
 |**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Jianwei Zhang Team|[2504.20808](http://arxiv.org/abs/2504.20808)|null|
 |**2025-04-27**|**Personalized Artificial General Intelligence (AGI) via Neuroscience-Inspired Continuous Learning Systems**|Jairaj Singh Shaktawat Team|[2504.20109](http://arxiv.org/abs/2504.20109)|null|
 |**2025-04-24**|**Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot**|Koushil Sreenath Team|[2504.17249](http://arxiv.org/abs/2504.17249)|null|
@@ -426,6 +437,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning**|Yunduan Cui Team|[2504.21585](http://arxiv.org/abs/2504.21585)|null|
 |**2025-04-27**|**PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies**|Edward Adelson Team|[2504.19341](http://arxiv.org/abs/2504.19341)|null|
 |**2025-04-23**|**PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands**|Ziyuan Jiao Team|[2504.16649](http://arxiv.org/abs/2504.16649)|null|
 |**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Ury Zhilinsky Team|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
