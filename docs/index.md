@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Robotic Visual Instruction**|Xianzheng Ma Team|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
+|**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Bolei Zhou Team|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
+|**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Yang Gao Team|[2505.00527](http://arxiv.org/abs/2505.00527)|null|
+|**2025-05-01**|**Optimal Interactive Learning on the Job via Facility Location Planning**|George Konidaris Team|[2505.00490](http://arxiv.org/abs/2505.00490)|null|
 |**2025-04-30**|**LLM-based Interactive Imitation Learning for Robotic Manipulation**|Stefan Wermter Team|[2504.21769](http://arxiv.org/abs/2504.21769)|null|
 |**2025-04-30**|**RoboGround: Robotic Manipulation with Grounded Vision-Language Priors**|Zhou Zhao Team|[2504.21530](http://arxiv.org/abs/2504.21530)|null|
 |**2025-04-30**|**Provably-Safe, Online System Identification**|Ram Vasudevan Team|[2504.21486](http://arxiv.org/abs/2504.21486)|null|
@@ -140,6 +144,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Robotic Visual Instruction**|Xianzheng Ma Team|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
+|**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Honglak Lee Team|[2505.00684](http://arxiv.org/abs/2505.00684)|null|
+|**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Yang Gao Team|[2505.00527](http://arxiv.org/abs/2505.00527)|null|
+|**2025-05-01**|**LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving**|Henry X. Liu Team|[2505.00284](http://arxiv.org/abs/2505.00284)|null|
+|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Tianming Liu Team|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
+|**2025-04-30**|**V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving**|Markus Lienkamp Team|[2505.00156](http://arxiv.org/abs/2505.00156)|null|
+|**2025-04-30**|**Detecting and Mitigating Hateful Content in Multimodal Memes with Vision-Language Models**|Xintao Wu Team|[2505.00150](http://arxiv.org/abs/2505.00150)|null|
+|**2025-04-30**|**Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design**|Mahdi S. Hosseini Team|[2505.00134](http://arxiv.org/abs/2505.00134)|null|
 |**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Ganesh Ramakrishnan Team|[2504.21831](http://arxiv.org/abs/2504.21831)|null|
 |**2025-04-30**|**Black-Box Visual Prompt Engineering for Mitigating Object Hallucination in Large Vision Language Models**|Lin Lee Cheong Team|[2504.21559](http://arxiv.org/abs/2504.21559)|null|
 |**2025-04-30**|**RoboGround: Robotic Manipulation with Grounded Vision-Language Priors**|Zhou Zhao Team|[2504.21530](http://arxiv.org/abs/2504.21530)|null|
