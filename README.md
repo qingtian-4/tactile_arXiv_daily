@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Sayan Mitra Team|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Xianzheng Ma Team|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Bolei Zhou Team|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
 |**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Yang Gao Team|[2505.00527](http://arxiv.org/abs/2505.00527)|null|
@@ -153,6 +154,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Ahmed H. Qureshi Team|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
+|**2025-05-02**|**Evaluating Vision Language Model Adaptations for Radiology Report Generation in Low-Resource Languages**|Valerio Guarrasi Team|[2505.01096](http://arxiv.org/abs/2505.01096)|null|
+|**2025-05-02**|**Any-to-Any Vision-Language Model for Multimodal X-ray Imaging and Radiological Report Generation**|Valerio Guarrasi Team|[2505.01091](http://arxiv.org/abs/2505.01091)|null|
+|**2025-05-02**|**Transferable Adversarial Attacks on Black-Box Vision-Language Models**|Matt Fredrikson Team|[2505.01050](http://arxiv.org/abs/2505.01050)|null|
+|**2025-04-30**|**Entropy Heat-Mapping: Localizing GPT-Based OCR Errors with Sliding-Window Shannon Analysis**|Alexei Kaltchenko Team|[2505.00746](http://arxiv.org/abs/2505.00746)|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Xianzheng Ma Team|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Honglak Lee Team|[2505.00684](http://arxiv.org/abs/2505.00684)|null|
 |**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Yang Gao Team|[2505.00527](http://arxiv.org/abs/2505.00527)|null|
@@ -449,6 +455,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction**|Miao Li Team|[2505.01083](http://arxiv.org/abs/2505.01083)|null|
+|**2025-05-02**|**DexCtrl: Towards Sim-to-Real Dexterity with Adaptive Controller Learning**|Masayoshi Tomizuka Team|[2505.00991](http://arxiv.org/abs/2505.00991)|null|
 |**2025-04-30**|**Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning**|Yunduan Cui Team|[2504.21585](http://arxiv.org/abs/2504.21585)|null|
 |**2025-04-27**|**PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies**|Edward Adelson Team|[2504.19341](http://arxiv.org/abs/2504.19341)|null|
 |**2025-04-23**|**PP-Tac: Paper Picking Using Tactile Feedback in Dexterous Robotic Hands**|Ziyuan Jiao Team|[2504.16649](http://arxiv.org/abs/2504.16649)|null|
