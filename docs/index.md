@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Re-purposing a modular origami manipulator into an adaptive physical computer for machine learning and robotic perception**|Suyi Li Team|[2505.02744](http://arxiv.org/abs/2505.02744)|null|
+|**2025-05-05**|**Spatiotemporal Non-Uniformity-Aware Online Task Scheduling in Collaborative Edge Computing for Industrial Internet of Things**|Bo Lei Team|[2505.02597](http://arxiv.org/abs/2505.02597)|null|
+|**2025-05-05**|**Automated Hybrid Reward Scheduling via Large Language Models for Robotic Skill Learning**|Jianqiang Li Team|[2505.02483](http://arxiv.org/abs/2505.02483)|null|
+|**2025-05-05**|**MetaScenes: Towards Automated Replica Creation for Real-world 3D Scans**|Siyuan Huang Team|[2505.02388](http://arxiv.org/abs/2505.02388)|null|
+|**2025-05-04**|**Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning**|Hao Su Team|[2505.02228](http://arxiv.org/abs/2505.02228)|null|
+|**2025-05-04**|**CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation**|Hao Dong Team|[2505.02166](http://arxiv.org/abs/2505.02166)|null|
+|**2025-05-04**|**Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions**|Mingyu Ding Team|[2505.02152](http://arxiv.org/abs/2505.02152)|null|
+|**2025-05-03**|**Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios**|David Fridovich-Keil Team|[2505.01945](http://arxiv.org/abs/2505.01945)|null|
+|**2025-05-03**|**RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation**|Xiaodan Liang Team|[2505.01709](http://arxiv.org/abs/2505.01709)|null|
 |**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Sayan Mitra Team|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Xianzheng Ma Team|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Bolei Zhou Team|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
@@ -145,6 +154,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|David M. Chan Team|[2505.02829](http://arxiv.org/abs/2505.02829)|null|
+|**2025-05-05**|**HapticVLM: VLM-Driven Texture Recognition Aimed at Intelligent Haptic Interaction**|Dzmitry Tsetserukou Team|[2505.02569](http://arxiv.org/abs/2505.02569)|null|
+|**2025-05-05**|**Tevatron 2.0: Unified Document Retrieval Toolkit across Scale, Language, and Modality**|Jimmy Lin Team|[2505.02466](http://arxiv.org/abs/2505.02466)|null|
+|**2025-05-05**|**Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey**|Songcan Chen Team|[2505.02448](http://arxiv.org/abs/2505.02448)|null|
+|**2025-05-05**|**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing**|Sijie Zhu Team|[2505.02370](http://arxiv.org/abs/2505.02370)|null|
+|**2025-05-05**|**TeDA: Boosting Vision-Lanuage Models for Zero-Shot 3D Object Retrieval via Testing-time Distribution Alignment**|Xinwei He Team|[2505.02325](http://arxiv.org/abs/2505.02325)|null|
+|**2025-05-04**|**Compositional Image-Text Matching and Retrieval by Grounding Entities**|Jana Košecká Team|[2505.02278](http://arxiv.org/abs/2505.02278)|null|
+|**2025-05-04**|**Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin**|Xinyang Chen Team|[2505.02056](http://arxiv.org/abs/2505.02056)|null|
+|**2025-05-04**|**A Comprehensive Analysis for Visual Object Hallucination in Large Vision-Language Models**|Xinya Du Team|[2505.01958](http://arxiv.org/abs/2505.01958)|null|
+|**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Santosh Patapati Team|[2505.01881](http://arxiv.org/abs/2505.01881)|null|
+|**2025-05-03**|**Enhancing the Learning Experience: Using Vision-Language Models to Generate Questions for Educational Videos**|Anett Hoppe Team|[2505.01790](http://arxiv.org/abs/2505.01790)|null|
+|**2025-05-03**|**An LLM-Empowered Low-Resolution Vision System for On-Device Human Behavior Understanding**|Guoliang Xing Team|[2505.01743](http://arxiv.org/abs/2505.01743)|null|
+|**2025-05-03**|**Vision and Intention Boost Large Language Model in Long-Term Action Anticipation**|Yanning Zhang Team|[2505.01713](http://arxiv.org/abs/2505.01713)|null|
+|**2025-05-03**|**RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation**|Xiaodan Liang Team|[2505.01709](http://arxiv.org/abs/2505.01709)|null|
+|**2025-05-03**|**Topology-Aware CLIP Few-Shot Learning**|Dazhi Huang Team|[2505.01694](http://arxiv.org/abs/2505.01694)|null|
+|**2025-05-02**|**TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action**|Jenq-Neng Hwang Team|[2505.01583](http://arxiv.org/abs/2505.01583)|null|
+|**2025-05-02**|**Grounding Task Assistance with Multimodal Cues from a Single Demonstration**|Andrew D. Wilson Team|[2505.01578](http://arxiv.org/abs/2505.01578)|null|
 |**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Ahmed H. Qureshi Team|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
 |**2025-05-02**|**Evaluating Vision Language Model Adaptations for Radiology Report Generation in Low-Resource Languages**|Valerio Guarrasi Team|[2505.01096](http://arxiv.org/abs/2505.01096)|null|
 |**2025-05-02**|**Any-to-Any Vision-Language Model for Multimodal X-ray Imaging and Radiological Report Generation**|Valerio Guarrasi Team|[2505.01091](http://arxiv.org/abs/2505.01091)|null|
@@ -370,6 +396,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-04**|**CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation**|Hao Dong Team|[2505.02166](http://arxiv.org/abs/2505.02166)|null|
+|**2025-05-04**|**Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions**|Mingyu Ding Team|[2505.02152](http://arxiv.org/abs/2505.02152)|null|
 |**2025-04-28**|**NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks**|Soujanya Poria Team|[2504.19854](http://arxiv.org/abs/2504.19854)|null|
 |**2025-04-22**|**$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization**|Ury Zhilinsky Team|[2504.16054](http://arxiv.org/abs/2504.16054)|null|
 |**2025-04-22**|**Few-Shot Vision-Language Action-Incremental Policy Learning**|Weili Guan Team|[2504.15517](http://arxiv.org/abs/2504.15517)|null|
@@ -400,6 +428,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|C. Karen Liu Team|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-04-30**|**LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning**|Koushil Sreenath Team|[2504.21738](http://arxiv.org/abs/2504.21738)|null|
 |**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Jianwei Zhang Team|[2504.20808](http://arxiv.org/abs/2504.20808)|null|
 |**2025-04-27**|**Personalized Artificial General Intelligence (AGI) via Neuroscience-Inspired Continuous Learning Systems**|Jairaj Singh Shaktawat Team|[2504.20109](http://arxiv.org/abs/2504.20109)|null|
@@ -440,6 +469,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-04**|**Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning**|Sven Behnke Team|[2505.02232](http://arxiv.org/abs/2505.02232)|null|
+|**2025-05-04**|**KineDex: Learning Tactile-Informed Visuomotor Policies via Kinesthetic Teaching for Dexterous Manipulation**|Yang Gao Team|[2505.01974](http://arxiv.org/abs/2505.01974)|null|
 |**2025-05-02**|**DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction**|Miao Li Team|[2505.01083](http://arxiv.org/abs/2505.01083)|null|
 |**2025-05-02**|**DexCtrl: Towards Sim-to-Real Dexterity with Adaptive Controller Learning**|Masayoshi Tomizuka Team|[2505.00991](http://arxiv.org/abs/2505.00991)|null|
 |**2025-04-30**|**Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning**|Yunduan Cui Team|[2504.21585](http://arxiv.org/abs/2504.21585)|null|
