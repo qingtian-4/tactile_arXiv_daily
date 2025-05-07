@@ -16,6 +16,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Xiaolong Wang Team|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
+|**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Marc Toussaint Team|[2505.03725](http://arxiv.org/abs/2505.03725)|null|
+|**2025-05-06**|**Ergodic Generative Flows**|Yinchuan Li Team|[2505.03561](http://arxiv.org/abs/2505.03561)|null|
+|**2025-05-06**|**RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation**|Sifa Zheng Team|[2505.03344](http://arxiv.org/abs/2505.03344)|null|
+|**2025-05-06**|**The Unreasonable Effectiveness of Discrete-Time Gaussian Process Mixtures for Robot Policy Learning**|Abhinav Valada Team|[2505.03296](http://arxiv.org/abs/2505.03296)|null|
+|**2025-05-05**|**Sim2Real Transfer for Vision-Based Grasp Verification**|Markus Vincze Team|[2505.03046](http://arxiv.org/abs/2505.03046)|null|
+|**2025-05-05**|**Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks**|Jia Deng Team|[2505.02915](http://arxiv.org/abs/2505.02915)|null|
 |**2025-05-05**|**Re-purposing a modular origami manipulator into an adaptive physical computer for machine learning and robotic perception**|Suyi Li Team|[2505.02744](http://arxiv.org/abs/2505.02744)|null|
 |**2025-05-05**|**Spatiotemporal Non-Uniformity-Aware Online Task Scheduling in Collaborative Edge Computing for Industrial Internet of Things**|Bo Lei Team|[2505.02597](http://arxiv.org/abs/2505.02597)|null|
 |**2025-05-05**|**Automated Hybrid Reward Scheduling via Large Language Models for Robotic Skill Learning**|Jianqiang Li Team|[2505.02483](http://arxiv.org/abs/2505.02483)|null|
@@ -163,6 +170,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|Victor Amblard Team|[2505.03703](http://arxiv.org/abs/2505.03703)|null|
+|**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Xin Geng Team|[2505.03667](http://arxiv.org/abs/2505.03667)|null|
+|**2025-05-06**|**Learning Unknown Spoof Prompts for Generalized Face Anti-Spoofing Using Only Real Face Images**|Zhenan Sun Team|[2505.03611](http://arxiv.org/abs/2505.03611)|null|
+|**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Ming-Hsuan Yang Team|[2505.03610](http://arxiv.org/abs/2505.03610)|null|
+|**2025-05-06**|**Mitigating Image Captioning Hallucinations in Vision-Language Models**|Xi Li Team|[2505.03420](http://arxiv.org/abs/2505.03420)|null|
+|**2025-05-06**|**Enhancing Target-unspecific Tasks through a Features Matrix**|Jun Yu Team|[2505.03414](http://arxiv.org/abs/2505.03414)|null|
+|**2025-05-06**|**Reducing Annotation Burden in Physical Activity Research Using Vision-Language Models**|Aiden Doherty Team|[2505.03374](http://arxiv.org/abs/2505.03374)|null|
+|**2025-05-06**|**A Vision-Language Model for Focal Liver Lesion Classification**|Chen Yen-Wei Team|[2505.03350](http://arxiv.org/abs/2505.03350)|null|
+|**2025-05-06**|**From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**|Rong Xiao Team|[2505.03334](http://arxiv.org/abs/2505.03334)|null|
+|**2025-05-06**|**Seeing the Abstract: Translating the Abstract Language for Vision Language Models**|Yiming Wang Team|[2505.03242](http://arxiv.org/abs/2505.03242)|null|
+|**2025-05-06**|**VLM Q-Learning: Aligning Vision-Language Models for Interactive Decision-Making**|Juan Carlos Niebles Team|[2505.03181](http://arxiv.org/abs/2505.03181)|null|
+|**2025-05-06**|**Robust Fairness Vision-Language Learning for Medical Image Analysis**|Shu Hu Team|[2505.03153](http://arxiv.org/abs/2505.03153)|null|
+|**2025-05-05**|**Adversarial Robustness Analysis of Vision-Language Models in Medical Image Segmentation**|Manish Dhakal Team|[2505.02971](http://arxiv.org/abs/2505.02971)|null|
 |**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|David M. Chan Team|[2505.02829](http://arxiv.org/abs/2505.02829)|null|
 |**2025-05-05**|**HapticVLM: VLM-Driven Texture Recognition Aimed at Intelligent Haptic Interaction**|Dzmitry Tsetserukou Team|[2505.02569](http://arxiv.org/abs/2505.02569)|null|
 |**2025-05-05**|**Tevatron 2.0: Unified Document Retrieval Toolkit across Scale, Language, and Modality**|Jimmy Lin Team|[2505.02466](http://arxiv.org/abs/2505.02466)|null|
@@ -407,6 +427,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li Team|[2505.03500](http://arxiv.org/abs/2505.03500)|null|
+|**2025-05-06**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|He Wang Team|[2505.03233](http://arxiv.org/abs/2505.03233)|null|
+|**2025-05-06**|**Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets**|Ross Greer Team|[2505.03174](http://arxiv.org/abs/2505.03174)|null|
 |**2025-05-04**|**CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation**|Hao Dong Team|[2505.02166](http://arxiv.org/abs/2505.02166)|null|
 |**2025-05-04**|**Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions**|Mingyu Ding Team|[2505.02152](http://arxiv.org/abs/2505.02152)|null|
 |**2025-04-28**|**NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks**|Soujanya Poria Team|[2504.19854](http://arxiv.org/abs/2504.19854)|null|
@@ -441,6 +464,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Xiaolong Wang Team|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
+|**2025-05-06**|**Visual Imitation Enables Contextual Humanoid Control**|Angjoo Kanazawa Team|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|C. Karen Liu Team|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-04-30**|**LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning**|Koushil Sreenath Team|[2504.21738](http://arxiv.org/abs/2504.21738)|null|
 |**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Jianwei Zhang Team|[2504.20808](http://arxiv.org/abs/2504.20808)|null|
