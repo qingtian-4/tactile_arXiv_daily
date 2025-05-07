@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -19,7 +19,7 @@ layout: default
 |**2025-05-03**|**Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios**|David Fridovich-Keil Team|[2505.01945](http://arxiv.org/abs/2505.01945)|null|
 |**2025-05-03**|**RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation**|Xiaodan Liang Team|[2505.01709](http://arxiv.org/abs/2505.01709)|null|
 |**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Sayan Mitra Team|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
-|**2025-05-01**|**Robotic Visual Instruction**|Xianzheng Ma Team|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
+|**2025-05-06**|**Robotic Visual Instruction**|Xianzheng Ma Team|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Towards Autonomous Micromobility through Scalable Urban Simulation**|Bolei Zhou Team|[2505.00690](http://arxiv.org/abs/2505.00690)|null|
 |**2025-05-01**|**DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation**|Yang Gao Team|[2505.00527](http://arxiv.org/abs/2505.00527)|null|
 |**2025-05-01**|**Optimal Interactive Learning on the Job via Facility Location Planning**|George Konidaris Team|[2505.00490](http://arxiv.org/abs/2505.00490)|null|
