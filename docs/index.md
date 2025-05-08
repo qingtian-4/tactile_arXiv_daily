@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation**|Henrik I. Christensen Team|[2505.04619](http://arxiv.org/abs/2505.04619)|null|
+|**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Donglin Wang Team|[2505.03912](http://arxiv.org/abs/2505.03912)|null|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Xiaolong Wang Team|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
 |**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Marc Toussaint Team|[2505.03725](http://arxiv.org/abs/2505.03725)|null|
 |**2025-05-06**|**Ergodic Generative Flows**|Yinchuan Li Team|[2505.03561](http://arxiv.org/abs/2505.03561)|null|
@@ -161,6 +163,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**|Xinlei He Team|[2505.04488](http://arxiv.org/abs/2505.04488)|null|
+|**2025-05-07**|**DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception**|Zhuotao Tian Team|[2505.04410](http://arxiv.org/abs/2505.04410)|null|
+|**2025-05-07**|**CM1 -- A Dataset for Evaluating Few-Shot Information Extraction with Large Vision Language Models**|Gernot A. Fink Team|[2505.04214](http://arxiv.org/abs/2505.04214)|null|
+|**2025-05-07**|**R^3-VQA: "Read the Room" by Video Social Reasoning**|Lifeng Fan Team|[2505.04147](http://arxiv.org/abs/2505.04147)|null|
+|**2025-05-06**|**X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains**|Hoifung Poon Team|[2505.03981](http://arxiv.org/abs/2505.03981)|null|
 |**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|Victor Amblard Team|[2505.03703](http://arxiv.org/abs/2505.03703)|null|
 |**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Xin Geng Team|[2505.03667](http://arxiv.org/abs/2505.03667)|null|
 |**2025-05-06**|**Learning Unknown Spoof Prompts for Generalized Face Anti-Spoofing Using Only Real Face Images**|Zhenan Sun Team|[2505.03611](http://arxiv.org/abs/2505.03611)|null|
@@ -416,6 +423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Donglin Wang Team|[2505.03912](http://arxiv.org/abs/2505.03912)|null|
 |**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li Team|[2505.03500](http://arxiv.org/abs/2505.03500)|null|
 |**2025-05-06**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|He Wang Team|[2505.03233](http://arxiv.org/abs/2505.03233)|null|
 |**2025-05-06**|**Automated Data Curation Using GPS & NLP to Generate Instruction-Action Pairs for Autonomous Vehicle Vision-Language Navigation Datasets**|Ross Greer Team|[2505.03174](http://arxiv.org/abs/2505.03174)|null|
