@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations**|Stephen Tu Team|[2505.04999](http://arxiv.org/abs/2505.04999)|null|
+|**2025-05-08**|**CubeDAgger: Improved Robustness of Interactive Imitation Learning without Violation of Dynamic Stability**|Taisuke Kobayashi Team|[2505.04897](http://arxiv.org/abs/2505.04897)|null|
+|**2025-05-08**|**D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation**|Daniel Seita Team|[2505.04860](http://arxiv.org/abs/2505.04860)|null|
+|**2025-05-07**|**Steerable Scene Generation with Post Training and Inference-Time Search**|Russ Tedrake Team|[2505.04831](http://arxiv.org/abs/2505.04831)|null|
+|**2025-05-07**|**Primal-dual algorithm for contextual stochastic combinatorial optimization**|Axel Parmentier Team|[2505.04757](http://arxiv.org/abs/2505.04757)|null|
 |**2025-05-07**|**Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation**|Henrik I. Christensen Team|[2505.04619](http://arxiv.org/abs/2505.04619)|null|
 |**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Donglin Wang Team|[2505.03912](http://arxiv.org/abs/2505.03912)|null|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Xiaolong Wang Team|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
@@ -163,8 +168,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Junxian He Team|[2505.05464](http://arxiv.org/abs/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|
+|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Boqing Gong Team|[2505.05456](http://arxiv.org/abs/2505.05456)|null|
+|**2025-05-08**|**DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning**|Jun Ma Team|[2505.05360](http://arxiv.org/abs/2505.05360)|null|
+|**2025-05-08**|**Hearing and Seeing Through CLIP: A Framework for Self-Supervised Sound Source Localization**|Joon Son Chung Team|[2505.05343](http://arxiv.org/abs/2505.05343)|**[link](https://github.com/swimmiing/ACL-SSL)**|
+|**2025-05-08**|**Mapping User Trust in Vision Language Models: Research Landscape, Challenges, and Prospects**|Matteo Matteucci Team|[2505.05318](http://arxiv.org/abs/2505.05318)|null|
+|**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Meng Zhang Team|[2505.05189](http://arxiv.org/abs/2505.05189)|null|
+|**2025-05-08**|**OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning**|Qingming Huang Team|[2505.05180](http://arxiv.org/abs/2505.05180)|**[link](https://github.com/huacong/openworldauc)**|
+|**2025-05-08**|**Probabilistic Embeddings for Frozen Vision-Language Models: Uncertainty Quantification with Gaussian Process Latent Variable Models**|Joachim Denzler Team|[2505.05163](http://arxiv.org/abs/2505.05163)|null|
+|**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Furao Shen Team|[2505.05130](http://arxiv.org/abs/2505.05130)|null|
+|**2025-05-08**|**X-Driver: Explainable Autonomous Driving with Vision-Language Models**|Zengfeng Zeng Team|[2505.05098](http://arxiv.org/abs/2505.05098)|null|
+|**2025-05-08**|**Image-Text Relation Prediction for Multilingual Tweets**|Edison Marrese-Taylor Team|[2505.05040](http://arxiv.org/abs/2505.05040)|null|
+|**2025-05-08**|**G-FOCUS: Towards a Robust Method for Assessing UI Design Persuasiveness**|Youngjae Yu Team|[2505.05026](http://arxiv.org/abs/2505.05026)|null|
+|**2025-05-08**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Daisuke Deguchi Team|[2505.05023](http://arxiv.org/abs/2505.05023)|null|
+|**2025-05-08**|**LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**|Tatsuya Suzuki Team|[2505.04980](http://arxiv.org/abs/2505.04980)|null|
+|**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Manoj Karkee Team|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
 |**2025-05-07**|**"I Can See Forever!": Evaluating Real-time VideoLLMs for Assisting Individuals with Visual Impairments**|Xinlei He Team|[2505.04488](http://arxiv.org/abs/2505.04488)|null|
-|**2025-05-07**|**DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception**|Zhuotao Tian Team|[2505.04410](http://arxiv.org/abs/2505.04410)|null|
+|**2025-05-07**|**DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception**|Zhuotao Tian Team|[2505.04410](http://arxiv.org/abs/2505.04410)|**[link](https://github.com/xiaomoguhz/declip)**|
 |**2025-05-07**|**CM1 -- A Dataset for Evaluating Few-Shot Information Extraction with Large Vision Language Models**|Gernot A. Fink Team|[2505.04214](http://arxiv.org/abs/2505.04214)|null|
 |**2025-05-07**|**R^3-VQA: "Read the Room" by Video Social Reasoning**|Lifeng Fan Team|[2505.04147](http://arxiv.org/abs/2505.04147)|null|
 |**2025-05-06**|**X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains**|Hoifung Poon Team|[2505.03981](http://arxiv.org/abs/2505.03981)|null|
@@ -423,6 +443,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Manoj Karkee Team|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
 |**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Donglin Wang Team|[2505.03912](http://arxiv.org/abs/2505.03912)|null|
 |**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li Team|[2505.03500](http://arxiv.org/abs/2505.03500)|null|
 |**2025-05-06**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|He Wang Team|[2505.03233](http://arxiv.org/abs/2505.03233)|null|
@@ -459,6 +480,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Manoj Karkee Team|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Xiaolong Wang Team|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
 |**2025-05-07**|**Visual Imitation Enables Contextual Humanoid Control**|Angjoo Kanazawa Team|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|C. Karen Liu Team|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
@@ -468,7 +490,7 @@ layout: default
 |**2025-04-24**|**Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot**|Koushil Sreenath Team|[2504.17249](http://arxiv.org/abs/2504.17249)|null|
 |**2025-04-20**|**ExFace: Expressive Facial Control for Humanoid Robots with Diffusion Transformers and Bootstrap Training**|Jiahao Chen Team|[2504.14477](http://arxiv.org/abs/2504.14477)|null|
 |**2025-04-19**|**Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning**|Xuelong Li Team|[2504.14305](http://arxiv.org/abs/2504.14305)|null|
-|**2025-04-18**|**Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning**|Fumio Kanehiro Team|[2504.13619](http://arxiv.org/abs/2504.13619)|null|
+|**2025-04-18**|**Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning**|Fumio Kanehiro Team|[2504.13619](http://arxiv.org/abs/2504.13619)|**[link](https://github.com/rohanpsingh/learninghumanoidwalking)**|
 |**2025-04-16**|**EmoACT: a Framework to Embed Emotions into Artificial Agents Based on Affect Control Theory**|Carmine Tommaso Recchiuto Team|[2504.12125](http://arxiv.org/abs/2504.12125)|null|
 |**2025-04-14**|**Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain**|Zhengtao Zhang Team|[2504.10390](http://arxiv.org/abs/2504.10390)|null|
 |**2025-04-14**|**PreCi: Pretraining and Continual Improvement of Humanoid Locomotion via Model-Assumption-Based Regularization**|Sehoon Ha Team|[2504.09833](http://arxiv.org/abs/2504.09833)|null|
@@ -502,6 +524,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Morphologically Symmetric Reinforcement Learning for Ambidextrous Bimanual Manipulation**|Georgia Chalvatzaki Team|[2505.05287](http://arxiv.org/abs/2505.05287)|null|
 |**2025-05-04**|**Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning**|Sven Behnke Team|[2505.02232](http://arxiv.org/abs/2505.02232)|null|
 |**2025-05-04**|**KineDex: Learning Tactile-Informed Visuomotor Policies via Kinesthetic Teaching for Dexterous Manipulation**|Yang Gao Team|[2505.01974](http://arxiv.org/abs/2505.01974)|null|
 |**2025-05-02**|**DexFlow: A Unified Approach for Dexterous Hand Pose Retargeting and Interaction**|Miao Li Team|[2505.01083](http://arxiv.org/abs/2505.01083)|null|
