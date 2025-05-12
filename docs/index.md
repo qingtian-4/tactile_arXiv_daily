@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -179,7 +179,7 @@ layout: default
 |**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Furao Shen Team|[2505.05130](http://arxiv.org/abs/2505.05130)|null|
 |**2025-05-08**|**X-Driver: Explainable Autonomous Driving with Vision-Language Models**|Zengfeng Zeng Team|[2505.05098](http://arxiv.org/abs/2505.05098)|null|
 |**2025-05-08**|**Image-Text Relation Prediction for Multilingual Tweets**|Edison Marrese-Taylor Team|[2505.05040](http://arxiv.org/abs/2505.05040)|null|
-|**2025-05-08**|**G-FOCUS: Towards a Robust Method for Assessing UI Design Persuasiveness**|Youngjae Yu Team|[2505.05026](http://arxiv.org/abs/2505.05026)|null|
+|**2025-05-09**|**G-FOCUS: Towards a Robust Method for Assessing UI Design Persuasiveness**|Youngjae Yu Team|[2505.05026](http://arxiv.org/abs/2505.05026)|null|
 |**2025-05-08**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Daisuke Deguchi Team|[2505.05023](http://arxiv.org/abs/2505.05023)|null|
 |**2025-05-08**|**LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture**|Tatsuya Suzuki Team|[2505.04980](http://arxiv.org/abs/2505.04980)|null|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Manoj Karkee Team|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
