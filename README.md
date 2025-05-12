@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**VIN-NBV: A View Introspection Network for Next-Best-View Selection for Resource-Efficient 3D Reconstruction**|Roni Sengupta Team|[2505.06219](http://arxiv.org/abs/2505.06219)|null|
+|**2025-05-09**|**Neuro-Symbolic Concepts**|Jiajun Wu Team|[2505.06191](http://arxiv.org/abs/2505.06191)|null|
+|**2025-05-07**|**Efficient Sensorimotor Learning for Open-world Robot Manipulation**|Yifeng Zhu Team|[2505.06136](http://arxiv.org/abs/2505.06136)|null|
+|**2025-05-09**|**Robot Learning Using Multi-Coordinate Elastic Maps**|Reza Azadeh Team|[2505.06092](http://arxiv.org/abs/2505.06092)|null|
+|**2025-05-09**|**TREND: Tri-teaching for Robust Preference-based Reinforcement Learning with Demonstrations**|Abhinav Shrivastava Team|[2505.06079](http://arxiv.org/abs/2505.06079)|null|
+|**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Farshad Khorrami Team|[2505.05800](http://arxiv.org/abs/2505.05800)|null|
+|**2025-05-09**|**Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives**|Mac Schwager Team|[2505.05787](http://arxiv.org/abs/2505.05787)|null|
+|**2025-05-09**|**FlowHFT: Flow Policy Induced Optimal High-Frequency Trading under Diverse Market Conditions**|Steve Yang Team|[2505.05784](http://arxiv.org/abs/2505.05784)|null|
 |**2025-05-08**|**CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations**|Stephen Tu Team|[2505.04999](http://arxiv.org/abs/2505.04999)|null|
 |**2025-05-08**|**CubeDAgger: Improved Robustness of Interactive Imitation Learning without Violation of Dynamic Stability**|Taisuke Kobayashi Team|[2505.04897](http://arxiv.org/abs/2505.04897)|null|
 |**2025-05-08**|**D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation**|Daniel Seita Team|[2505.04860](http://arxiv.org/abs/2505.04860)|null|
@@ -177,6 +185,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks**|Bo Yan Team|[2505.06152](http://arxiv.org/abs/2505.06152)|**[link](https://github.com/zwq803/mm-skin)**|
+|**2025-05-09**|**Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI**|Dominik Bollmann Team|[2505.05895](http://arxiv.org/abs/2505.05895)|null|
+|**2025-05-09**|**Describe Anything in Medical Images**|Min Xu Team|[2505.05804](http://arxiv.org/abs/2505.05804)|null|
+|**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Farshad Khorrami Team|[2505.05800](http://arxiv.org/abs/2505.05800)|null|
+|**2025-05-08**|**Fine-Tuning Video-Text Contrastive Model for Primate Behavior Retrieval from Unlabeled Raw Videos**|Nina S. T. Hirata Team|[2505.05681](http://arxiv.org/abs/2505.05681)|null|
+|**2025-05-08**|**X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP**|James Bailey Team|[2505.05528](http://arxiv.org/abs/2505.05528)|**[link](https://github.com/HanxunH/XTransferBench)**|
 |**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Junxian He Team|[2505.05464](http://arxiv.org/abs/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|
 |**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Boqing Gong Team|[2505.05456](http://arxiv.org/abs/2505.05456)|null|
 |**2025-05-08**|**DSDrive: Distilling Large Language Model for Lightweight End-to-End Autonomous Driving with Unified Reasoning and Planning**|Jun Ma Team|[2505.05360](http://arxiv.org/abs/2505.05360)|null|
@@ -454,6 +468,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Hongyang Li Team|[2505.06111](http://arxiv.org/abs/2505.06111)|**[link](https://github.com/opendrivelab/univla)**|
+|**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Farshad Khorrami Team|[2505.05800](http://arxiv.org/abs/2505.05800)|null|
+|**2025-05-08**|**Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments**|Harshvardhan Sikka Team|[2505.05540](http://arxiv.org/abs/2505.05540)|null|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Manoj Karkee Team|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
 |**2025-05-06**|**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**|Donglin Wang Team|[2505.03912](http://arxiv.org/abs/2505.03912)|null|
 |**2025-05-06**|**Task Reconstruction and Extrapolation for $π_0$ using Text Latent**|Quanyi Li Team|[2505.03500](http://arxiv.org/abs/2505.03500)|null|
@@ -493,6 +510,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Stella X. Yu Team|[2505.06218](http://arxiv.org/abs/2505.06218)|null|
+|**2025-05-09**|**Safe-EF: Error Feedback for Nonsmooth Constrained Optimization**|Ilyas Fatkhullin Team|[2505.06053](http://arxiv.org/abs/2505.06053)|null|
+|**2025-05-09**|**Human-Robot Collaboration for the Remote Control of Mobile Humanoid Robots with Torso-Arm Coordination**|Zhi Li Team|[2505.05773](http://arxiv.org/abs/2505.05773)|null|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Manoj Karkee Team|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Xiaolong Wang Team|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
 |**2025-05-07**|**Visual Imitation Enables Contextual Humanoid Control**|Angjoo Kanazawa Team|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
