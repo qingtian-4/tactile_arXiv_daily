@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Wolfram Burgard Team|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
+|**2025-05-13**|**Beyond Predefined Actions: Integrating Behavior Trees and Dynamic Movement Primitives for Robot Learning from Demonstration**|Todor Stoyanov Team|[2505.08625](http://arxiv.org/abs/2505.08625)|null|
+|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Jianye Hao Team|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
+|**2025-05-13**|**Parameter Estimation using Reinforcement Learning Causal Curiosity: Limits and Challenges**|Weisi Guo Team|[2505.08453](http://arxiv.org/abs/2505.08453)|null|
+|**2025-05-13**|**Adaptive Diffusion Policy Optimization for Robotic Manipulation**|Zhuang Yang Team|[2505.08376](http://arxiv.org/abs/2505.08376)|null|
+|**2025-05-13**|**Learning Like Humans: Advancing LLM Reasoning Capabilities via Adaptive Difficulty Curriculum Learning and Expert-Guided Self-Reformulation**|Qianchun Lu Team|[2505.08364](http://arxiv.org/abs/2505.08364)|null|
+|**2025-05-13**|**Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning**|Biwei Huang Team|[2505.08361](http://arxiv.org/abs/2505.08361)|null|
+|**2025-05-13**|**HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands**|Yunhui Liu Team|[2505.08213](http://arxiv.org/abs/2505.08213)|null|
+|**2025-05-13**|**CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding**|Shuo Wang Team|[2505.08194](http://arxiv.org/abs/2505.08194)|null|
+|**2025-05-12**|**What Matters for Batch Online Reinforcement Learning in Robotics?**|Chelsea Finn Team|[2505.08078](http://arxiv.org/abs/2505.08078)|null|
 |**2025-05-12**|**H $^{\mathbf{3}}$ DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning**|Huazhe Xu Team|[2505.07819](http://arxiv.org/abs/2505.07819)|null|
 |**2025-05-12**|**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**|Jia-Bin Huang Team|[2505.07815](http://arxiv.org/abs/2505.07815)|null|
 |**2025-05-12**|**Improving Trajectory Stitching with Flow Models**|Ioannis Havoutis Team|[2505.07802](http://arxiv.org/abs/2505.07802)|null|
@@ -189,6 +199,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Xiang Bai Team|[2505.08725](http://arxiv.org/abs/2505.08725)|null|
+|**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Yu Cheng Team|[2505.08617](http://arxiv.org/abs/2505.08617)|null|
+|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Jianye Hao Team|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
+|**2025-05-13**|**Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?**|Jimmy Huang Team|[2505.08468](http://arxiv.org/abs/2505.08468)|**[link](https://github.com/tahmedge/chart_lvlm_judge)**|
+|**2025-05-13**|**MA-ROESL: Motion-aware Rapid Reward Optimization for Efficient Robot Skill Learning from Single Videos**|Wei Zhang Team|[2505.08367](http://arxiv.org/abs/2505.08367)|null|
+|**2025-05-13**|**Removing Watermarks with Partial Regeneration using Semantic Information**|Michael W. Mahoney Team|[2505.08234](http://arxiv.org/abs/2505.08234)|**[link](https://github.com/krtit/semanticregen)**|
+|**2025-05-13**|**CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding**|Shuo Wang Team|[2505.08194](http://arxiv.org/abs/2505.08194)|null|
+|**2025-05-13**|**DSADF: Thinking Fast and Slow for Decision Making**|Shufei Zhang Team|[2505.08189](http://arxiv.org/abs/2505.08189)|null|
 |**2025-05-12**|**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**|Jia-Bin Huang Team|[2505.07815](http://arxiv.org/abs/2505.07815)|null|
 |**2025-05-12**|**Reproducibility, Replicability, and Insights into Visual Document Retrieval with Late Interaction**|Andrew Yates Team|[2505.07730](http://arxiv.org/abs/2505.07730)|null|
 |**2025-05-12**|**Through the Looking Glass: Common Sense Consistency Evaluation of Weird Images**|Vasily Konovalov Team|[2505.07704](http://arxiv.org/abs/2505.07704)|null|
@@ -490,6 +508,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Jianye Hao Team|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
+|**2025-05-13**|**Training Strategies for Efficient Embodied Reasoning**|Sergey Levine Team|[2505.08243](http://arxiv.org/abs/2505.08243)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Michael S Ryoo Team|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
 |**2025-05-12**|**ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning**|Donglin Wang Team|[2505.07395](http://arxiv.org/abs/2505.07395)|null|
 |**2025-05-09**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Hongyang Li Team|[2505.06111](http://arxiv.org/abs/2505.06111)|**[link](https://github.com/opendrivelab/univla)**|
@@ -532,6 +552,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Jiangmiao Pang Team|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
+|**2025-05-13**|**Rethink Repeatable Measures of Robot Performance with Statistical Query**|Dylan Khor Team|[2505.08216](http://arxiv.org/abs/2505.08216)|null|
 |**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Lin Wang Team|[2505.07634](http://arxiv.org/abs/2505.07634)|null|
 |**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Yang Gao Team|[2505.07294](http://arxiv.org/abs/2505.07294)|null|
 |**2025-05-11**|**Dynamic Safety in Complex Environments: Synthesizing Safety Filters with Poisson's Equation**|Aaron D. Ames Team|[2505.06794](http://arxiv.org/abs/2505.06794)|null|
@@ -541,7 +563,7 @@ layout: default
 |**2025-05-09**|**Human-Robot Collaboration for the Remote Control of Mobile Humanoid Robots with Torso-Arm Coordination**|Zhi Li Team|[2505.05773](http://arxiv.org/abs/2505.05773)|null|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Manoj Karkee Team|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Xiaolong Wang Team|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
-|**2025-05-07**|**Visual Imitation Enables Contextual Humanoid Control**|Angjoo Kanazawa Team|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
+|**2025-05-13**|**Visual Imitation Enables Contextual Humanoid Control**|Angjoo Kanazawa Team|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|C. Karen Liu Team|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-04-30**|**LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning**|Koushil Sreenath Team|[2504.21738](http://arxiv.org/abs/2504.21738)|null|
 |**2025-04-29**|**SoccerDiffusion: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings**|Jianwei Zhang Team|[2504.20808](http://arxiv.org/abs/2504.20808)|null|
@@ -583,6 +605,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands**|Yunhui Liu Team|[2505.08213](http://arxiv.org/abs/2505.08213)|null|
 |**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Deepak Pathak Team|[2505.07813](http://arxiv.org/abs/2505.07813)|null|
 |**2025-05-08**|**Morphologically Symmetric Reinforcement Learning for Ambidextrous Bimanual Manipulation**|Georgia Chalvatzaki Team|[2505.05287](http://arxiv.org/abs/2505.05287)|null|
 |**2025-05-04**|**Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning**|Sven Behnke Team|[2505.02232](http://arxiv.org/abs/2505.02232)|null|
