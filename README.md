@@ -16,6 +16,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**DataMIL: Selecting Data for Robot Imitation Learning with Datamodels**|Roberto Martín-Martín Team|[2505.09603](http://arxiv.org/abs/2505.09603)|null|
+|**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Ken Goldberg Team|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
+|**2025-05-14**|**VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**|Shuo Wang Team|[2505.09577](http://arxiv.org/abs/2505.09577)|null|
+|**2025-05-14**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Chelsea Finn Team|[2505.09561](http://arxiv.org/abs/2505.09561)|null|
+|**2025-05-14**|**Distilling Realizable Students from Unrealizable Teachers**|Sanjiban Choudhury Team|[2505.09546](http://arxiv.org/abs/2505.09546)|null|
+|**2025-05-14**|**Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion**|Qixin Cao Team|[2505.09424](http://arxiv.org/abs/2505.09424)|null|
+|**2025-05-14**|**Neural Multivariate Regression: Qualitative Insights from the Unconstrained Feature Model**|Keith Ross Team|[2505.09308](http://arxiv.org/abs/2505.09308)|null|
+|**2025-05-14**|**Latent Theory of Mind: A Decentralized Diffusion Architecture for Cooperative Manipulation**|Guillaume Sartoretti Team|[2505.09144](http://arxiv.org/abs/2505.09144)|null|
+|**2025-05-14**|**FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis**|He Wang Team|[2505.09109](http://arxiv.org/abs/2505.09109)|null|
+|**2025-05-14**|**Imitation Learning for Adaptive Control of a Virtual Soft Exoglove**|Letizia Gionfrida Team|[2505.09099](http://arxiv.org/abs/2505.09099)|null|
+|**2025-05-13**|**ChicGrasp: Imitation-Learning based Customized Dual-Jaw Gripper Control for Delicate, Irregular Bio-products Manipulation**|Dongyi Wang Team|[2505.08986](http://arxiv.org/abs/2505.08986)|null|
 |**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Wolfram Burgard Team|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
 |**2025-05-13**|**Beyond Predefined Actions: Integrating Behavior Trees and Dynamic Movement Primitives for Robot Learning from Demonstration**|Todor Stoyanov Team|[2505.08625](http://arxiv.org/abs/2505.08625)|null|
 |**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Jianye Hao Team|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
@@ -208,6 +219,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Variational Visual Question Answering**|Marcus Rohrbach Team|[2505.09591](http://arxiv.org/abs/2505.09591)|null|
+|**2025-05-14**|**VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**|Shuo Wang Team|[2505.09577](http://arxiv.org/abs/2505.09577)|null|
+|**2025-05-14**|**Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput**|Lin Ma Team|[2505.09498](http://arxiv.org/abs/2505.09498)|null|
+|**2025-05-14**|**Unsupervised Multiview Contrastive Language-Image Joint Learning with Pseudo-Labeled Prompts Via Vision-Language Model for 3D/4D Facial Expression Recognition**|Muzammil Behzad Team|[2505.09336](http://arxiv.org/abs/2505.09336)|null|
+|**2025-05-14**|**MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning**|Bin-Bin Gao Team|[2505.09265](http://arxiv.org/abs/2505.09265)|null|
+|**2025-05-14**|**Beyond General Prompts: Automated Prompt Refinement using Contrastive Class Alignment Scores for Disambiguating Objects in Vision-Language Models**|Ross Greer Team|[2505.09139](http://arxiv.org/abs/2505.09139)|null|
+|**2025-05-14**|**Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning**|Qing Li Team|[2505.09118](http://arxiv.org/abs/2505.09118)|null|
+|**2025-05-14**|**OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions**|Hao Zhou Team|[2505.09092](http://arxiv.org/abs/2505.09092)|**[link](https://github.com/openlka/openlka)**|
+|**2025-05-13**|**Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training**|Heng Ji Team|[2505.08971](http://arxiv.org/abs/2505.08971)|**[link](https://github.com/yangyi-chen/prior)**|
+|**2025-05-13**|**Behind Maya: Building a Multilingual Vision Language Model**|Alham Fikri Aji Team|[2505.08910](http://arxiv.org/abs/2505.08910)|**[link](https://github.com/nahidalam/maya)**|
+|**2025-05-12**|**Position: Restructuring of Categories and Implementation of Guidelines Essential for VLM Adoption in Healthcare**|Imon Banerjee Team|[2505.08818](http://arxiv.org/abs/2505.08818)|null|
 |**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Xiang Bai Team|[2505.08725](http://arxiv.org/abs/2505.08725)|null|
 |**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Yu Cheng Team|[2505.08617](http://arxiv.org/abs/2505.08617)|null|
 |**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Jianye Hao Team|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
@@ -519,6 +541,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Ken Goldberg Team|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
+|**2025-05-14**|**RT-cache: Efficient Robot Trajectory Retrieval System**|Amir Barati Farimani Team|[2505.09040](http://arxiv.org/abs/2505.09040)|null|
 |**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Jianye Hao Team|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
 |**2025-05-13**|**Training Strategies for Efficient Embodied Reasoning**|Sergey Levine Team|[2505.08243](http://arxiv.org/abs/2505.08243)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Michael S Ryoo Team|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
