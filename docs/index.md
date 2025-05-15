@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -554,7 +554,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Jiangmiao Pang Team|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
 |**2025-05-13**|**Rethink Repeatable Measures of Robot Performance with Statistical Query**|Dylan Khor Team|[2505.08216](http://arxiv.org/abs/2505.08216)|null|
-|**2025-05-12**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Lin Wang Team|[2505.07634](http://arxiv.org/abs/2505.07634)|null|
+|**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Lin Wang Team|[2505.07634](http://arxiv.org/abs/2505.07634)|**[link](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
 |**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Yang Gao Team|[2505.07294](http://arxiv.org/abs/2505.07294)|null|
 |**2025-05-11**|**Dynamic Safety in Complex Environments: Synthesizing Safety Filters with Poisson's Equation**|Aaron D. Ames Team|[2505.06794](http://arxiv.org/abs/2505.06794)|null|
 |**2025-05-10**|**JAEGER: Dual-Level Humanoid Whole-Body Controller**|Zongqing Lu Team|[2505.06584](http://arxiv.org/abs/2505.06584)|null|
