@@ -16,6 +16,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation**|Yan Jin Team|[2505.10522](http://arxiv.org/abs/2505.10522)|null|
+|**2025-05-15**|**IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning**|Junshan Zhang Team|[2505.10442](http://arxiv.org/abs/2505.10442)|null|
+|**2025-05-15**|**NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning**|Chengyuan Chen Team|[2505.10359](http://arxiv.org/abs/2505.10359)|null|
+|**2025-05-15**|**SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning**|Axel Krieger Team|[2505.10251](http://arxiv.org/abs/2505.10251)|null|
+|**2025-05-15**|**Training People to Reward Robots**|Matthew Howard Team|[2505.10151](http://arxiv.org/abs/2505.10151)|null|
+|**2025-05-15**|**EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation**|Jianye Hao Team|[2505.10105](http://arxiv.org/abs/2505.10105)|null|
+|**2025-05-15**|**FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation**|Qing Li Team|[2505.10075](http://arxiv.org/abs/2505.10075)|null|
+|**2025-05-15**|**APEX: Action Priors Enable Efficient Exploration for Skill Imitation on Articulated Robots**|Guillaume Sartoretti Team|[2505.10022](http://arxiv.org/abs/2505.10022)|null|
+|**2025-05-15**|**ImagineBench: Evaluating Reinforcement Learning with Large Language Model Rollouts**|Yang Yu Team|[2505.10010](http://arxiv.org/abs/2505.10010)|**[link](https://github.com/lamda-rl/imaginebench)**|
+|**2025-05-15**|**PointArena: Probing Multimodal Grounding Through Language-Guided Pointing**|Ranjay Krishna Team|[2505.09990](http://arxiv.org/abs/2505.09990)|null|
+|**2025-05-15**|**Learning Diverse Natural Behaviors for Enhancing the Agility of Quadrupedal Robots**|Chunlin Chen Team|[2505.09979](http://arxiv.org/abs/2505.09979)|null|
+|**2025-05-14**|**Learning Rock Pushability on Rough Planetary Terrain**|Cagri Kilic Team|[2505.09833](http://arxiv.org/abs/2505.09833)|null|
+|**2025-05-14**|**Trailblazer: Learning offroad costmaps for long range planning**|Srikanth Saripalli Team|[2505.09739](http://arxiv.org/abs/2505.09739)|null|
+|**2025-05-14**|**EnerVerse-AC: Envisioning Embodied Environments with Action Condition**|Guanghui Ren Team|[2505.09723](http://arxiv.org/abs/2505.09723)|null|
+|**2025-05-14**|**ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation**|Daniel Seita Team|[2505.09698](http://arxiv.org/abs/2505.09698)|null|
 |**2025-05-14**|**DataMIL: Selecting Data for Robot Imitation Learning with Datamodels**|Roberto Martín-Martín Team|[2505.09603](http://arxiv.org/abs/2505.09603)|null|
 |**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Ken Goldberg Team|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
 |**2025-05-14**|**VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**|Shuo Wang Team|[2505.09577](http://arxiv.org/abs/2505.09577)|null|
@@ -219,6 +234,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Vithursan Thangarasa Team|[2505.10526](http://arxiv.org/abs/2505.10526)|null|
+|**2025-05-15**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge**|Manoj Karkee Team|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
+|**2025-05-15**|**Vision language models have difficulty recognizing virtual objects**|J. G. Trafton Team|[2505.10453](http://arxiv.org/abs/2505.10453)|null|
+|**2025-05-15**|**MMRL++: Parameter-Efficient and Interaction-Aware Representation Learning for Vision-Language Models**|Xiaodong Gu Team|[2505.10088](http://arxiv.org/abs/2505.10088)|**[link](https://github.com/yunncheng/MMRL)**|
+|**2025-05-15**|**AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection**|Chengjie Wang Team|[2505.09926](http://arxiv.org/abs/2505.09926)|**[link](https://github.com/gaobb/AdaptCLIP)**|
+|**2025-05-14**|**Unfettered Forceful Skill Acquisition with Physical Reasoning and Coordinate Frame Labeling**|Nikolaus Correll Team|[2505.09731](http://arxiv.org/abs/2505.09731)|null|
+|**2025-05-14**|**ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation**|Daniel Seita Team|[2505.09698](http://arxiv.org/abs/2505.09698)|null|
+|**2025-05-14**|**LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models**|Yanan Sun Team|[2505.09659](http://arxiv.org/abs/2505.09659)|**[link](https://github.com/lc783/las)**|
 |**2025-05-14**|**Variational Visual Question Answering**|Marcus Rohrbach Team|[2505.09591](http://arxiv.org/abs/2505.09591)|null|
 |**2025-05-14**|**VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**|Shuo Wang Team|[2505.09577](http://arxiv.org/abs/2505.09577)|null|
 |**2025-05-14**|**Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput**|Lin Ma Team|[2505.09498](http://arxiv.org/abs/2505.09498)|null|
@@ -644,6 +667,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning**|Axel Krieger Team|[2505.10251](http://arxiv.org/abs/2505.10251)|null|
 |**2025-05-13**|**HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands**|Yunhui Liu Team|[2505.08213](http://arxiv.org/abs/2505.08213)|null|
 |**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Deepak Pathak Team|[2505.07813](http://arxiv.org/abs/2505.07813)|null|
 |**2025-05-08**|**Morphologically Symmetric Reinforcement Learning for Ambidextrous Bimanual Manipulation**|Georgia Chalvatzaki Team|[2505.05287](http://arxiv.org/abs/2505.05287)|null|
