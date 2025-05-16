@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -219,10 +219,10 @@ layout: default
 |**2025-05-14**|**Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning**|Qing Li Team|[2505.09118](http://arxiv.org/abs/2505.09118)|null|
 |**2025-05-14**|**OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions**|Hao Zhou Team|[2505.09092](http://arxiv.org/abs/2505.09092)|**[link](https://github.com/openlka/openlka)**|
 |**2025-05-13**|**Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training**|Heng Ji Team|[2505.08971](http://arxiv.org/abs/2505.08971)|**[link](https://github.com/yangyi-chen/prior)**|
-|**2025-05-13**|**Behind Maya: Building a Multilingual Vision Language Model**|Alham Fikri Aji Team|[2505.08910](http://arxiv.org/abs/2505.08910)|**[link](https://github.com/nahidalam/maya)**|
+|**2025-05-15**|**Behind Maya: Building a Multilingual Vision Language Model**|Alham Fikri Aji Team|[2505.08910](http://arxiv.org/abs/2505.08910)|**[link](https://github.com/nahidalam/maya)**|
 |**2025-05-12**|**Position: Restructuring of Categories and Implementation of Guidelines Essential for VLM Adoption in Healthcare**|Imon Banerjee Team|[2505.08818](http://arxiv.org/abs/2505.08818)|null|
-|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Xiang Bai Team|[2505.08725](http://arxiv.org/abs/2505.08725)|null|
-|**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Yu Cheng Team|[2505.08617](http://arxiv.org/abs/2505.08617)|null|
+|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Xiang Bai Team|[2505.08725](http://arxiv.org/abs/2505.08725)|**[link](https://github.com/zc-zhao/drivemonkey)**|
+|**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Yu Cheng Team|[2505.08617](http://arxiv.org/abs/2505.08617)|**[link](https://github.com/zhaochen0110/openthinkimg)**|
 |**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Jianye Hao Team|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
 |**2025-05-13**|**Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?**|Jimmy Huang Team|[2505.08468](http://arxiv.org/abs/2505.08468)|**[link](https://github.com/tahmedge/chart_lvlm_judge)**|
 |**2025-05-13**|**MA-ROESL: Motion-aware Rapid Reward Optimization for Efficient Robot Skill Learning from Single Videos**|Wei Zhang Team|[2505.08367](http://arxiv.org/abs/2505.08367)|null|
@@ -536,7 +536,7 @@ layout: default
 |**2025-05-13**|**Training Strategies for Efficient Embodied Reasoning**|Sergey Levine Team|[2505.08243](http://arxiv.org/abs/2505.08243)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Michael S Ryoo Team|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
 |**2025-05-12**|**ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning**|Donglin Wang Team|[2505.07395](http://arxiv.org/abs/2505.07395)|null|
-|**2025-05-09**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Hongyang Li Team|[2505.06111](http://arxiv.org/abs/2505.06111)|**[link](https://github.com/opendrivelab/univla)**|
+|**2025-05-15**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Hongyang Li Team|[2505.06111](http://arxiv.org/abs/2505.06111)|**[link](https://github.com/opendrivelab/univla)**|
 |**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Farshad Khorrami Team|[2505.05800](http://arxiv.org/abs/2505.05800)|null|
 |**2025-05-08**|**Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments**|Harshvardhan Sikka Team|[2505.05540](http://arxiv.org/abs/2505.05540)|null|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Manoj Karkee Team|[2505.04769](http://arxiv.org/abs/2505.04769)|null|

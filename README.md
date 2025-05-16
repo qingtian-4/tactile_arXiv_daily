@@ -1,4 +1,4 @@
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -213,7 +213,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## VLM
 
@@ -228,10 +228,10 @@
 |**2025-05-14**|**Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning**|Qing Li Team|[2505.09118](http://arxiv.org/abs/2505.09118)|null|
 |**2025-05-14**|**OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions**|Hao Zhou Team|[2505.09092](http://arxiv.org/abs/2505.09092)|**[link](https://github.com/openlka/openlka)**|
 |**2025-05-13**|**Prioritizing Image-Related Tokens Enhances Vision-Language Pre-Training**|Heng Ji Team|[2505.08971](http://arxiv.org/abs/2505.08971)|**[link](https://github.com/yangyi-chen/prior)**|
-|**2025-05-13**|**Behind Maya: Building a Multilingual Vision Language Model**|Alham Fikri Aji Team|[2505.08910](http://arxiv.org/abs/2505.08910)|**[link](https://github.com/nahidalam/maya)**|
+|**2025-05-15**|**Behind Maya: Building a Multilingual Vision Language Model**|Alham Fikri Aji Team|[2505.08910](http://arxiv.org/abs/2505.08910)|**[link](https://github.com/nahidalam/maya)**|
 |**2025-05-12**|**Position: Restructuring of Categories and Implementation of Guidelines Essential for VLM Adoption in Healthcare**|Imon Banerjee Team|[2505.08818](http://arxiv.org/abs/2505.08818)|null|
-|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Xiang Bai Team|[2505.08725](http://arxiv.org/abs/2505.08725)|null|
-|**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Yu Cheng Team|[2505.08617](http://arxiv.org/abs/2505.08617)|null|
+|**2025-05-13**|**Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving**|Xiang Bai Team|[2505.08725](http://arxiv.org/abs/2505.08725)|**[link](https://github.com/zc-zhao/drivemonkey)**|
+|**2025-05-13**|**OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**|Yu Cheng Team|[2505.08617](http://arxiv.org/abs/2505.08617)|**[link](https://github.com/zhaochen0110/openthinkimg)**|
 |**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Jianye Hao Team|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
 |**2025-05-13**|**Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?**|Jimmy Huang Team|[2505.08468](http://arxiv.org/abs/2505.08468)|**[link](https://github.com/tahmedge/chart_lvlm_judge)**|
 |**2025-05-13**|**MA-ROESL: Motion-aware Rapid Reward Optimization for Efficient Robot Skill Learning from Single Videos**|Wei Zhang Team|[2505.08367](http://arxiv.org/abs/2505.08367)|null|
@@ -535,7 +535,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## VLA
 
@@ -547,7 +547,7 @@
 |**2025-05-13**|**Training Strategies for Efficient Embodied Reasoning**|Sergey Levine Team|[2505.08243](http://arxiv.org/abs/2505.08243)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Michael S Ryoo Team|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
 |**2025-05-12**|**ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning**|Donglin Wang Team|[2505.07395](http://arxiv.org/abs/2505.07395)|null|
-|**2025-05-09**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Hongyang Li Team|[2505.06111](http://arxiv.org/abs/2505.06111)|**[link](https://github.com/opendrivelab/univla)**|
+|**2025-05-15**|**UniVLA: Learning to Act Anywhere with Task-centric Latent Actions**|Hongyang Li Team|[2505.06111](http://arxiv.org/abs/2505.06111)|**[link](https://github.com/opendrivelab/univla)**|
 |**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Farshad Khorrami Team|[2505.05800](http://arxiv.org/abs/2505.05800)|null|
 |**2025-05-08**|**Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments**|Harshvardhan Sikka Team|[2505.05540](http://arxiv.org/abs/2505.05540)|null|
 |**2025-05-07**|**Vision-Language-Action Models: Concepts, Progress, Applications and Challenges**|Manoj Karkee Team|[2505.04769](http://arxiv.org/abs/2505.04769)|null|
@@ -583,7 +583,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Humanoid
 
@@ -638,7 +638,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Dexterous
 
@@ -691,5 +691,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
