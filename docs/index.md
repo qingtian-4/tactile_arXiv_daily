@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics**|Aaron D. Ames Team|[2505.11494](http://arxiv.org/abs/2505.11494)|null|
+|**2025-05-16**|**Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views**|Todor Stoyanov Team|[2505.11467](http://arxiv.org/abs/2505.11467)|null|
+|**2025-05-16**|**ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations**|Jesse Zhang Team|[2505.10911](http://arxiv.org/abs/2505.10911)|null|
+|**2025-05-16**|**Counterfactual Behavior Cloning: Offline Imitation Learning from Imperfect Human Demonstrations**|Dylan P. Losey Team|[2505.10760](http://arxiv.org/abs/2505.10760)|null|
+|**2025-05-15**|**Infinigen-Sim: Procedural Generation of Articulated Simulation Assets**|Jia Deng Team|[2505.10755](http://arxiv.org/abs/2505.10755)|null|
 |**2025-05-15**|**Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation**|Yan Jin Team|[2505.10522](http://arxiv.org/abs/2505.10522)|null|
 |**2025-05-15**|**IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning**|Junshan Zhang Team|[2505.10442](http://arxiv.org/abs/2505.10442)|null|
 |**2025-05-15**|**NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning**|Chengyuan Chen Team|[2505.10359](http://arxiv.org/abs/2505.10359)|null|
@@ -225,6 +230,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Hong Bu Team|[2505.11404](http://arxiv.org/abs/2505.11404)|null|
+|**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Guillaume Sartoretti Team|[2505.11350](http://arxiv.org/abs/2505.11350)|null|
+|**2025-05-16**|**Temporally-Grounded Language Generation: A Benchmark for Real-Time Vision-Language Models**|Joyce Chai Team|[2505.11326](http://arxiv.org/abs/2505.11326)|null|
+|**2025-05-16**|**Sample Efficient Reinforcement Learning via Large Vision Language Model Distillation**|Chang D. Yoo Team|[2505.11221](http://arxiv.org/abs/2505.11221)|null|
+|**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Begüm Demir Team|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
+|**2025-05-16**|**CUBIC: Concept Embeddings for Unsupervised Bias Identification using VLMs**|Natalia Díaz-Rodríguez Team|[2505.11060](http://arxiv.org/abs/2505.11060)|null|
+|**2025-05-16**|**Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere**|Prashant Singh Team|[2505.11029](http://arxiv.org/abs/2505.11029)|null|
+|**2025-05-16**|**On DeepSeekMoE: Statistical Benefits of Shared Experts and Normalized Sigmoid Gating**|Alessandro Rinaldo Team|[2505.10860](http://arxiv.org/abs/2505.10860)|null|
+|**2025-05-16**|**Benchmarking performance, explainability, and evaluation strategies of vision-language models for surgery: Challenges and opportunities**|Shan Lin Team|[2505.10764](http://arxiv.org/abs/2505.10764)|null|
+|**2025-05-15**|**GeoGrid-Bench: Can Foundation Models Understand Multimodal Gridded Geo-Spatial Data?**|Tanwi Mallick Team|[2505.10714](http://arxiv.org/abs/2505.10714)|null|
+|**2025-05-15**|**MOSAIC: A Multi-View 2.5D Organ Slice Selector with Cross-Attentional Reasoning for Anatomically-Aware CT Localization in Medical Organ Segmentation**|Muzammil Behzad Team|[2505.10672](http://arxiv.org/abs/2505.10672)|null|
+|**2025-05-15**|**CLIP Embeddings for AI-Generated Image Detection: A Few-Shot Study with Lightweight Classifier**|Ziyang Ou Team|[2505.10664](http://arxiv.org/abs/2505.10664)|null|
+|**2025-05-15**|**Mitigate Language Priors in Large Vision-Language Models by Cross-Images Contrastive Decoding**|Chong Feng Team|[2505.10634](http://arxiv.org/abs/2505.10634)|null|
+|**2025-05-15**|**MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly**|Mark Steedman Team|[2505.10610](http://arxiv.org/abs/2505.10610)|null|
 |**2025-05-15**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Vithursan Thangarasa Team|[2505.10526](http://arxiv.org/abs/2505.10526)|null|
 |**2025-05-15**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge**|Manoj Karkee Team|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
 |**2025-05-15**|**Vision language models have difficulty recognizing virtual objects**|J. G. Trafton Team|[2505.10453](http://arxiv.org/abs/2505.10453)|null|
@@ -553,6 +572,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions**|Donglin Wang Team|[2505.11214](http://arxiv.org/abs/2505.11214)|null|
+|**2025-05-16**|**Conditioning Matters: Training Diffusion Policies is Faster Than You Think**|Jianye Hao Team|[2505.11123](http://arxiv.org/abs/2505.11123)|null|
 |**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Ken Goldberg Team|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
 |**2025-05-14**|**RT-cache: Efficient Robot Trajectory Retrieval System**|Amir Barati Farimani Team|[2505.09040](http://arxiv.org/abs/2505.09040)|null|
 |**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Jianye Hao Team|[2505.08548](http://arxiv.org/abs/2505.08548)|null|
@@ -599,6 +620,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models**|Aaron D. Ames Team|[2505.11495](http://arxiv.org/abs/2505.11495)|null|
+|**2025-05-16**|**X2C: A Dataset Featuring Nuanced Facial Expressions for Realistic Humanoid Imitation**|Xiaohan Yu Team|[2505.11146](http://arxiv.org/abs/2505.11146)|null|
 |**2025-05-15**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Jiangmiao Pang Team|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
 |**2025-05-13**|**Rethink Repeatable Measures of Robot Performance with Statistical Query**|Dylan Khor Team|[2505.08216](http://arxiv.org/abs/2505.08216)|null|
 |**2025-05-14**|**Neural Brain: A Neuroscience-inspired Framework for Embodied Agents**|Lin Wang Team|[2505.07634](http://arxiv.org/abs/2505.07634)|**[link](https://github.com/CNJianLiu/Neural-Brain-for-Embodied-Agents)**|
@@ -652,6 +675,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Self-supervised perception for tactile skin covered dexterous hands**|Mustafa Mukadam Team|[2505.11420](http://arxiv.org/abs/2505.11420)|null|
+|**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Reza Abiri Team|[2505.11366](http://arxiv.org/abs/2505.11366)|null|
+|**2025-05-16**|**Estimating Deformable-Rigid Contact Interactions for a Deformable Tool via Learning and Model-Based Optimization**|Nima Fazeli Team|[2505.10884](http://arxiv.org/abs/2505.10884)|null|
 |**2025-05-15**|**SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning**|Axel Krieger Team|[2505.10251](http://arxiv.org/abs/2505.10251)|null|
 |**2025-05-13**|**HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands**|Yunhui Liu Team|[2505.08213](http://arxiv.org/abs/2505.08213)|null|
 |**2025-05-12**|**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**|Deepak Pathak Team|[2505.07813](http://arxiv.org/abs/2505.07813)|null|
