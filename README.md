@@ -16,6 +16,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning**|Si Liu Team|[2505.15725](http://arxiv.org/abs/2505.15725)|null|
+|**2025-05-21**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Junwei Liang Team|[2505.15660](http://arxiv.org/abs/2505.15660)|null|
+|**2025-05-21**|**FLARE: Robot Learning with Implicit World Modeling**|Linxi Fan Team|[2505.15659](http://arxiv.org/abs/2505.15659)|null|
+|**2025-05-21**|**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**|Ken Goldberg Team|[2505.15517](http://arxiv.org/abs/2505.15517)|null|
+|**2025-05-21**|**Guided Policy Optimization under Partial Observability**|Zongqing Lu Team|[2505.15418](http://arxiv.org/abs/2505.15418)|**[link](https://github.com/liyheng/GPO)**|
+|**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Jungwook Choi Team|[2505.15304](http://arxiv.org/abs/2505.15304)|null|
+|**2025-05-21**|**Learning-based Autonomous Oversteer Control and Collision Avoidance**|Seung-Hyun Kong Team|[2505.15275](http://arxiv.org/abs/2505.15275)|null|
+|**2025-05-21**|**Filtering Learning Histories Enhances In-Context Reinforcement Learning**|Santiago Paternain Team|[2505.15143](http://arxiv.org/abs/2505.15143)|null|
+|**2025-05-21**|**Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation**|Xiaodong He Team|[2505.15098](http://arxiv.org/abs/2505.15098)|null|
+|**2025-05-20**|**RoboCulture: A Robotics Platform for Automated Biological Experimentation**|Milica Radisic Team|[2505.14941](http://arxiv.org/abs/2505.14941)|null|
+|**2025-05-20**|**Imitation Learning via Focused Satisficing**|Brian Ziebart Team|[2505.14820](http://arxiv.org/abs/2505.14820)|null|
+|**2025-05-20**|**DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation**|Jianwei Zhang Team|[2505.14819](http://arxiv.org/abs/2505.14819)|null|
 |**2025-05-20**|**Vid2World: Crafting Video Diffusion Models to Interactive World Models**|Mingsheng Long Team|[2505.14357](http://arxiv.org/abs/2505.14357)|null|
 |**2025-05-20**|**AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory**|Ping Luo Team|[2505.14030](http://arxiv.org/abs/2505.14030)|null|
 |**2025-05-20**|**RLVR-World: Training World Models with Reinforcement Learning**|Mingsheng Long Team|[2505.13934](http://arxiv.org/abs/2505.13934)|**[link](https://github.com/thuml/RLVR-World)**|
@@ -267,6 +279,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Xue Yang Team|[2505.15818](http://arxiv.org/abs/2505.15818)|null|
+|**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Soujanya Poria Team|[2505.15685](http://arxiv.org/abs/2505.15685)|null|
+|**2025-05-21**|**FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models**|Qian Wang Team|[2505.15644](http://arxiv.org/abs/2505.15644)|null|
+|**2025-05-21**|**Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models**|Ya Wang Team|[2505.15576](http://arxiv.org/abs/2505.15576)|**[link](https://github.com/nynu-bdai/ahnpl)**|
+|**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Abdallah Shami Team|[2505.15564](http://arxiv.org/abs/2505.15564)|null|
+|**2025-05-21**|**Clapper: Compact Learning and Video Representation in VLMs**|Fuzheng Zhang Team|[2505.15529](http://arxiv.org/abs/2505.15529)|null|
+|**2025-05-21**|**Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets**|Ken Goldberg Team|[2505.15517](http://arxiv.org/abs/2505.15517)|null|
+|**2025-05-21**|**Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought**|Libo Qin Team|[2505.15510](http://arxiv.org/abs/2505.15510)|null|
+|**2025-05-21**|**Prompt Tuning Vision Language Models with Margin Regularizer for Few-Shot Learning under Distribution Shifts**|Soma Biswas Team|[2505.15506](http://arxiv.org/abs/2505.15506)|**[link](https://github.com/debarshigit/promptmargin)**|
+|**2025-05-21**|**Beyond Linearity: Squeeze-and-Recalibrate Blocks for Few-Shot Whole Slide Image Classification**|Irwin King Team|[2505.15504](http://arxiv.org/abs/2505.15504)|null|
+|**2025-05-21**|**Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models**|Bryan Hooi Team|[2505.15489](http://arxiv.org/abs/2505.15489)|null|
+|**2025-05-21**|**Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL**|Qing Li Team|[2505.15436](http://arxiv.org/abs/2505.15436)|null|
+|**2025-05-21**|**TimeCausality: Evaluating the Causal Ability in Time Dimension for Vision Language Models**|Keze Wang Team|[2505.15435](http://arxiv.org/abs/2505.15435)|null|
+|**2025-05-21**|**On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable?**|Mohammad Yaqub Team|[2505.15425](http://arxiv.org/abs/2505.15425)|null|
+|**2025-05-21**|**Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study**|Hwanjo Yu Team|[2505.15389](http://arxiv.org/abs/2505.15389)|null|
+|**2025-05-21**|**RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation**|Farshad Khorrami Team|[2505.15373](http://arxiv.org/abs/2505.15373)|null|
+|**2025-05-21**|**Better Safe Than Sorry? Overreaction Problem of Vision Language Models in Visual Emergency Recognition**|Youngsook Song Team|[2505.15367](http://arxiv.org/abs/2505.15367)|null|
+|**2025-05-21**|**AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving**|Diange Yang Team|[2505.15298](http://arxiv.org/abs/2505.15298)|null|
+|**2025-05-21**|**Blind Spot Navigation: Evolutionary Discovery of Sensitive Semantic Concepts for LVLMs**|Zibin Zheng Team|[2505.15265](http://arxiv.org/abs/2505.15265)|null|
+|**2025-05-21**|**Fooling the LVLM Judges: Visual Biases in LVLM-Based Evaluation**|Kyomin Jung Team|[2505.15249](http://arxiv.org/abs/2505.15249)|null|
 |**2025-05-20**|**UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens**|Wentao Zhang Team|[2505.14671](http://arxiv.org/abs/2505.14671)|null|
 |**2025-05-20**|**CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation**|Faez Ahmed Team|[2505.14646](http://arxiv.org/abs/2505.14646)|null|
 |**2025-05-20**|**Debating for Better Reasoning: An Unsupervised Multimodal Approach**|Mirella Lapata Team|[2505.14627](http://arxiv.org/abs/2505.14627)|null|
@@ -651,8 +683,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Soujanya Poria Team|[2505.15685](http://arxiv.org/abs/2505.15685)|null|
+|**2025-05-21**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Junwei Liang Team|[2505.15660](http://arxiv.org/abs/2505.15660)|null|
+|**2025-05-21**|**FLARE: Robot Learning with Implicit World Modeling**|Linxi Fan Team|[2505.15659](http://arxiv.org/abs/2505.15659)|null|
+|**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Jungwook Choi Team|[2505.15304](http://arxiv.org/abs/2505.15304)|null|
+|**2025-05-21**|**EndoVLA: Dual-Phase Vision-Language-Action Model for Autonomous Tracking in Endoscopy**|Hongliang Ren Team|[2505.15206](http://arxiv.org/abs/2505.15206)|null|
+|**2025-05-21**|**Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation**|Xiaodong He Team|[2505.15098](http://arxiv.org/abs/2505.15098)|null|
 |**2025-05-20**|**AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory**|Ping Luo Team|[2505.14030](http://arxiv.org/abs/2505.14030)|null|
-|**2025-05-20**|**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**|Jingkuan Song Team|[2505.13888](http://arxiv.org/abs/2505.13888)|null|
+|**2025-05-20**|**InSpire: Vision-Language-Action Models with Intrinsic Spatial Reasoning**|Jingkuan Song Team|[2505.13888](http://arxiv.org/abs/2505.13888)|**[link](https://github.com/Koorye/Inspire)**|
 |**2025-05-20**|**RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction**|Bo Zhao Team|[2505.12224](http://arxiv.org/abs/2505.12224)|null|
 |**2025-05-17**|**OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning**|Yang Gao Team|[2505.11917](http://arxiv.org/abs/2505.11917)|null|
 |**2025-05-16**|**Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions**|Donglin Wang Team|[2505.11214](http://arxiv.org/abs/2505.11214)|null|
@@ -765,6 +803,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation**|Xiaodong He Team|[2505.15098](http://arxiv.org/abs/2505.15098)|null|
 |**2025-05-20**|**Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation**|Hao Dong Team|[2505.13982](http://arxiv.org/abs/2505.13982)|null|
 |**2025-05-19**|**Approximating Global Contact-Implicit MPC via Sampling and Local Complementarity**|Michael Posa Team|[2505.13350](http://arxiv.org/abs/2505.13350)|null|
 |**2025-05-19**|**TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation**|Jiangmiao Pang Team|[2505.12748](http://arxiv.org/abs/2505.12748)|null|
