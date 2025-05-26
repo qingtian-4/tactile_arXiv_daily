@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -281,22 +281,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**|Mike Zheng Shou Team|[2505.16854](http://arxiv.org/abs/2505.16854)|null|
-|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Aditya Grover Team|[2505.16839](http://arxiv.org/abs/2505.16839)|null|
-|**2025-05-22**|**From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework for Pedagogical Visualization**|Huaxiu Yao Team|[2505.16832](http://arxiv.org/abs/2505.16832)|null|
-|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Guangtao Zhai Team|[2505.16815](http://arxiv.org/abs/2505.16815)|null|
+|**2025-05-22**|**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**|Mike Zheng Shou Team|[2505.16854](http://arxiv.org/abs/2505.16854)|**[link](https://github.com/kokolerk/ton)**|
+|**2025-05-23**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Aditya Grover Team|[2505.16839](http://arxiv.org/abs/2505.16839)|**[link](https://github.com/jacklishufan/lavida)**|
+|**2025-05-22**|**From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework for Pedagogical Visualization**|Huaxiu Yao Team|[2505.16832](http://arxiv.org/abs/2505.16832)|**[link](https://github.com/aiming-lab/eduvisbench)**|
+|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Guangtao Zhai Team|[2505.16815](http://arxiv.org/abs/2505.16815)|**[link](https://github.com/lcysyzxdxc/embodiediqa)**|
 |**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Hongsheng Li Team|[2505.16805](http://arxiv.org/abs/2505.16805)|null|
-|**2025-05-22**|**REOBench: Benchmarking Robustness of Earth Observation Foundation Models**|Tianjin Huang Team|[2505.16793](http://arxiv.org/abs/2505.16793)|null|
-|**2025-05-22**|**Single Domain Generalization for Few-Shot Counting via Universal Representation Matching**|Xinghao Chen Team|[2505.16778](http://arxiv.org/abs/2505.16778)|null|
-|**2025-05-22**|**IFEval-Audio: Benchmarking Instruction-Following Capability in Audio-based Large Language Models**|AiTi Aw Team|[2505.16774](http://arxiv.org/abs/2505.16774)|null|
+|**2025-05-22**|**REOBench: Benchmarking Robustness of Earth Observation Foundation Models**|Tianjin Huang Team|[2505.16793](http://arxiv.org/abs/2505.16793)|**[link](https://github.com/lx709/reobench)**|
+|**2025-05-22**|**Single Domain Generalization for Few-Shot Counting via Universal Representation Matching**|Xinghao Chen Team|[2505.16778](http://arxiv.org/abs/2505.16778)|**[link](https://github.com/jbr97/urm)**|
+|**2025-05-22**|**IFEval-Audio: Benchmarking Instruction-Following Capability in Audio-based Large Language Models**|AiTi Aw Team|[2505.16774](http://arxiv.org/abs/2505.16774)|**[link](https://github.com/audiollms/audiobench)**|
 |**2025-05-22**|**Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation**|Jianbing Shen Team|[2505.16763](http://arxiv.org/abs/2505.16763)|null|
 |**2025-05-22**|**SD-MAD: Sign-Driven Few-shot Multi-Anomaly Detection in Medical Images**|Mahsa Baktashmotlagh Team|[2505.16659](http://arxiv.org/abs/2505.16659)|null|
 |**2025-05-22**|**Point, Detect, Count: Multi-Task Medical Image Understanding with Instruction-Tuned Vision-Language Models**|Pål Halvorsen Team|[2505.16647](http://arxiv.org/abs/2505.16647)|null|
 |**2025-05-22**|**MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation**|Zongqing Lu Team|[2505.16602](http://arxiv.org/abs/2505.16602)|null|
 |**2025-05-22**|**ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models**|Xiuying Chen Team|[2505.16517](http://arxiv.org/abs/2505.16517)|null|
 |**2025-05-22**|**Implicit Jailbreak Attacks via Cross-Modal Information Concealment on Vision-Language Models**|Yaochu Jin Team|[2505.16446](http://arxiv.org/abs/2505.16446)|null|
-|**2025-05-22**|**Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models**|Kai Han Team|[2505.16416](http://arxiv.org/abs/2505.16416)|null|
-|**2025-05-22**|**Mitigating Hallucinations in Vision-Language Models through Image-Guided Head Suppression**|Souvik Kundu Team|[2505.16411](http://arxiv.org/abs/2505.16411)|null|
+|**2025-05-22**|**Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models**|Kai Han Team|[2505.16416](http://arxiv.org/abs/2505.16416)|**[link](https://github.com/lose4578/circlerope)**|
+|**2025-05-22**|**Mitigating Hallucinations in Vision-Language Models through Image-Guided Head Suppression**|Souvik Kundu Team|[2505.16411](http://arxiv.org/abs/2505.16411)|**[link](https://github.com/yueche77/spin)**|
 |**2025-05-22**|**VL-SAFE: Vision-Language Guided Safety-Aware Reinforcement Learning with World Models for Autonomous Driving**|Samuel Labi Team|[2505.16377](http://arxiv.org/abs/2505.16377)|null|
 |**2025-05-22**|**MM-MovieDubber: Towards Multi-Modal Learning for Multi-Modal Movie Dubbing**|Xinhan Di Team|[2505.16279](http://arxiv.org/abs/2505.16279)|null|
 |**2025-05-22**|**When VLMs Meet Image Classification: Test Sets Renovation via Missing Label Identification**|Jiaheng Wei Team|[2505.16149](http://arxiv.org/abs/2505.16149)|null|
@@ -704,7 +704,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Philipp Krähenbühl Team|[2505.17016](http://arxiv.org/abs/2505.17016)|null|
-|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Guangtao Zhai Team|[2505.16815](http://arxiv.org/abs/2505.16815)|null|
+|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Guangtao Zhai Team|[2505.16815](http://arxiv.org/abs/2505.16815)|**[link](https://github.com/lcysyzxdxc/embodiediqa)**|
 |**2025-05-22**|**BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization**|Lichao Sun Team|[2505.16640](http://arxiv.org/abs/2505.16640)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Junchi Yan Team|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
 |**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Soujanya Poria Team|[2505.15685](http://arxiv.org/abs/2505.15685)|null|
