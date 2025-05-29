@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -17,17 +17,17 @@ layout: default
 |**2025-05-27**|**Learning Unified Force and Position Control for Legged Loco-Manipulation**|Siyuan Huang Team|[2505.20829](http://arxiv.org/abs/2505.20829)|null|
 |**2025-05-27**|**Spatial RoboGrasp: Generalized Robotic Grasping Control Policy**|Luhui Hu Team|[2505.20814](http://arxiv.org/abs/2505.20814)|null|
 |**2025-05-27**|**Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt**|Jianyu Chen Team|[2505.20795](http://arxiv.org/abs/2505.20795)|null|
-|**2025-05-26**|**ControlTac: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image**|Yiannis Aloimonos Team|[2505.20498](http://arxiv.org/abs/2505.20498)|null|
+|**2025-05-28**|**ControlTac: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image**|Ruohan Gao Team|[2505.20498](http://arxiv.org/abs/2505.20498)|null|
 |**2025-05-26**|**OSVI-WM: One-Shot Visual Imitation for Unseen Tasks using World-Model-Guided Trajectory Generation**|Farshad Khorrami Team|[2505.20425](http://arxiv.org/abs/2505.20425)|null|
 |**2025-05-26**|**Co-Design of Soft Gripper with Neural Physics**|Xiaolong Wang Team|[2505.20404](http://arxiv.org/abs/2505.20404)|null|
 |**2025-05-26**|**EgoZero: Robot Learning from Smart Glasses**|Lerrel Pinto Team|[2505.20290](http://arxiv.org/abs/2505.20290)|null|
 |**2025-05-26**|**URPlanner: A Universal Paradigm For Collision-Free Robotic Motion Planning Based on Deep Reinforcement Learning**|Marcelo H. Ang Jr Team|[2505.20175](http://arxiv.org/abs/2505.20175)|null|
-|**2025-05-27**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Xiaodan Liang Team|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
-|**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Dongbin Zhao Team|[2505.20024](http://arxiv.org/abs/2505.20024)|null|
+|**2025-05-27**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Xiaodan Liang Team|[2505.20148](http://arxiv.org/abs/2505.20148)|**[link](https://github.com/mineanybuild/mineanybuild)**|
+|**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Dongbin Zhao Team|[2505.20024](http://arxiv.org/abs/2505.20024)|**[link](https://github.com/liuxueyi/reasonplan)**|
 |**2025-05-26**|**Inverse Q-Learning Done Right: Offline Imitation Learning in $Q^π$ -Realizable MDPs**|Luca Viano Team|[2505.19946](http://arxiv.org/abs/2505.19946)|null|
 |**2025-05-26**|**TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning**|Dongbin Zhao Team|[2505.19769](http://arxiv.org/abs/2505.19769)|null|
 |**2025-05-26**|**Extremum Flow Matching for Offline Goal Conditioned Reinforcement Learning**|Jean-Baptiste Mouret Team|[2505.19717](http://arxiv.org/abs/2505.19717)|null|
-|**2025-05-25**|**Structured Reinforcement Learning for Combinatorial Decision-Making**|Maximilian Schiffer Team|[2505.19053](http://arxiv.org/abs/2505.19053)|null|
+|**2025-05-25**|**Structured Reinforcement Learning for Combinatorial Decision-Making**|Maximilian Schiffer Team|[2505.19053](http://arxiv.org/abs/2505.19053)|**[link](https://github.com/tumbais/structured-rl)**|
 |**2025-05-25**|**WorldEval: World Model as Real-World Robot Policies Evaluator**|Yi Xu Team|[2505.19017](http://arxiv.org/abs/2505.19017)|null|
 |**2025-05-25**|**Online Knowledge Distillation with Reward Guidance**|Chen Jia Team|[2505.18952](http://arxiv.org/abs/2505.18952)|null|
 |**2025-05-24**|**Guided by Guardrails: Control Barrier Functions as Safety Instructors for Robotic Learning**|Giovanni Beltrame Team|[2505.18858](http://arxiv.org/abs/2505.18858)|null|
@@ -807,14 +807,14 @@ layout: default
 |**2025-05-26**|**RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback**|Yongtao Wang Team|[2505.19767](http://arxiv.org/abs/2505.19767)|null|
 |**2025-05-25**|**ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning**|Minh Nhat Vu Team|[2505.19080](http://arxiv.org/abs/2505.19080)|null|
 |**2025-05-24**|**Genie Centurion: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance**|Maoqing Yao Team|[2505.18793](http://arxiv.org/abs/2505.18793)|null|
-|**2025-05-24**|**VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning**|Ziwei Wang Team|[2505.18719](http://arxiv.org/abs/2505.18719)|null|
+|**2025-05-24**|**VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning**|Ziwei Wang Team|[2505.18719](http://arxiv.org/abs/2505.18719)|**[link](https://github.com/guanxinglu/vlarl)**|
 |**2025-05-22**|**ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems**|Farhad Imani Team|[2505.17295](http://arxiv.org/abs/2505.17295)|null|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Philipp Krähenbühl Team|[2505.17016](http://arxiv.org/abs/2505.17016)|null|
 |**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Guangtao Zhai Team|[2505.16815](http://arxiv.org/abs/2505.16815)|**[link](https://github.com/lcysyzxdxc/embodiediqa)**|
 |**2025-05-22**|**BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization**|Lichao Sun Team|[2505.16640](http://arxiv.org/abs/2505.16640)|null|
 |**2025-05-22**|**DriveMoE: Mixture-of-Experts for Vision-Language-Action Model in End-to-End Autonomous Driving**|Junchi Yan Team|[2505.16278](http://arxiv.org/abs/2505.16278)|null|
 |**2025-05-21**|**From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems**|Soujanya Poria Team|[2505.15685](http://arxiv.org/abs/2505.15685)|**[link](https://github.com/hritdy/claw_machine)**|
-|**2025-05-24**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Junwei Liang Team|[2505.15660](http://arxiv.org/abs/2505.15660)|null|
+|**2025-05-24**|**Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization**|Junwei Liang Team|[2505.15660](http://arxiv.org/abs/2505.15660)|**[link](https://github.com/jiaming-zhou/X-ICM)**|
 |**2025-05-21**|**FLARE: Robot Learning with Implicit World Modeling**|Linxi Fan Team|[2505.15659](http://arxiv.org/abs/2505.15659)|null|
 |**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Jungwook Choi Team|[2505.15304](http://arxiv.org/abs/2505.15304)|null|
 |**2025-05-21**|**EndoVLA: Dual-Phase Vision-Language-Action Model for Autonomous Tracking in Endoscopy**|Hongliang Ren Team|[2505.15206](http://arxiv.org/abs/2505.15206)|null|
@@ -878,7 +878,7 @@ layout: default
 |**2025-05-26**|**Whole-body Multi-contact Motion Control for Humanoid Robots Based on Distributed Tactile Sensors**|Eiichi Yoshida Team|[2505.19580](http://arxiv.org/abs/2505.19580)|null|
 |**2025-05-26**|**Heavy lifting tasks via haptic teleoperation of a wheeled humanoid**|Joao Ramos Team|[2505.19530](http://arxiv.org/abs/2505.19530)|null|
 |**2025-05-26**|**SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control**|Junting Dong Team|[2505.19463](http://arxiv.org/abs/2505.19463)|null|
-|**2025-05-25**|**Towards Humanoid Robot Autonomy: A Dynamic Architecture Integrating Continuous thought Machines (CTM) and Model Context Protocol (MCP)**|Libo Wang Team|[2505.19339](http://arxiv.org/abs/2505.19339)|null|
+|**2025-05-25**|**Towards Humanoid Robot Autonomy: A Dynamic Architecture Integrating Continuous thought Machines (CTM) and Model Context Protocol (MCP)**|Libo Wang Team|[2505.19339](http://arxiv.org/abs/2505.19339)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
 |**2025-05-25**|**Staircase Recognition and Location Based on Polarization Vision**|Zhiying Tan Team|[2505.19026](http://arxiv.org/abs/2505.19026)|null|
 |**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Ruqi Huang Team|[2505.18078](http://arxiv.org/abs/2505.18078)|null|
 |**2025-05-22**|**Unified Multi-Rate Model Predictive Control for a Jet-Powered Humanoid Robot**|Daniele Pucci Team|[2505.16478](http://arxiv.org/abs/2505.16478)|null|
@@ -944,7 +944,7 @@ layout: default
 |**2025-05-25**|**MaskedManipulator: Versatile Whole-Body Control for Loco-Manipulation**|Xue Bin Peng Team|[2505.19086](http://arxiv.org/abs/2505.19086)|null|
 |**2025-05-24**|**Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos**|Mario Bijelic Team|[2505.18899](http://arxiv.org/abs/2505.18899)|null|
 |**2025-05-24**|**DiffusionRL: Efficient Training of Diffusion Policies for Robotic Grasping Using RL-Adapted Large-Scale Datasets**|Dzmitry Tsetserukou Team|[2505.18876](http://arxiv.org/abs/2505.18876)|null|
-|**2025-05-24**|**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning**|Ye Shi Team|[2505.18763](http://arxiv.org/abs/2505.18763)|null|
+|**2025-05-27**|**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning**|Ye Shi Team|[2505.18763](http://arxiv.org/abs/2505.18763)|null|
 |**2025-05-22**|**TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Manipulation**|Hengdi Zhang Team|[2505.16289](http://arxiv.org/abs/2505.16289)|null|
 |**2025-05-21**|**Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation**|Xiaodong He Team|[2505.15098](http://arxiv.org/abs/2505.15098)|null|
 |**2025-05-20**|**Adaptive Visuo-Tactile Fusion with Predictive Force Attention for Dexterous Manipulation**|Hao Dong Team|[2505.13982](http://arxiv.org/abs/2505.13982)|null|
