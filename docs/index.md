@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -18,7 +18,7 @@ layout: default
 |**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Yi Xu Team|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
 |**2025-05-28**|**Streaming Flow Policy: Simplifying diffusion $/$ flow-matching policies by treating action trajectories as flow trajectories**|Siddharth Ancha Team|[2505.21851](http://arxiv.org/abs/2505.21851)|null|
 |**2025-05-27**|**PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation**|Tianmin Shu Team|[2505.21652](http://arxiv.org/abs/2505.21652)|null|
-|**2025-05-27**|**Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks**|Bryan Plummer Team|[2505.21649](http://arxiv.org/abs/2505.21649)|null|
+|**2025-05-29**|**Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks**|Bryan A. Plummer Team|[2505.21649](http://arxiv.org/abs/2505.21649)|null|
 |**2025-05-27**|**CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception**|Tapomayukh Bhattacharjee Team|[2505.21495](http://arxiv.org/abs/2505.21495)|null|
 |**2025-05-27**|**EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation**|Robert Platt Team|[2505.21351](http://arxiv.org/abs/2505.21351)|null|
 |**2025-05-27**|**EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild**|Gonzalo Ferrer Team|[2505.21282](http://arxiv.org/abs/2505.21282)|null|
@@ -335,12 +335,12 @@ layout: default
 |**2025-05-28**|**Zero-Shot 3D Visual Grounding from Vision-Language Models**|Junwei Liang Team|[2505.22429](http://arxiv.org/abs/2505.22429)|null|
 |**2025-05-28**|**IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision-Language Models Without Ground Truth**|Syed Masum Billah Team|[2505.22305](http://arxiv.org/abs/2505.22305)|null|
 |**2025-05-28**|**Investigating Mechanisms for In-Context Vision Language Binding**|Vineet Gandhi Team|[2505.22200](http://arxiv.org/abs/2505.22200)|null|
-|**2025-05-28**|**Improving Brain-to-Image Reconstruction via Fine-Grained Text Bridging**|Piji Li Team|[2505.22150](http://arxiv.org/abs/2505.22150)|null|
+|**2025-05-29**|**Improving Brain-to-Image Reconstruction via Fine-Grained Text Bridging**|Piji Li Team|[2505.22150](http://arxiv.org/abs/2505.22150)|null|
 |**2025-05-28**|**3D Question Answering via only 2D Vision-Language Models**|Qianru Sun Team|[2505.22143](http://arxiv.org/abs/2505.22143)|null|
 |**2025-05-28**|**Reinforced Reasoning for Embodied Planning**|Bo Jin Team|[2505.22050](http://arxiv.org/abs/2505.22050)|null|
 |**2025-05-28**|**Balanced Token Pruning: Accelerating Vision Language Models Beyond Local Optimization**|Xinlei Chen Team|[2505.22038](http://arxiv.org/abs/2505.22038)|null|
 |**2025-05-28**|**Pearl: A Multimodal Culturally-Aware Arabic Instruction Dataset**|Muhammad Abdul-Mageed Team|[2505.21979](http://arxiv.org/abs/2505.21979)|null|
-|**2025-05-28**|**DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation**|Xin Tan Team|[2505.21969](http://arxiv.org/abs/2505.21969)|null|
+|**2025-05-29**|**DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation**|Xin Tan Team|[2505.21969](http://arxiv.org/abs/2505.21969)|null|
 |**2025-05-28**|**Seeing the Threat: Vulnerabilities in Vision-Language Models to Adversarial Attack**|Usman Naseem Team|[2505.21967](http://arxiv.org/abs/2505.21967)|null|
 |**2025-05-28**|**Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs**|Byonghyo Shim Team|[2505.21955](http://arxiv.org/abs/2505.21955)|null|
 |**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Yi Xu Team|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
@@ -833,7 +833,7 @@ layout: default
 |**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Wenqiang Zhang Team|[2505.22159](http://arxiv.org/abs/2505.22159)|null|
 |**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Yi Xu Team|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
 |**2025-05-27**|**EaqVLA: Encoding-aligned Quantization for Vision-Language-Action Models**|Xiang Chen Team|[2505.21567](http://arxiv.org/abs/2505.21567)|null|
-|**2025-05-27**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Xuelong Li Team|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
+|**2025-05-29**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Xuelong Li Team|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
 |**2025-05-27**|**Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models**|Tao Chen Team|[2505.21200](http://arxiv.org/abs/2505.21200)|null|
 |**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Goldie Nejat Team|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
 |**2025-05-26**|**What Can RL Bring to VLA Generalization? An Empirical Study**|Yu Wang Team|[2505.19789](http://arxiv.org/abs/2505.19789)|null|
@@ -975,7 +975,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Wenqiang Zhang Team|[2505.22159](http://arxiv.org/abs/2505.22159)|null|
-|**2025-05-28**|**DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation**|Shuran Song Team|[2505.21864](http://arxiv.org/abs/2505.21864)|null|
+|**2025-05-29**|**DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation**|Shuran Song Team|[2505.21864](http://arxiv.org/abs/2505.21864)|null|
 |**2025-05-27**|**Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt**|Jianyu Chen Team|[2505.20795](http://arxiv.org/abs/2505.20795)|null|
 |**2025-05-25**|**MaskedManipulator: Versatile Whole-Body Control for Loco-Manipulation**|Xue Bin Peng Team|[2505.19086](http://arxiv.org/abs/2505.19086)|null|
 |**2025-05-24**|**Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos**|Mario Bijelic Team|[2505.18899](http://arxiv.org/abs/2505.18899)|null|
