@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Mobi- $π$ : Mobilizing Your Robot Learning Policy**|Jeannette Bohg Team|[2505.23692](http://arxiv.org/abs/2505.23692)|null|
+|**2025-05-29**|**Normalizing Flows are Capable Models for RL**|Benjamin Eysenbach Team|[2505.23527](http://arxiv.org/abs/2505.23527)|null|
+|**2025-05-29**|**Optimization-based Posture Generation for Whole-body Contact Motion by Contact Point Search on the Body Surface**|Masayuki Inaba Team|[2505.23501](http://arxiv.org/abs/2505.23501)|null|
+|**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Lichao Sun Team|[2505.23450](http://arxiv.org/abs/2505.23450)|null|
+|**2025-05-29**|**Enhanced DACER Algorithm with High Diffusion Efficiency**|Shengbo Eben Li Team|[2505.23426](http://arxiv.org/abs/2505.23426)|null|
+|**2025-05-29**|**RoboTransfer: Geometry-Consistent Video Diffusion for Robotic Visual Policy Transfer**|Zhizhong Su Team|[2505.23171](http://arxiv.org/abs/2505.23171)|null|
 |**2025-05-28**|**SCIZOR: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning**|Yuke Zhu Team|[2505.22626](http://arxiv.org/abs/2505.22626)|null|
 |**2025-05-28**|**Hybrid Learning for Cold-Start-Aware Microservice Scheduling in Dynamic Edge Environments**|Weijia Jia Team|[2505.22424](http://arxiv.org/abs/2505.22424)|null|
 |**2025-05-28**|**Efficient Precision-Scalable Hardware for Microscaling (MX) Processing in Robotics Learning**|Marian Verhelst Team|[2505.22404](http://arxiv.org/abs/2505.22404)|null|
@@ -327,6 +333,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Jifeng Dai Team|[2505.23762](http://arxiv.org/abs/2505.23762)|null|
+|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|David M. Chan Team|[2505.23759](http://arxiv.org/abs/2505.23759)|null|
+|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Olga Fink Team|[2505.23745](http://arxiv.org/abs/2505.23745)|null|
+|**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Jing Liao Team|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
+|**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Sergey Levine Team|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
+|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Katerina Fragkiadaki Team|[2505.23678](http://arxiv.org/abs/2505.23678)|null|
+|**2025-05-29**|**Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition**|Liangcai Gao Team|[2505.23566](http://arxiv.org/abs/2505.23566)|null|
+|**2025-05-29**|**Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information**|Weiping Li Team|[2505.23558](http://arxiv.org/abs/2505.23558)|null|
+|**2025-05-29**|**TRAP: Targeted Redirecting of Agentic Preferences**|Gagandeep Singh Team|[2505.23518](http://arxiv.org/abs/2505.23518)|null|
+|**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Xu-Cheng Yin Team|[2505.23484](http://arxiv.org/abs/2505.23484)|null|
+|**2025-05-29**|**Beam-Guided Knowledge Replay for Knowledge-Rich Image Captioning using Vision-Language Model**|Muzammil Behzad Team|[2505.23358](http://arxiv.org/abs/2505.23358)|null|
+|**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Min-Ling Zhang Team|[2505.23271](http://arxiv.org/abs/2505.23271)|null|
+|**2025-05-29**|**VLM-RRT: Vision Language Model Guided RRT Search for Autonomous UAV Navigation**|Panayiotis Kolios Team|[2505.23267](http://arxiv.org/abs/2505.23267)|null|
+|**2025-05-29**|**Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion**|Tao Xiang Team|[2505.23266](http://arxiv.org/abs/2505.23266)|null|
+|**2025-05-29**|**ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal Chart Question Answering**|Lei Wang Team|[2505.23242](http://arxiv.org/abs/2505.23242)|null|
+|**2025-05-29**|**PhotoArtAgent: Intelligent Photo Retouching with Language Model-Based Artist Agents**|Jinjin Gu Team|[2505.23130](http://arxiv.org/abs/2505.23130)|null|
+|**2025-05-29**|**Are Unified Vision-Language Models Necessary: Generalization Across Understanding and Generation**|Yu Cheng Team|[2505.23043](http://arxiv.org/abs/2505.23043)|null|
+|**2025-05-29**|**An Empirical Study of Federated Prompt Learning for Vision Language Model**|Mang Ye Team|[2505.23024](http://arxiv.org/abs/2505.23024)|null|
+|**2025-05-29**|**SeG-SR: Integrating Semantic Knowledge into Remote Sensing Image Super-Resolution via Vision-Language Model**|Zhenwei Shi Team|[2505.23010](http://arxiv.org/abs/2505.23010)|null|
+|**2025-05-29**|**QLIP: A Dynamic Quadtree Vision Prior Enhances MLLM Performance Without Retraining**|Muhao Chen Team|[2505.23004](http://arxiv.org/abs/2505.23004)|null|
 |**2025-05-28**|**Zero-Shot Vision Encoder Grafting via LLM Surrogates**|Tom Goldstein Team|[2505.22664](http://arxiv.org/abs/2505.22664)|**[link](https://github.com/facebookresearch/zero)**|
 |**2025-05-28**|**Training Free Stylized Abstraction**|Vishal M. Patel Team|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
 |**2025-05-28**|**VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**|Dong Yu Team|[2505.22654](http://arxiv.org/abs/2505.22654)|null|
@@ -830,6 +856,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Hao Zhao Team|[2505.23757](http://arxiv.org/abs/2505.23757)|null|
+|**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Sergey Levine Team|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
+|**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Lichao Sun Team|[2505.23450](http://arxiv.org/abs/2505.23450)|null|
+|**2025-05-29**|**TrackVLA: Embodied Visual Tracking in the Wild**|He Wang Team|[2505.23189](http://arxiv.org/abs/2505.23189)|null|
 |**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Wenqiang Zhang Team|[2505.22159](http://arxiv.org/abs/2505.22159)|null|
 |**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Yi Xu Team|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
 |**2025-05-27**|**EaqVLA: Encoding-aligned Quantization for Vision-Language-Action Models**|Xiang Chen Team|[2505.21567](http://arxiv.org/abs/2505.21567)|null|
@@ -904,7 +934,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-28**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Pieter Abbeel Team|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
+|**2025-05-29**|**Humanoid Loco-manipulation Planning based on Graph Search and Reachability Maps**|Abderrahmane Kheddar Team|[2505.23505](http://arxiv.org/abs/2505.23505)|null|
+|**2025-05-29**|**Centroidal Trajectory Generation and Stabilization based on Preview Control for Humanoid Multi-contact Motion**|Fumio Kanehiro Team|[2505.23499](http://arxiv.org/abs/2505.23499)|null|
+|**2025-05-29**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Pieter Abbeel Team|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
 |**2025-05-27**|**Learning Unified Force and Position Control for Legged Loco-Manipulation**|Siyuan Huang Team|[2505.20829](http://arxiv.org/abs/2505.20829)|null|
 |**2025-05-27**|**Gait-Conditioned Reinforcement Learning with Multi-Phase Curriculum for Humanoid Locomotion**|CHengxu Zhou Team|[2505.20619](http://arxiv.org/abs/2505.20619)|null|
 |**2025-05-26**|**Integrating emotional intelligence, memory architecture, and gestures to achieve empathetic humanoid robot interaction in an educational setting**|Paul Craig Team|[2505.19803](http://arxiv.org/abs/2505.19803)|null|
