@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -16,15 +16,15 @@ layout: default
 |**2025-05-29**|**Enhanced DACER Algorithm with High Diffusion Efficiency**|Shengbo Eben Li Team|[2505.23426](http://arxiv.org/abs/2505.23426)|null|
 |**2025-05-29**|**RoboTransfer: Geometry-Consistent Video Diffusion for Robotic Visual Policy Transfer**|Zhizhong Su Team|[2505.23171](http://arxiv.org/abs/2505.23171)|null|
 |**2025-05-28**|**SCIZOR: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning**|Yuke Zhu Team|[2505.22626](http://arxiv.org/abs/2505.22626)|null|
-|**2025-05-28**|**Hybrid Learning for Cold-Start-Aware Microservice Scheduling in Dynamic Edge Environments**|Weijia Jia Team|[2505.22424](http://arxiv.org/abs/2505.22424)|null|
+|**2025-05-28**|**Hybrid Learning for Cold-Start-Aware Microservice Scheduling in Dynamic Edge Environments**|Weijia Jia Team|[2505.22424](http://arxiv.org/abs/2505.22424)|**[link](https://github.com/Blacktower27/CSDCRMDE)**|
 |**2025-05-28**|**Efficient Precision-Scalable Hardware for Microscaling (MX) Processing in Robotics Learning**|Marian Verhelst Team|[2505.22404](http://arxiv.org/abs/2505.22404)|null|
 |**2025-05-28**|**State and Input Constrained Adaptive Tracking Control of Uncertain Euler-Lagrange Systems with Robustness and Feasibility Analysis**|Shubhendu Bhasin Team|[2505.22352](http://arxiv.org/abs/2505.22352)|null|
 |**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Wenqiang Zhang Team|[2505.22159](http://arxiv.org/abs/2505.22159)|null|
 |**2025-05-28**|**Learning Compositional Behaviors from Demonstration and Language**|Jiajun Wu Team|[2505.21981](http://arxiv.org/abs/2505.21981)|null|
-|**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Yi Xu Team|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
+|**2025-05-29**|**ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Yi Xu Team|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
 |**2025-05-28**|**Streaming Flow Policy: Simplifying diffusion $/$ flow-matching policies by treating action trajectories as flow trajectories**|Siddharth Ancha Team|[2505.21851](http://arxiv.org/abs/2505.21851)|null|
 |**2025-05-27**|**PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation**|Tianmin Shu Team|[2505.21652](http://arxiv.org/abs/2505.21652)|null|
-|**2025-05-29**|**Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks**|Bryan A. Plummer Team|[2505.21649](http://arxiv.org/abs/2505.21649)|null|
+|**2025-05-30**|**Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks**|Bryan A. Plummer Team|[2505.21649](http://arxiv.org/abs/2505.21649)|null|
 |**2025-05-27**|**CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception**|Tapomayukh Bhattacharjee Team|[2505.21495](http://arxiv.org/abs/2505.21495)|null|
 |**2025-05-27**|**EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation**|Robert Platt Team|[2505.21351](http://arxiv.org/abs/2505.21351)|null|
 |**2025-05-27**|**EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild**|Gonzalo Ferrer Team|[2505.21282](http://arxiv.org/abs/2505.21282)|null|
@@ -333,26 +333,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Jifeng Dai Team|[2505.23762](http://arxiv.org/abs/2505.23762)|null|
-|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|David M. Chan Team|[2505.23759](http://arxiv.org/abs/2505.23759)|null|
-|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Olga Fink Team|[2505.23745](http://arxiv.org/abs/2505.23745)|null|
+|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Jifeng Dai Team|[2505.23762](http://arxiv.org/abs/2505.23762)|**[link](https://github.com/opengvlab/zerogui)**|
+|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|David M. Chan Team|[2505.23759](http://arxiv.org/abs/2505.23759)|**[link](https://github.com/kyunnilee/visual_puzzles)**|
+|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Olga Fink Team|[2505.23745](http://arxiv.org/abs/2505.23745)|**[link](https://github.com/epfl-imos/trustvlm)**|
 |**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Jing Liao Team|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
 |**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Sergey Levine Team|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
 |**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Katerina Fragkiadaki Team|[2505.23678](http://arxiv.org/abs/2505.23678)|null|
 |**2025-05-29**|**Uni-MuMER: Unified Multi-Task Fine-Tuning of Vision-Language Model for Handwritten Mathematical Expression Recognition**|Liangcai Gao Team|[2505.23566](http://arxiv.org/abs/2505.23566)|null|
-|**2025-05-29**|**Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information**|Weiping Li Team|[2505.23558](http://arxiv.org/abs/2505.23558)|null|
+|**2025-05-30**|**Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information**|Weiping Li Team|[2505.23558](http://arxiv.org/abs/2505.23558)|**[link](https://github.com/liar406/look_again)**|
 |**2025-05-29**|**TRAP: Targeted Redirecting of Agentic Preferences**|Gagandeep Singh Team|[2505.23518](http://arxiv.org/abs/2505.23518)|null|
-|**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Xu-Cheng Yin Team|[2505.23484](http://arxiv.org/abs/2505.23484)|null|
+|**2025-05-29**|**VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation**|Xu-Cheng Yin Team|[2505.23484](http://arxiv.org/abs/2505.23484)|**[link](https://github.com/gxym/vcapsbench)**|
 |**2025-05-29**|**Beam-Guided Knowledge Replay for Knowledge-Rich Image Captioning using Vision-Language Model**|Muzammil Behzad Team|[2505.23358](http://arxiv.org/abs/2505.23358)|null|
-|**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Min-Ling Zhang Team|[2505.23271](http://arxiv.org/abs/2505.23271)|null|
+|**2025-05-29**|**LADA: Scalable Label-Specific CLIP Adapter for Continual Learning**|Min-Ling Zhang Team|[2505.23271](http://arxiv.org/abs/2505.23271)|**[link](https://github.com/maolinluo/lada)**|
 |**2025-05-29**|**VLM-RRT: Vision Language Model Guided RRT Search for Autonomous UAV Navigation**|Panayiotis Kolios Team|[2505.23267](http://arxiv.org/abs/2505.23267)|null|
 |**2025-05-29**|**Disrupting Vision-Language Model-Driven Navigation Services via Adversarial Object Fusion**|Tao Xiang Team|[2505.23266](http://arxiv.org/abs/2505.23266)|null|
 |**2025-05-29**|**ChartMind: A Comprehensive Benchmark for Complex Real-world Multimodal Chart Question Answering**|Lei Wang Team|[2505.23242](http://arxiv.org/abs/2505.23242)|null|
 |**2025-05-29**|**PhotoArtAgent: Intelligent Photo Retouching with Language Model-Based Artist Agents**|Jinjin Gu Team|[2505.23130](http://arxiv.org/abs/2505.23130)|null|
-|**2025-05-29**|**Are Unified Vision-Language Models Necessary: Generalization Across Understanding and Generation**|Yu Cheng Team|[2505.23043](http://arxiv.org/abs/2505.23043)|null|
+|**2025-05-29**|**Are Unified Vision-Language Models Necessary: Generalization Across Understanding and Generation**|Yu Cheng Team|[2505.23043](http://arxiv.org/abs/2505.23043)|**[link](https://github.com/majordavidzhang/generalization_unified_vlm)**|
 |**2025-05-29**|**An Empirical Study of Federated Prompt Learning for Vision Language Model**|Mang Ye Team|[2505.23024](http://arxiv.org/abs/2505.23024)|null|
 |**2025-05-29**|**SeG-SR: Integrating Semantic Knowledge into Remote Sensing Image Super-Resolution via Vision-Language Model**|Zhenwei Shi Team|[2505.23010](http://arxiv.org/abs/2505.23010)|null|
-|**2025-05-29**|**QLIP: A Dynamic Quadtree Vision Prior Enhances MLLM Performance Without Retraining**|Muhao Chen Team|[2505.23004](http://arxiv.org/abs/2505.23004)|null|
+|**2025-05-29**|**QLIP: A Dynamic Quadtree Vision Prior Enhances MLLM Performance Without Retraining**|Muhao Chen Team|[2505.23004](http://arxiv.org/abs/2505.23004)|**[link](https://github.com/kyrochi/qlip)**|
 |**2025-05-28**|**Zero-Shot Vision Encoder Grafting via LLM Surrogates**|Tom Goldstein Team|[2505.22664](http://arxiv.org/abs/2505.22664)|**[link](https://github.com/facebookresearch/zero)**|
 |**2025-05-28**|**Training Free Stylized Abstraction**|Vishal M. Patel Team|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
 |**2025-05-28**|**VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**|Dong Yu Team|[2505.22654](http://arxiv.org/abs/2505.22654)|null|
@@ -856,12 +856,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Hao Zhao Team|[2505.23757](http://arxiv.org/abs/2505.23757)|null|
+|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Hao Zhao Team|[2505.23757](http://arxiv.org/abs/2505.23757)|**[link](https://github.com/ahydchh/impromptu-vla)**|
 |**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Sergey Levine Team|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
 |**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Lichao Sun Team|[2505.23450](http://arxiv.org/abs/2505.23450)|null|
 |**2025-05-29**|**TrackVLA: Embodied Visual Tracking in the Wild**|He Wang Team|[2505.23189](http://arxiv.org/abs/2505.23189)|null|
 |**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Wenqiang Zhang Team|[2505.22159](http://arxiv.org/abs/2505.22159)|null|
-|**2025-05-28**|**Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Yi Xu Team|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
+|**2025-05-29**|**ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Yi Xu Team|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
 |**2025-05-27**|**EaqVLA: Encoding-aligned Quantization for Vision-Language-Action Models**|Xiang Chen Team|[2505.21567](http://arxiv.org/abs/2505.21567)|null|
 |**2025-05-29**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Xuelong Li Team|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
 |**2025-05-27**|**Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models**|Tao Chen Team|[2505.21200](http://arxiv.org/abs/2505.21200)|null|
@@ -1010,7 +1010,7 @@ layout: default
 |**2025-05-29**|**DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation**|Shuran Song Team|[2505.21864](http://arxiv.org/abs/2505.21864)|null|
 |**2025-05-27**|**Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt**|Jianyu Chen Team|[2505.20795](http://arxiv.org/abs/2505.20795)|null|
 |**2025-05-25**|**MaskedManipulator: Versatile Whole-Body Control for Loco-Manipulation**|Xue Bin Peng Team|[2505.19086](http://arxiv.org/abs/2505.19086)|null|
-|**2025-05-24**|**Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos**|Mario Bijelic Team|[2505.18899](http://arxiv.org/abs/2505.18899)|null|
+|**2025-05-24**|**Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos**|Mario Bijelic Team|[2505.18899](http://arxiv.org/abs/2505.18899)|**[link](https://github.com/vittoriogiammarino/eb-laifo)**|
 |**2025-05-24**|**DiffusionRL: Efficient Training of Diffusion Policies for Robotic Grasping Using RL-Adapted Large-Scale Datasets**|Dzmitry Tsetserukou Team|[2505.18876](http://arxiv.org/abs/2505.18876)|null|
 |**2025-05-27**|**GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning**|Ye Shi Team|[2505.18763](http://arxiv.org/abs/2505.18763)|null|
 |**2025-05-22**|**TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Manipulation**|Hengdi Zhang Team|[2505.16289](http://arxiv.org/abs/2505.16289)|null|
