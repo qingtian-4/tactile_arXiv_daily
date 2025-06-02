@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Bi-Manual Joint Camera Calibration and Scene Representation**|Weiming Zhi Team|[2505.24819](http://arxiv.org/abs/2505.24819)|null|
+|**2025-05-30**|**MagicGripper: A Multimodal Sensor-Integrated Gripper for Contact-Rich Robotic Manipulation**|Dandan Zhang Team|[2505.24382](http://arxiv.org/abs/2505.24382)|null|
+|**2025-05-30**|**Imitation Learning-Based Path Generation for the Complex Assembly of Deformable Objects**|Christoffer Sloth Team|[2505.24339](http://arxiv.org/abs/2505.24339)|null|
+|**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Hao Dong Team|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
+|**2025-05-30**|**Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments**|Suwoong Lee Team|[2505.24209](http://arxiv.org/abs/2505.24209)|null|
+|**2025-05-30**|**Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control**|Guanya Shi Team|[2505.24198](http://arxiv.org/abs/2505.24198)|null|
 |**2025-05-29**|**Mobi- $π$ : Mobilizing Your Robot Learning Policy**|Jeannette Bohg Team|[2505.23692](http://arxiv.org/abs/2505.23692)|null|
 |**2025-05-29**|**Normalizing Flows are Capable Models for RL**|Benjamin Eysenbach Team|[2505.23527](http://arxiv.org/abs/2505.23527)|null|
 |**2025-05-29**|**Optimization-based Posture Generation for Whole-body Contact Motion by Contact Point Search on the Body Surface**|Masayuki Inaba Team|[2505.23501](http://arxiv.org/abs/2505.23501)|null|
@@ -333,6 +339,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Lili Qiu Team|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Vicente Ordonez Team|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
+|**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zhou Zhao Team|[2505.24870](http://arxiv.org/abs/2505.24870)|null|
+|**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Mohamed Elhoseiny Team|[2505.24867](http://arxiv.org/abs/2505.24867)|null|
+|**2025-05-30**|**Conformal Prediction for Zero-Shot Models**|Jose Dolz Team|[2505.24693](http://arxiv.org/abs/2505.24693)|null|
+|**2025-05-30**|**BIMA: Bijective Maximum Likelihood Learning Approach to Hallucination Prediction and Mitigation in Large Vision-Language Models**|Khoa Luu Team|[2505.24649](http://arxiv.org/abs/2505.24649)|null|
+|**2025-05-30**|**SARD: A Large-Scale Synthetic Arabic OCR Dataset for Book-Style Text Recognition**|Wadii Boulila Team|[2505.24600](http://arxiv.org/abs/2505.24600)|null|
+|**2025-05-30**|**AMIA: Automatic Masking and Joint Intention Analysis Makes LVLMs Robust Jailbreak Defenders**|Liang Ding Team|[2505.24519](http://arxiv.org/abs/2505.24519)|null|
+|**2025-05-30**|**CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation**|Thamar Solorio Team|[2505.24456](http://arxiv.org/abs/2505.24456)|null|
+|**2025-05-30**|**Advancing Compositional Awareness in CLIP with Efficient Fine-Tuning**|Matthias Hein Team|[2505.24424](http://arxiv.org/abs/2505.24424)|null|
+|**2025-05-30**|**MMAFFBen: A Multilingual and Multimodal Affective Analysis Benchmark for Evaluating LLMs and VLMs**|Sophia Ananiadou Team|[2505.24423](http://arxiv.org/abs/2505.24423)|null|
+|**2025-05-30**|**Grid-LOGAT: Grid Based Local and Global Area Transcription for Video Question Answering**|Fadoua Ghourabi Team|[2505.24371](http://arxiv.org/abs/2505.24371)|null|
+|**2025-05-30**|**KEVER^2: Knowledge-Enhanced Visual Emotion Reasoning and Retrieval**|Yong Li Team|[2505.24342](http://arxiv.org/abs/2505.24342)|null|
+|**2025-05-30**|**ROAD: Responsibility-Oriented Reward Design for Reinforcement Learning in Autonomous Driving**|Songan Zhang Team|[2505.24317](http://arxiv.org/abs/2505.24317)|null|
+|**2025-05-30**|**Benchmarking Foundation Models for Zero-Shot Biometric Tasks**|Arun Ross Team|[2505.24214](http://arxiv.org/abs/2505.24214)|null|
+|**2025-05-30**|**Bootstrapping LLM Robustness for VLM Safety via Reducing the Pretraining Modality Gap**|Baharan Mirzasoleiman Team|[2505.24208](http://arxiv.org/abs/2505.24208)|null|
+|**2025-05-30**|**DrVD-Bench: Do Vision-Language Models Reason Like Human Doctors in Medical Image Diagnosis?**|Xuegong Zhang Team|[2505.24173](http://arxiv.org/abs/2505.24173)|null|
+|**2025-05-30**|**CSVQA: A Chinese Multimodal Benchmark for Evaluating STEM Reasoning Capabilities of VLMs**|Xuchen Song Team|[2505.24120](http://arxiv.org/abs/2505.24120)|null|
+|**2025-05-29**|**mRAG: Elucidating the Design Space of Multi-modal Retrieval-Augmented Generation**|Zhengzhong Tu Team|[2505.24073](http://arxiv.org/abs/2505.24073)|null|
+|**2025-05-29**|**Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding**|Tinoosh Mohsenin Team|[2505.23990](http://arxiv.org/abs/2505.23990)|null|
 |**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Jifeng Dai Team|[2505.23762](http://arxiv.org/abs/2505.23762)|**[link](https://github.com/opengvlab/zerogui)**|
 |**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|David M. Chan Team|[2505.23759](http://arxiv.org/abs/2505.23759)|**[link](https://github.com/kyunnilee/visual_puzzles)**|
 |**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Olga Fink Team|[2505.23745](http://arxiv.org/abs/2505.23745)|**[link](https://github.com/epfl-imos/trustvlm)**|
@@ -856,6 +882,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Towards a Generalizable Bimanual Foundation Policy via Flow-based Video Prediction**|Xuelong Li Team|[2505.24156](http://arxiv.org/abs/2505.24156)|null|
 |**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Hao Zhao Team|[2505.23757](http://arxiv.org/abs/2505.23757)|**[link](https://github.com/ahydchh/impromptu-vla)**|
 |**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Sergey Levine Team|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
 |**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Lichao Sun Team|[2505.23450](http://arxiv.org/abs/2505.23450)|null|
@@ -934,6 +961,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**SignBot: Learning Human-to-Humanoid Sign Language Interaction**|Guiliang Liu Team|[2505.24266](http://arxiv.org/abs/2505.24266)|null|
+|**2025-05-30**|**Humanoid Loco-Manipulations Pattern Generation and Stabilization Control**|Abderrahmane Kheddar Team|[2505.24116](http://arxiv.org/abs/2505.24116)|null|
 |**2025-05-29**|**Humanoid Loco-manipulation Planning based on Graph Search and Reachability Maps**|Abderrahmane Kheddar Team|[2505.23505](http://arxiv.org/abs/2505.23505)|null|
 |**2025-05-29**|**Centroidal Trajectory Generation and Stabilization based on Preview Control for Humanoid Multi-contact Motion**|Fumio Kanehiro Team|[2505.23499](http://arxiv.org/abs/2505.23499)|null|
 |**2025-05-29**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Pieter Abbeel Team|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
@@ -1006,6 +1035,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation**|Shuran Song Team|[2505.24853](http://arxiv.org/abs/2505.24853)|null|
 |**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Wenqiang Zhang Team|[2505.22159](http://arxiv.org/abs/2505.22159)|null|
 |**2025-05-29**|**DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation**|Shuran Song Team|[2505.21864](http://arxiv.org/abs/2505.21864)|null|
 |**2025-05-27**|**Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt**|Jianyu Chen Team|[2505.20795](http://arxiv.org/abs/2505.20795)|null|
