@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -16,7 +16,7 @@ layout: default
 |**2025-05-30**|**Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments**|Suwoong Lee Team|[2505.24209](http://arxiv.org/abs/2505.24209)|null|
 |**2025-05-30**|**Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control**|Guanya Shi Team|[2505.24198](http://arxiv.org/abs/2505.24198)|null|
 |**2025-05-29**|**Mobi- $π$ : Mobilizing Your Robot Learning Policy**|Jeannette Bohg Team|[2505.23692](http://arxiv.org/abs/2505.23692)|null|
-|**2025-05-29**|**Normalizing Flows are Capable Models for RL**|Benjamin Eysenbach Team|[2505.23527](http://arxiv.org/abs/2505.23527)|null|
+|**2025-05-30**|**Normalizing Flows are Capable Models for RL**|Benjamin Eysenbach Team|[2505.23527](http://arxiv.org/abs/2505.23527)|null|
 |**2025-05-29**|**Optimization-based Posture Generation for Whole-body Contact Motion by Contact Point Search on the Body Surface**|Masayuki Inaba Team|[2505.23501](http://arxiv.org/abs/2505.23501)|null|
 |**2025-05-29**|**Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents**|Lichao Sun Team|[2505.23450](http://arxiv.org/abs/2505.23450)|null|
 |**2025-05-29**|**Enhanced DACER Algorithm with High Diffusion Efficiency**|Shengbo Eben Li Team|[2505.23426](http://arxiv.org/abs/2505.23426)|null|
