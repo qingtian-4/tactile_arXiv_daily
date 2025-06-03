@@ -901,7 +901,7 @@
 |**2025-05-28**|**ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation**|Wenqiang Zhang Team|[2505.22159](http://arxiv.org/abs/2505.22159)|null|
 |**2025-05-29**|**ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge**|Yi Xu Team|[2505.21906](http://arxiv.org/abs/2505.21906)|null|
 |**2025-05-27**|**EaqVLA: Encoding-aligned Quantization for Vision-Language-Action Models**|Xiang Chen Team|[2505.21567](http://arxiv.org/abs/2505.21567)|null|
-|**2025-05-29**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Xuelong Li Team|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
+|**2025-06-02**|**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**|Xuelong Li Team|[2505.21432](http://arxiv.org/abs/2505.21432)|null|
 |**2025-05-27**|**Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models**|Tao Chen Team|[2505.21200](http://arxiv.org/abs/2505.21200)|null|
 |**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Goldie Nejat Team|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
 |**2025-05-26**|**What Can RL Bring to VLA Generalization? An Empirical Study**|Yu Wang Team|[2505.19789](http://arxiv.org/abs/2505.19789)|null|
@@ -978,7 +978,7 @@
 |**2025-05-30**|**Humanoid Loco-Manipulations Pattern Generation and Stabilization Control**|Abderrahmane Kheddar Team|[2505.24116](http://arxiv.org/abs/2505.24116)|null|
 |**2025-05-29**|**Humanoid Loco-manipulation Planning based on Graph Search and Reachability Maps**|Abderrahmane Kheddar Team|[2505.23505](http://arxiv.org/abs/2505.23505)|null|
 |**2025-05-29**|**Centroidal Trajectory Generation and Stabilization based on Preview Control for Humanoid Multi-contact Motion**|Fumio Kanehiro Team|[2505.23499](http://arxiv.org/abs/2505.23499)|null|
-|**2025-05-29**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Pieter Abbeel Team|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
+|**2025-06-01**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Pieter Abbeel Team|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
 |**2025-05-27**|**Learning Unified Force and Position Control for Legged Loco-Manipulation**|Siyuan Huang Team|[2505.20829](http://arxiv.org/abs/2505.20829)|null|
 |**2025-05-27**|**Gait-Conditioned Reinforcement Learning with Multi-Phase Curriculum for Humanoid Locomotion**|CHengxu Zhou Team|[2505.20619](http://arxiv.org/abs/2505.20619)|null|
 |**2025-05-26**|**Integrating emotional intelligence, memory architecture, and gestures to achieve empathetic humanoid robot interaction in an educational setting**|Paul Craig Team|[2505.19803](http://arxiv.org/abs/2505.19803)|null|
