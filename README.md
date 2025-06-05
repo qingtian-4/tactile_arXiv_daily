@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Pieter Abbeel Team|[2506.04227](http://arxiv.org/abs/2506.04227)|null|
+|**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Leonard Hasenclever Team|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
+|**2025-06-04**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Liqiang Nie Team|[2506.03863](http://arxiv.org/abs/2506.03863)|null|
+|**2025-06-04**|**SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models**|Jian Tang Team|[2506.03574](http://arxiv.org/abs/2506.03574)|null|
+|**2025-06-04**|**Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**|Hu Chuan Team|[2506.03568](http://arxiv.org/abs/2506.03568)|null|
 |**2025-06-03**|**ORV: 4D Occupancy-centric Robot Video Generation**|Hao Zhao Team|[2506.03079](http://arxiv.org/abs/2506.03079)|null|
 |**2025-06-03**|**Geometric Visual Servo Via Optimal Transport**|Ashutosh Tiwari Team|[2506.02768](http://arxiv.org/abs/2506.02768)|null|
 |**2025-06-03**|**Rodrigues Network for Learning Robot Actions**|Leonidas Guibas Team|[2506.02618](http://arxiv.org/abs/2506.02618)|null|
@@ -368,6 +373,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Xinchao Wang Team|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
+|**2025-06-04**|**Recent Advances in Medical Image Classification**|Ngoc Quoc Ly Team|[2506.04129](http://arxiv.org/abs/2506.04129)|null|
+|**2025-06-04**|**LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward**|Jing Li Team|[2506.04070](http://arxiv.org/abs/2506.04070)|null|
+|**2025-06-04**|**Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization**|Min Zhang Team|[2506.04039](http://arxiv.org/abs/2506.04039)|null|
+|**2025-06-04**|**Vocabulary-free few-shot learning for Vision-Language Models**|Christophe De Vleeschouwer Team|[2506.04005](http://arxiv.org/abs/2506.04005)|null|
+|**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Anders Holst Team|[2506.03933](http://arxiv.org/abs/2506.03933)|null|
+|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Hesheng Wang Team|[2506.03662](http://arxiv.org/abs/2506.03662)|null|
+|**2025-06-04**|**Spatial Understanding from Videos: Structured Prompts Meet Simulation Data**|Liqiang Nie Team|[2506.03642](http://arxiv.org/abs/2506.03642)|null|
+|**2025-06-04**|**VLMs Can Aggregate Scattered Training Patches**|Chaochao Lu Team|[2506.03614](http://arxiv.org/abs/2506.03614)|null|
+|**2025-06-04**|**BiMa: Towards Biases Mitigation for Text-Video Retrieval via Scene Element Guidance**|Ngan Le Team|[2506.03589](http://arxiv.org/abs/2506.03589)|null|
+|**2025-06-04**|**MiMo-VL Technical Report**|Bingquan Xia Team|[2506.03569](http://arxiv.org/abs/2506.03569)|null|
+|**2025-06-04**|**Target Semantics Clustering via Text Representations for Robust Universal Domain Adaptation**|Yixin Zhang Team|[2506.03521](http://arxiv.org/abs/2506.03521)|null|
+|**2025-06-04**|**DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models**|Aliaksandr Siarohin Team|[2506.03517](http://arxiv.org/abs/2506.03517)|null|
+|**2025-06-04**|**POLARIS: A High-contrast Polarimetric Imaging Benchmark Dataset for Exoplanetary Disk Representation Learning**|Weixin Yao Team|[2506.03511](http://arxiv.org/abs/2506.03511)|null|
+|**2025-06-03**|**Toward Reliable VLM: A Fine-Grained Benchmark and Framework for Exposure, Bias, and Inference in Korean Street Views**|Hansaem Kim Team|[2506.03371](http://arxiv.org/abs/2506.03371)|null|
+|**2025-06-03**|**Robustness in Both Domains: CLIP Needs a Robust Text Encoder**|Volkan Cevher Team|[2506.03355](http://arxiv.org/abs/2506.03355)|null|
+|**2025-06-03**|**Grounded Vision-Language Interpreter for Integrated Task and Motion Planning**|Atsushi Hashimoto Team|[2506.03270](http://arxiv.org/abs/2506.03270)|null|
 |**2025-06-03**|**OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models**|Li Yi Team|[2506.03135](http://arxiv.org/abs/2506.03135)|null|
 |**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Linshen Liu Team|[2506.03097](http://arxiv.org/abs/2506.03097)|null|
 |**2025-06-03**|**DPO Learning with LLMs-Judge Signal for Computer Use Agents**|Phillip Howard Team|[2506.03095](http://arxiv.org/abs/2506.03095)|null|
@@ -933,6 +955,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models**|Jian Tang Team|[2506.03574](http://arxiv.org/abs/2506.03574)|null|
+|**2025-06-03**|**Adversarial Attacks on Robotic Vision Language Action Models**|J. Zico Kolter Team|[2506.03350](http://arxiv.org/abs/2506.03350)|null|
 |**2025-06-02**|**Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning**|Pheng-Ann Heng Team|[2506.01953](http://arxiv.org/abs/2506.01953)|null|
 |**2025-06-02**|**SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics**|Remi Cadene Team|[2506.01844](http://arxiv.org/abs/2506.01844)|null|
 |**2025-06-02**|**MLA-Trust: Benchmarking Trustworthiness of Multimodal LLM Agents in GUI Environments**|Jun Zhu Team|[2506.01616](http://arxiv.org/abs/2506.01616)|null|
@@ -1020,6 +1044,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Phase-based Nonlinear Model Predictive Control for Humanoid Walking Stabilization with Single and Double Support Time Adjustments**|Jaeheung Park Team|[2506.03856](http://arxiv.org/abs/2506.03856)|null|
 |**2025-06-03**|**AURA: Agentic Upskilling via Reinforced Abstractions**|Dennis Hong Team|[2506.02507](http://arxiv.org/abs/2506.02507)|null|
 |**2025-06-02**|**Reinforcement Learning with Data Bootstrapping for Dynamic Subgoal Pursuit in Humanoid Robot Navigation**|Ayonga Hereid Team|[2506.02206](http://arxiv.org/abs/2506.02206)|null|
 |**2025-06-02**|**Learning with pyCub: A New Simulation and Exercise Framework for Humanoid Robotics**|Matej Hoffmann Team|[2506.01756](http://arxiv.org/abs/2506.01756)|null|
