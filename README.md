@@ -1,4 +1,4 @@
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -362,7 +362,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## VLM
 
@@ -373,10 +373,10 @@
 |**2025-06-03**|**DPO Learning with LLMs-Judge Signal for Computer Use Agents**|Phillip Howard Team|[2506.03095](http://arxiv.org/abs/2506.03095)|null|
 |**2025-06-03**|**From Flat to Hierarchical: Extracting Sparse Representations with Matching Pursuit**|Demba Ba Team|[2506.03093](http://arxiv.org/abs/2506.03093)|null|
 |**2025-06-03**|**Text-guided Generation of Efficient Personalized Inspection Plans**|Aniket Bera Team|[2506.02917](http://arxiv.org/abs/2506.02917)|null|
-|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Maciej Wołczyk Team|[2506.02896](http://arxiv.org/abs/2506.02896)|null|
+|**2025-06-04**|**FlySearch: Exploring how vision-language models explore**|Maciej Wołczyk Team|[2506.02896](http://arxiv.org/abs/2506.02896)|null|
 |**2025-06-03**|**Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights**|Tony Wu Team|[2506.02865](http://arxiv.org/abs/2506.02865)|null|
 |**2025-06-03**|**SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking**|Yiwei Wang Team|[2506.02803](http://arxiv.org/abs/2506.02803)|null|
-|**2025-06-03**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Arash Afkanpour Team|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
+|**2025-06-04**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Arash Afkanpour Team|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
 |**2025-06-03**|**Iterative Self-Improvement of Vision Language Models for Image Scoring and Self-Explanation**|Toshihiko Yamasaki Team|[2506.02708](http://arxiv.org/abs/2506.02708)|null|
 |**2025-06-03**|**Small Aid, Big Leap: Efficient Test-Time Adaptation for Vision-Language Models with AdaptNet**|Zhi Wang Team|[2506.02671](http://arxiv.org/abs/2506.02671)|null|
 |**2025-06-03**|**Hierarchical Question-Answering for Driving Scene Understanding Using Vision-Language Models**|Dong Seog Han Team|[2506.02615](http://arxiv.org/abs/2506.02615)|null|
@@ -384,7 +384,7 @@
 |**2025-06-03**|**Sign Language: Towards Sign Understanding for Robot Autonomy**|David Hsu Team|[2506.02556](http://arxiv.org/abs/2506.02556)|null|
 |**2025-06-03**|**SurgVLM: A Large Vision-Language Model and Systematic Evaluation Benchmark for Surgical Intelligence**|Yueming Jin Team|[2506.02555](http://arxiv.org/abs/2506.02555)|null|
 |**2025-06-03**|**Rethinking Post-Unlearning Behavior of Large Vision-Language Models**|Kyomin Jung Team|[2506.02541](http://arxiv.org/abs/2506.02541)|null|
-|**2025-06-03**|**MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection**|Qingyao Wu Team|[2506.02535](http://arxiv.org/abs/2506.02535)|null|
+|**2025-06-04**|**MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection**|Qingyao Wu Team|[2506.02535](http://arxiv.org/abs/2506.02535)|null|
 |**2025-06-03**|**VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments**|Yu Wang Team|[2506.02387](http://arxiv.org/abs/2506.02387)|null|
 |**2025-06-03**|**Auto-Labeling Data for Object Detection**|Jason J. Corso Team|[2506.02359](http://arxiv.org/abs/2506.02359)|null|
 |**2025-06-03**|**RATE-Nav: Region-Aware Termination Enhancement for Zero-shot Object Navigation with Vision-Language Models**|Jianzong Wang Team|[2506.02354](http://arxiv.org/abs/2506.02354)|null|
@@ -927,7 +927,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## VLA
 
@@ -1014,7 +1014,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## Humanoid
 
@@ -1098,7 +1098,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 ## Dexterous
 
@@ -1173,5 +1173,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 

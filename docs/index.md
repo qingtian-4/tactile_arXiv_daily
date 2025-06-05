@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -364,10 +364,10 @@ layout: default
 |**2025-06-03**|**DPO Learning with LLMs-Judge Signal for Computer Use Agents**|Phillip Howard Team|[2506.03095](http://arxiv.org/abs/2506.03095)|null|
 |**2025-06-03**|**From Flat to Hierarchical: Extracting Sparse Representations with Matching Pursuit**|Demba Ba Team|[2506.03093](http://arxiv.org/abs/2506.03093)|null|
 |**2025-06-03**|**Text-guided Generation of Efficient Personalized Inspection Plans**|Aniket Bera Team|[2506.02917](http://arxiv.org/abs/2506.02917)|null|
-|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Maciej Wołczyk Team|[2506.02896](http://arxiv.org/abs/2506.02896)|null|
+|**2025-06-04**|**FlySearch: Exploring how vision-language models explore**|Maciej Wołczyk Team|[2506.02896](http://arxiv.org/abs/2506.02896)|null|
 |**2025-06-03**|**Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights**|Tony Wu Team|[2506.02865](http://arxiv.org/abs/2506.02865)|null|
 |**2025-06-03**|**SemVink: Advancing VLMs' Semantic Understanding of Optical Illusions via Visual Global Thinking**|Yiwei Wang Team|[2506.02803](http://arxiv.org/abs/2506.02803)|null|
-|**2025-06-03**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Arash Afkanpour Team|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
+|**2025-06-04**|**Open-PMC-18M: A High-Fidelity Large Scale Medical Dataset for Multimodal Representation Learning**|Arash Afkanpour Team|[2506.02738](http://arxiv.org/abs/2506.02738)|null|
 |**2025-06-03**|**Iterative Self-Improvement of Vision Language Models for Image Scoring and Self-Explanation**|Toshihiko Yamasaki Team|[2506.02708](http://arxiv.org/abs/2506.02708)|null|
 |**2025-06-03**|**Small Aid, Big Leap: Efficient Test-Time Adaptation for Vision-Language Models with AdaptNet**|Zhi Wang Team|[2506.02671](http://arxiv.org/abs/2506.02671)|null|
 |**2025-06-03**|**Hierarchical Question-Answering for Driving Scene Understanding Using Vision-Language Models**|Dong Seog Han Team|[2506.02615](http://arxiv.org/abs/2506.02615)|null|
@@ -375,7 +375,7 @@ layout: default
 |**2025-06-03**|**Sign Language: Towards Sign Understanding for Robot Autonomy**|David Hsu Team|[2506.02556](http://arxiv.org/abs/2506.02556)|null|
 |**2025-06-03**|**SurgVLM: A Large Vision-Language Model and Systematic Evaluation Benchmark for Surgical Intelligence**|Yueming Jin Team|[2506.02555](http://arxiv.org/abs/2506.02555)|null|
 |**2025-06-03**|**Rethinking Post-Unlearning Behavior of Large Vision-Language Models**|Kyomin Jung Team|[2506.02541](http://arxiv.org/abs/2506.02541)|null|
-|**2025-06-03**|**MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection**|Qingyao Wu Team|[2506.02535](http://arxiv.org/abs/2506.02535)|null|
+|**2025-06-04**|**MemoryOut: Learning Principal Features via Multimodal Sparse Filtering Network for Semi-supervised Video Anomaly Detection**|Qingyao Wu Team|[2506.02535](http://arxiv.org/abs/2506.02535)|null|
 |**2025-06-03**|**VS-Bench: Evaluating VLMs for Strategic Reasoning and Decision-Making in Multi-Agent Environments**|Yu Wang Team|[2506.02387](http://arxiv.org/abs/2506.02387)|null|
 |**2025-06-03**|**Auto-Labeling Data for Object Detection**|Jason J. Corso Team|[2506.02359](http://arxiv.org/abs/2506.02359)|null|
 |**2025-06-03**|**RATE-Nav: Region-Aware Termination Enhancement for Zero-shot Object Navigation with Vision-Language Models**|Jianzong Wang Team|[2506.02354](http://arxiv.org/abs/2506.02354)|null|
