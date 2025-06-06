@@ -1,4 +1,4 @@
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Leonard Hasenclever Team|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
 |**2025-06-04**|**STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization**|Liqiang Nie Team|[2506.03863](http://arxiv.org/abs/2506.03863)|null|
 |**2025-06-04**|**SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models**|Jian Tang Team|[2506.03574](http://arxiv.org/abs/2506.03574)|null|
-|**2025-06-04**|**Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**|Hu Chuan Team|[2506.03568](http://arxiv.org/abs/2506.03568)|null|
+|**2025-06-05**|**Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving**|Hu Chuan Team|[2506.03568](http://arxiv.org/abs/2506.03568)|null|
 |**2025-06-03**|**ORV: 4D Occupancy-centric Robot Video Generation**|Hao Zhao Team|[2506.03079](http://arxiv.org/abs/2506.03079)|null|
 |**2025-06-03**|**Geometric Visual Servo Via Optimal Transport**|Ashutosh Tiwari Team|[2506.02768](http://arxiv.org/abs/2506.02768)|null|
 |**2025-06-03**|**Rodrigues Network for Learning Robot Actions**|Leonidas Guibas Team|[2506.02618](http://arxiv.org/abs/2506.02618)|null|
@@ -30,7 +30,7 @@
 |**2025-06-02**|**Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control**|Dahua Lin Team|[2506.01943](http://arxiv.org/abs/2506.01943)|null|
 |**2025-06-02**|**FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation**|Hongyang Li Team|[2506.01941](http://arxiv.org/abs/2506.01941)|null|
 |**2025-06-02**|**Learning with pyCub: A New Simulation and Exercise Framework for Humanoid Robotics**|Matej Hoffmann Team|[2506.01756](http://arxiv.org/abs/2506.01756)|null|
-|**2025-06-02**|**Reasoning-Table: Exploring Reinforcement Learning for Table Reasoning**|Kang Liu Team|[2506.01710](http://arxiv.org/abs/2506.01710)|null|
+|**2025-06-02**|**Reasoning-Table: Exploring Reinforcement Learning for Table Reasoning**|Kang Liu Team|[2506.01710](http://arxiv.org/abs/2506.01710)|**[link](https://github.com/MJinXiang/Reasoning-Table)**|
 |**2025-06-02**|**WoMAP: World Models For Embodied Open-Vocabulary Object Localization**|Anirudha Majumdar Team|[2506.01600](http://arxiv.org/abs/2506.01600)|null|
 |**2025-06-02**|**FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens**|Yuexin Ma Team|[2506.01583](http://arxiv.org/abs/2506.01583)|null|
 |**2025-06-02**|**Trajectory First: A Curriculum for Discovering Diverse Policies**|Marc Toussaint Team|[2506.01568](http://arxiv.org/abs/2506.01568)|null|
@@ -367,7 +367,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## VLM
 
@@ -386,7 +386,7 @@
 |**2025-06-04**|**MiMo-VL Technical Report**|Bingquan Xia Team|[2506.03569](http://arxiv.org/abs/2506.03569)|null|
 |**2025-06-04**|**Target Semantics Clustering via Text Representations for Robust Universal Domain Adaptation**|Yixin Zhang Team|[2506.03521](http://arxiv.org/abs/2506.03521)|null|
 |**2025-06-04**|**DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models**|Aliaksandr Siarohin Team|[2506.03517](http://arxiv.org/abs/2506.03517)|null|
-|**2025-06-04**|**POLARIS: A High-contrast Polarimetric Imaging Benchmark Dataset for Exoplanetary Disk Representation Learning**|Weixin Yao Team|[2506.03511](http://arxiv.org/abs/2506.03511)|null|
+|**2025-06-04**|**POLARIS: A High-contrast Polarimetric Imaging Benchmark Dataset for Exoplanetary Disk Representation Learning**|Weixin Yao Team|[2506.03511](http://arxiv.org/abs/2506.03511)|**[link](https://github.com/astraeus999/POLARIS_img_analysis)**|
 |**2025-06-03**|**Toward Reliable VLM: A Fine-Grained Benchmark and Framework for Exposure, Bias, and Inference in Korean Street Views**|Hansaem Kim Team|[2506.03371](http://arxiv.org/abs/2506.03371)|null|
 |**2025-06-03**|**Robustness in Both Domains: CLIP Needs a Robust Text Encoder**|Volkan Cevher Team|[2506.03355](http://arxiv.org/abs/2506.03355)|null|
 |**2025-06-03**|**Grounded Vision-Language Interpreter for Integrated Task and Motion Planning**|Atsushi Hashimoto Team|[2506.03270](http://arxiv.org/abs/2506.03270)|null|
@@ -949,7 +949,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## VLA
 
@@ -1038,7 +1038,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## Humanoid
 
@@ -1053,7 +1053,7 @@
 |**2025-06-01**|**iRonCub 3: The Jet-Powered Flying Humanoid Robot**|Daniele Pucci Team|[2506.01125](http://arxiv.org/abs/2506.01125)|null|
 |**2025-05-30**|**Learning Aerodynamics for the Control of Flying Humanoid Robots**|Daniele Pucci Team|[2506.00305](http://arxiv.org/abs/2506.00305)|null|
 |**2025-05-30**|**Interactive Imitation Learning for Dexterous Robotic Manipulation: Challenges and Perspectives -- A Survey**|Rania Rayyes Team|[2506.00098](http://arxiv.org/abs/2506.00098)|null|
-|**2025-05-30**|**SignBot: Learning Human-to-Humanoid Sign Language Interaction**|Guiliang Liu Team|[2505.24266](http://arxiv.org/abs/2505.24266)|null|
+|**2025-06-05**|**SignBot: Learning Human-to-Humanoid Sign Language Interaction**|Guiliang Liu Team|[2505.24266](http://arxiv.org/abs/2505.24266)|null|
 |**2025-05-30**|**Humanoid Loco-Manipulations Pattern Generation and Stabilization Control**|Abderrahmane Kheddar Team|[2505.24116](http://arxiv.org/abs/2505.24116)|null|
 |**2025-05-29**|**Humanoid Loco-manipulation Planning based on Graph Search and Reachability Maps**|Abderrahmane Kheddar Team|[2505.23505](http://arxiv.org/abs/2505.23505)|null|
 |**2025-05-29**|**Centroidal Trajectory Generation and Stabilization based on Preview Control for Humanoid Multi-contact Motion**|Fumio Kanehiro Team|[2505.23499](http://arxiv.org/abs/2505.23499)|null|
@@ -1123,7 +1123,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## Dexterous
 
@@ -1198,5 +1198,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
