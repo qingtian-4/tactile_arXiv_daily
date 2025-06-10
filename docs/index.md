@@ -9,6 +9,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Tieniu Tan Team|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
+|**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Xilin Chen Team|[2506.07530](http://arxiv.org/abs/2506.07530)|null|
+|**2025-06-09**|**Reinforcement Learning via Implicit Imitation Guidance**|Chelsea Finn Team|[2506.07505](http://arxiv.org/abs/2506.07505)|null|
+|**2025-06-09**|**RAPID Hand: A Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platform for Generalist Robot Autonomy**|Hui Cheng Team|[2506.07490](http://arxiv.org/abs/2506.07490)|null|
+|**2025-06-08**|**CARoL: Context-aware Adaptation for Robot Learning**|Xuan Wang Team|[2506.07006](http://arxiv.org/abs/2506.07006)|null|
+|**2025-06-07**|**SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game**|Shanghang Zhang Team|[2506.06690](http://arxiv.org/abs/2506.06690)|null|
+|**2025-06-07**|**RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation**|Si Liu Team|[2506.06677](http://arxiv.org/abs/2506.06677)|null|
+|**2025-06-07**|**Self-Adapting Improvement Loops for Robotic Learning**|Chen Sun Team|[2506.06658](http://arxiv.org/abs/2506.06658)|null|
+|**2025-06-06**|**Enhancing Robot Safety via MLLM-Based Semantic Interpretation of Failure Data**|Somil Bansal Team|[2506.06570](http://arxiv.org/abs/2506.06570)|null|
+|**2025-06-06**|**NeSyPack: A Neuro-Symbolic Framework for Bimanual Logistics Packing**|Changliu Liu Team|[2506.06567](http://arxiv.org/abs/2506.06567)|null|
+|**2025-06-06**|**MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping**|Farshad Khorrami Team|[2506.06535](http://arxiv.org/abs/2506.06535)|null|
 |**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Mingkui Tan Team|[2506.06199](http://arxiv.org/abs/2506.06199)|null|
 |**2025-06-06**|**Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization**|Tingnan Zhang Team|[2506.06196](http://arxiv.org/abs/2506.06196)|null|
 |**2025-06-06**|**BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning**|Rudolf Lioutikov Team|[2506.06072](http://arxiv.org/abs/2506.06072)|null|
@@ -379,6 +390,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Yossi Gandelsman Team|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
+|**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Trevor Darrell Team|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
+|**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Tieniu Tan Team|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
+|**2025-06-09**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yiqing Shen Team|[2506.07943](http://arxiv.org/abs/2506.07943)|null|
+|**2025-06-09**|**Mimicking or Reasoning: Rethinking Multi-Modal In-Context Learning in Vision-Language Models**|Zsolt Kira Team|[2506.07936](http://arxiv.org/abs/2506.07936)|null|
+|**2025-06-09**|**SAM2Auto: Auto Annotation Using FLASH**|Q. M. Jonathan Wu Team|[2506.07850](http://arxiv.org/abs/2506.07850)|null|
+|**2025-06-09**|**Image Reconstruction as a Tool for Feature Analysis**|Andrey Kuznetsov Team|[2506.07803](http://arxiv.org/abs/2506.07803)|null|
+|**2025-06-09**|**Re-ranking Reasoning Context with Tree Search Makes Large Vision-Language Models Stronger**|Shiming Xiang Team|[2506.07785](http://arxiv.org/abs/2506.07785)|null|
+|**2025-06-09**|**Language-Vision Planner and Executor for Text-to-Visual Reasoning**|Ling Liu Team|[2506.07778](http://arxiv.org/abs/2506.07778)|null|
+|**2025-06-09**|**ArchiLense: A Framework for Quantitative Analysis of Architectural Styles Based on Vision Large Language Models**|Ran Luo Team|[2506.07739](http://arxiv.org/abs/2506.07739)|null|
+|**2025-06-09**|**OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting**|Bastian Leibe Team|[2506.07697](http://arxiv.org/abs/2506.07697)|null|
+|**2025-06-09**|**Unblocking Fine-Grained Evaluation of Detailed Captions: An Explaining AutoRater and Critic-and-Revise Pipeline**|Idan Szpektor Team|[2506.07631](http://arxiv.org/abs/2506.07631)|null|
+|**2025-06-09**|**Event-Priori-Based Vision-Language Model for Efficient Visual Understanding**|Michele Magno Team|[2506.07627](http://arxiv.org/abs/2506.07627)|null|
+|**2025-06-09**|**SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems**|Zhengzhong Tu Team|[2506.07564](http://arxiv.org/abs/2506.07564)|null|
+|**2025-06-09**|**GTR-CoT: Graph Traversal as Visual Chain of Thought for Molecular Structure Recognition**|Conghui He Team|[2506.07553](http://arxiv.org/abs/2506.07553)|null|
+|**2025-06-09**|**Taking Flight with Dialogue: Enabling Natural Language Control for PX4-based Drone Agent**|Ting Yang Ling Team|[2506.07509](http://arxiv.org/abs/2506.07509)|null|
+|**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xinggang Wang Team|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-09**|**CoCoA-Mix: Confusion-and-Confidence-Aware Mixture Model for Context Optimization**|Hyun Myung Team|[2506.07484](http://arxiv.org/abs/2506.07484)|null|
+|**2025-06-09**|**LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments**|Josh Park Team|[2506.07416](http://arxiv.org/abs/2506.07416)|null|
+|**2025-06-09**|**MrM: Black-Box Membership Inference Attacks against Multimodal RAG Systems**|Tao Qi Team|[2506.07399](http://arxiv.org/abs/2506.07399)|null|
 |**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Jifeng Dai Team|[2506.06279](http://arxiv.org/abs/2506.06279)|null|
 |**2025-06-06**|**Movie Facts and Fibs (MF $^2$ ): A Benchmark for Long Movie Understanding**|André F. T. Martins Team|[2506.06275](http://arxiv.org/abs/2506.06275)|null|
 |**2025-06-06**|**Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study**|Lena Maier-Hein Team|[2506.06232](http://arxiv.org/abs/2506.06232)|null|
@@ -989,6 +1020,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Tieniu Tan Team|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
+|**2025-06-09**|**Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse**|Chris Xiaoxuan Lu Team|[2506.07639](http://arxiv.org/abs/2506.07639)|null|
+|**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Xilin Chen Team|[2506.07530](http://arxiv.org/abs/2506.07530)|null|
+|**2025-06-09**|**Real-Time Execution of Action Chunking Flow Policies**|Sergey Levine Team|[2506.07339](http://arxiv.org/abs/2506.07339)|null|
+|**2025-06-08**|**Robotic Policy Learning via Human-assisted Action Preference Optimization**|Di Hu Team|[2506.07127](http://arxiv.org/abs/2506.07127)|null|
+|**2025-06-07**|**RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation**|Si Liu Team|[2506.06677](http://arxiv.org/abs/2506.06677)|null|
+|**2025-06-06**|**MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping**|Farshad Khorrami Team|[2506.06535](http://arxiv.org/abs/2506.06535)|null|
 |**2025-06-06**|**DriveAction: A Benchmark for Exploring Human-like Driving Decisions in VLA Models**|Xianpeng Lang Team|[2506.05667](http://arxiv.org/abs/2506.05667)|null|
 |**2025-06-04**|**SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models**|Jian Tang Team|[2506.03574](http://arxiv.org/abs/2506.03574)|null|
 |**2025-06-03**|**Adversarial Attacks on Robotic Vision Language Action Models**|J. Zico Kolter Team|[2506.03350](http://arxiv.org/abs/2506.03350)|**[link](https://github.com/eliotjones1/robogcg)**|
@@ -1161,6 +1199,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**RAPID Hand: A Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platform for Generalist Robot Autonomy**|Hui Cheng Team|[2506.07490](http://arxiv.org/abs/2506.07490)|null|
 |**2025-06-05**|**GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove**|Zelin Deng Team|[2506.04982](http://arxiv.org/abs/2506.04982)|**[link](https://github.com/democratizing-dexterous/libgex)**|
 |**2025-06-06**|**ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning**|Jian Tang Team|[2506.04941](http://arxiv.org/abs/2506.04941)|null|
 |**2025-06-03**|**Reachability Weighted Offline Goal-conditioned Resampling**|Joni Pajarinen Team|[2506.02577](http://arxiv.org/abs/2506.02577)|null|
