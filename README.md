@@ -1,4 +1,4 @@
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2025-06-10**|**Deep Reinforcement Learning-Based Motion Planning and PDE Control for Flexible Manipulators**|Jouni Mattila Team|[2506.08639](http://arxiv.org/abs/2506.08639)|null|
 |**2025-06-10**|**RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping**|Gitta Kutyniok Team|[2506.08632](http://arxiv.org/abs/2506.08632)|null|
 |**2025-06-10**|**Periodic Bipedal Gait Learning Using Reward Composition Based on a Novel Gait Planner for Humanoid Robots**|Lijun Zhu Team|[2506.08416](http://arxiv.org/abs/2506.08416)|null|
-|**2025-06-09**|**HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation**|Cong Wang Team|[2506.08296](http://arxiv.org/abs/2506.08296)|null|
+|**2025-06-11**|**HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation**|Cong Wang Team|[2506.08296](http://arxiv.org/abs/2506.08296)|null|
 |**2025-06-09**|**ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving**|Xinggang Wang Team|[2506.08052](http://arxiv.org/abs/2506.08052)|null|
 |**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Tieniu Tan Team|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
 |**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Xilin Chen Team|[2506.07530](http://arxiv.org/abs/2506.07530)|null|
@@ -401,31 +401,31 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Zhenfei Yin Team|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
-|**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yonatan Belinkov Team|[2506.09047](http://arxiv.org/abs/2506.09047)|null|
+|**2025-06-11**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yonatan Belinkov Team|[2506.09047](http://arxiv.org/abs/2506.09047)|null|
 |**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Jiaqi Wang Team|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
 |**2025-06-10**|**Efficient Medical Vision-Language Alignment Through Adapting Masked Vision Models**|Liansheng Wang Team|[2506.08990](http://arxiv.org/abs/2506.08990)|null|
 |**2025-06-10**|**Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions**|Yejin Choi Team|[2506.08927](http://arxiv.org/abs/2506.08927)|null|
-|**2025-06-10**|**Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought**|Shanghang Zhang Team|[2506.08817](http://arxiv.org/abs/2506.08817)|null|
+|**2025-06-11**|**Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought**|Shanghang Zhang Team|[2506.08817](http://arxiv.org/abs/2506.08817)|null|
 |**2025-06-10**|**Multimodal Representation Alignment for Cross-modal Information Retrieval**|Luis A. Leiva Team|[2506.08774](http://arxiv.org/abs/2506.08774)|null|
 |**2025-06-10**|**PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly**|Xiaodan Liang Team|[2506.08708](http://arxiv.org/abs/2506.08708)|null|
 |**2025-06-10**|**VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism**|Weijiang Yu Team|[2506.08691](http://arxiv.org/abs/2506.08691)|null|
 |**2025-06-10**|**ATAS: Any-to-Any Self-Distillation for Enhanced Open-Vocabulary Dense Prediction**|Taesup Kim Team|[2506.08678](http://arxiv.org/abs/2506.08678)|null|
 |**2025-06-10**|**Convergence of Spectral Principal Paths: How Deep Networks Distill Linear Representations from Noisy Inputs**|Ang Li Team|[2506.08543](http://arxiv.org/abs/2506.08543)|null|
 |**2025-06-10**|**Better Reasoning with Less Data: Enhancing VLMs Through Unified Modality Scoring**|Jiaheng Wei Team|[2506.08429](http://arxiv.org/abs/2506.08429)|null|
-|**2025-06-10**|**SafeCoT: Improving VLM Safety with Minimal Reasoning**|Chaochao Lu Team|[2506.08399](http://arxiv.org/abs/2506.08399)|null|
+|**2025-06-11**|**SafeCoT: Improving VLM Safety with Minimal Reasoning**|Chaochao Lu Team|[2506.08399](http://arxiv.org/abs/2506.08399)|null|
 |**2025-06-10**|**SECOND: Mitigating Perceptual Hallucination in Vision-Language Models via Selective and Contrastive Decoding**|Jaeyoung Do Team|[2506.08391](http://arxiv.org/abs/2506.08391)|null|
 |**2025-06-09**|**A Good CREPE needs more than just Sugar: Investigating Biases in Compositional Vision-Language Benchmarks**|Matthias Bethge Team|[2506.08227](http://arxiv.org/abs/2506.08227)|null|
-|**2025-06-09**|**GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra**|Guha Balakrishnan Team|[2506.08194](http://arxiv.org/abs/2506.08194)|null|
+|**2025-06-11**|**GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra**|Guha Balakrishnan Team|[2506.08194](http://arxiv.org/abs/2506.08194)|null|
 |**2025-06-09**|**Open World Scene Graph Generation using Vision Language Models**|Anuj Karpatne Team|[2506.08189](http://arxiv.org/abs/2506.08189)|null|
 |**2025-06-09**|**CuRe: Cultural Gaps in the Long Tail of Text-to-Image Systems**|Ramya Korlakai Vinayak Team|[2506.08071](http://arxiv.org/abs/2506.08071)|null|
-|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Yossi Gandelsman Team|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
+|**2025-06-10**|**Vision Transformers Don't Need Trained Registers**|Yossi Gandelsman Team|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
 |**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Trevor Darrell Team|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
 |**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Tieniu Tan Team|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
 |**2025-06-09**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yiqing Shen Team|[2506.07943](http://arxiv.org/abs/2506.07943)|null|
@@ -1051,7 +1051,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## VLA
 
@@ -1059,8 +1059,8 @@
 |---|---|---|---|---|
 |**2025-06-10**|**FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency**|Jian Tang Team|[2506.08822](http://arxiv.org/abs/2506.08822)|null|
 |**2025-06-10**|**Hybrid Reasoning for Perception, Explanation, and Autonomous Action in Manufacturing**|Sebastian W. Pattinson Team|[2506.08462](http://arxiv.org/abs/2506.08462)|null|
-|**2025-06-10**|**TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization**|Qi Wang Team|[2506.08440](http://arxiv.org/abs/2506.08440)|null|
-|**2025-06-09**|**HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation**|Cong Wang Team|[2506.08296](http://arxiv.org/abs/2506.08296)|null|
+|**2025-06-11**|**TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization**|Qi Wang Team|[2506.08440](http://arxiv.org/abs/2506.08440)|null|
+|**2025-06-11**|**HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation**|Cong Wang Team|[2506.08296](http://arxiv.org/abs/2506.08296)|null|
 |**2025-06-09**|**Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion Models in a Vision-Language-Action Framework**|Jason H. Moore Team|[2506.08185](http://arxiv.org/abs/2506.08185)|null|
 |**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Tieniu Tan Team|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
 |**2025-06-09**|**Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse**|Chris Xiaoxuan Lu Team|[2506.07639](http://arxiv.org/abs/2506.07639)|null|
@@ -1153,7 +1153,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Humanoid
 
@@ -1242,7 +1242,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Dexterous
 
@@ -1321,5 +1321,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
