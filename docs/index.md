@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.06.13
+## Updated on 2025.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Angjoo Kanazawa Team|[2506.10968](http://arxiv.org/abs/2506.10968)|null|
+|**2025-06-12**|**GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**|Jiangmiao Pang Team|[2506.10966](http://arxiv.org/abs/2506.10966)|null|
+|**2025-06-12**|**Human-Robot Navigation using Event-based Cameras and Reinforcement Learning**|Rodrigo Verschae Team|[2506.10790](http://arxiv.org/abs/2506.10790)|null|
+|**2025-06-12**|**Demonstrating Multi-Suction Item Picking at Scale via Multi-Modal Learning of Pick Success**|Kapil Katyal Team|[2506.10359](http://arxiv.org/abs/2506.10359)|null|
+|**2025-06-11**|**Innovative Adaptive Imaged Based Visual Servoing Control of 6 DoFs Industrial Robot Manipulators**|Francis Assadian Team|[2506.10240](http://arxiv.org/abs/2506.10240)|null|
+|**2025-06-11**|**One For All: LLM-based Heterogeneous Mission Planning in Precision Agriculture**|Stefano Carpin Team|[2506.10106](http://arxiv.org/abs/2506.10106)|null|
 |**2025-06-11**|**eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell Microstructures**|Raunaq Bhirangi Team|[2506.09994](http://arxiv.org/abs/2506.09994)|null|
 |**2025-06-11**|**Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation**|Xiao Ma Team|[2506.09990](http://arxiv.org/abs/2506.09990)|null|
 |**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Chen Feng Team|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
@@ -410,6 +416,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Ngai-Man Cheung Team|[2506.10895](http://arxiv.org/abs/2506.10895)|null|
+|**2025-06-12**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Haoang Li Team|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
+|**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Mir Feroskhan Team|[2506.10756](http://arxiv.org/abs/2506.10756)|null|
+|**2025-06-12**|**IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain**|Yefeng Zheng Team|[2506.10730](http://arxiv.org/abs/2506.10730)|null|
+|**2025-06-12**|**GigaVideo-1: Advancing Video Generation via Automatic Feedback with 4 GPU-Hours Fine-Tuning**|Guan Huang Team|[2506.10639](http://arxiv.org/abs/2506.10639)|null|
+|**2025-06-12**|**Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning**|Yong Liu Team|[2506.10575](http://arxiv.org/abs/2506.10575)|null|
+|**2025-06-12**|**LLMs Are Not Yet Ready for Deepfake Image Detection**|Kristen Moore Team|[2506.10474](http://arxiv.org/abs/2506.10474)|null|
+|**2025-06-12**|**UrbanSense:AFramework for Quantitative Analysis of Urban Streetscapes leveraging Vision Large Language Models**|Shuai Lu Team|[2506.10342](http://arxiv.org/abs/2506.10342)|null|
+|**2025-06-12**|**Using Vision Language Models to Detect Students' Academic Emotion through Facial Expressions**|Gaowei Chen Team|[2506.10334](http://arxiv.org/abs/2506.10334)|null|
+|**2025-06-12**|**HalLoc: Token-level Localization of Hallucinations for Vision Language Models**|Gunhee Kim Team|[2506.10286](http://arxiv.org/abs/2506.10286)|null|
+|**2025-06-11**|**Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval**|Francis Ferraro Team|[2506.10202](http://arxiv.org/abs/2506.10202)|null|
+|**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Bryan Russell Team|[2506.10182](http://arxiv.org/abs/2506.10182)|null|
+|**2025-06-11**|**A Navigation Framework Utilizing Vision-Language Models**|Kaiyu tang Team|[2506.10172](http://arxiv.org/abs/2506.10172)|null|
+|**2025-06-11**|**One Patient, Many Contexts: Scaling Medical AI Through Contextual Intelligence**|Marinka Zitnik Team|[2506.10157](http://arxiv.org/abs/2506.10157)|null|
+|**2025-06-11**|**ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs**|Lijuan Wang Team|[2506.10128](http://arxiv.org/abs/2506.10128)|null|
+|**2025-06-11**|**Test-Time Adaptation for Generalizable Task Progress Estimation**|Alessandra Russo Team|[2506.10085](http://arxiv.org/abs/2506.10085)|null|
 |**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Tieniu Tan Team|[2506.09965](http://arxiv.org/abs/2506.09965)|null|
 |**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Chen Feng Team|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
 |**2025-06-11**|**3D-Aware Vision-Language Models Fine-Tuning with Geometric Distillation**|Hyunjung Shim Team|[2506.09883](http://arxiv.org/abs/2506.09883)|**[link](https://github.com/kaist-cvml/3d-vlm-gd)**|
@@ -1069,6 +1091,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Haoang Li Team|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
+|**2025-06-11**|**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models**|Linfeng Zhang Team|[2506.10100](http://arxiv.org/abs/2506.10100)|null|
 |**2025-06-11**|**SAFE: Multitask Failure Detection for Vision-Language-Action Models**|Florian Shkurti Team|[2506.09937](http://arxiv.org/abs/2506.09937)|null|
 |**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Chen Feng Team|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
 |**2025-06-10**|**MultiNet: An Open-Source Software Toolkit \& Benchmark Suite for the Evaluation and Adaptation of Multimodal Action Models**|Harshvardhan Sikka Team|[2506.09172](http://arxiv.org/abs/2506.09172)|null|
@@ -1172,6 +1196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Exploring EEG Responses during Observation of Actions Performed by Human Actor and Humanoid Robot**|Michelle J. Johnson Team|[2506.10170](http://arxiv.org/abs/2506.10170)|null|
 |**2025-06-11**|**Locomotion on Constrained Footholds via Layered Architectures and Model Predictive Control**|Aaron D. Ames Team|[2506.09979](http://arxiv.org/abs/2506.09979)|null|
 |**2025-06-11**|**Attention-Based Map Encoding for Learning Generalized Legged Locomotion**|Marco Hutter Team|[2506.09588](http://arxiv.org/abs/2506.09588)|null|
 |**2025-06-11**|**Bipedal Balance Control with Whole-body Musculoskeletal Standing and Falling Simulations**|Yanan Sui Team|[2506.09383](http://arxiv.org/abs/2506.09383)|null|
