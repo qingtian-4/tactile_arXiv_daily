@@ -441,10 +441,10 @@
 |**2025-06-11**|**One Patient, Many Contexts: Scaling Medical AI Through Contextual Intelligence**|Marinka Zitnik Team|[2506.10157](http://arxiv.org/abs/2506.10157)|null|
 |**2025-06-11**|**ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs**|Lijuan Wang Team|[2506.10128](http://arxiv.org/abs/2506.10128)|null|
 |**2025-06-11**|**Test-Time Adaptation for Generalizable Task Progress Estimation**|Alessandra Russo Team|[2506.10085](http://arxiv.org/abs/2506.10085)|null|
-|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Tieniu Tan Team|[2506.09965](http://arxiv.org/abs/2506.09965)|null|
+|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Tieniu Tan Team|[2506.09965](http://arxiv.org/abs/2506.09965)|**[link](https://github.com/antresearchnlp/vilasr)**|
 |**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Chen Feng Team|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
 |**2025-06-11**|**3D-Aware Vision-Language Models Fine-Tuning with Geometric Distillation**|Hyunjung Shim Team|[2506.09883](http://arxiv.org/abs/2506.09883)|**[link](https://github.com/kaist-cvml/3d-vlm-gd)**|
-|**2025-06-11**|**Adding simple structure at inference improves Vision-Language Compositionality**|Gorka Azkune Team|[2506.09691](http://arxiv.org/abs/2506.09691)|null|
+|**2025-06-11**|**Adding simple structure at inference improves Vision-Language Compositionality**|Gorka Azkune Team|[2506.09691](http://arxiv.org/abs/2506.09691)|**[link](https://github.com/imirandam/structure-inference-compositionality)**|
 |**2025-06-11**|**FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models**|Liangqiong Qu Team|[2506.09638](http://arxiv.org/abs/2506.09638)|null|
 |**2025-06-11**|**Revisit What You See: Disclose Language Prior in Vision Tokens for Efficient Guided Decoding of LVLMs**|Jaehyung Kim Team|[2506.09522](http://arxiv.org/abs/2506.09522)|**[link](https://github.com/bscho333/ReVisiT)**|
 |**2025-06-11**|**Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning**|Jia Li Team|[2506.09473](http://arxiv.org/abs/2506.09473)|null|
@@ -1114,7 +1114,7 @@
 |**2025-06-09**|**Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion Models in a Vision-Language-Action Framework**|Jason H. Moore Team|[2506.08185](http://arxiv.org/abs/2506.08185)|null|
 |**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Tieniu Tan Team|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
 |**2025-06-09**|**Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse**|Chris Xiaoxuan Lu Team|[2506.07639](http://arxiv.org/abs/2506.07639)|null|
-|**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Xilin Chen Team|[2506.07530](http://arxiv.org/abs/2506.07530)|null|
+|**2025-06-09**|**BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation**|Xilin Chen Team|[2506.07530](http://arxiv.org/abs/2506.07530)|**[link](https://github.com/ustcwhy/bitvla)**|
 |**2025-06-09**|**Real-Time Execution of Action Chunking Flow Policies**|Sergey Levine Team|[2506.07339](http://arxiv.org/abs/2506.07339)|null|
 |**2025-06-12**|**Robotic Policy Learning via Human-assisted Action Preference Optimization**|Di Hu Team|[2506.07127](http://arxiv.org/abs/2506.07127)|null|
 |**2025-06-07**|**RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation**|Si Liu Team|[2506.06677](http://arxiv.org/abs/2506.06677)|null|
