@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies**|Danfei Xu Team|[2506.11948](http://arxiv.org/abs/2506.11948)|null|
+|**2025-06-13**|**mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity**|Robert K. Katzschmann Team|[2506.11916](http://arxiv.org/abs/2506.11916)|null|
+|**2025-06-13**|**ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations**|Maria Bauza Villalonga Team|[2506.11775](http://arxiv.org/abs/2506.11775)|null|
+|**2025-06-13**|**Control Architecture and Design for a Multi-robotic Visual Servoing System in Automated Manufacturing Environment**|Rongfei Li Team|[2506.11387](http://arxiv.org/abs/2506.11387)|null|
+|**2025-06-12**|**Influence Functions for Data Attribution in Linear System Identification and LQR Control**|Dongmei Chen Team|[2506.11293](http://arxiv.org/abs/2506.11293)|null|
+|**2025-06-12**|**Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation**|Cordelia Schmid Team|[2506.11261](http://arxiv.org/abs/2506.11261)|null|
 |**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Angjoo Kanazawa Team|[2506.10968](http://arxiv.org/abs/2506.10968)|null|
 |**2025-06-12**|**GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**|Jiangmiao Pang Team|[2506.10966](http://arxiv.org/abs/2506.10966)|null|
 |**2025-06-12**|**Human-Robot Navigation using Event-based Cameras and Reinforcement Learning**|Rodrigo Verschae Team|[2506.10790](http://arxiv.org/abs/2506.10790)|null|
@@ -416,6 +422,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Minsu Cho Team|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
+|**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Neel Nanda Team|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
+|**2025-06-13**|**Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation**|Kaifu Zhang Team|[2506.11820](http://arxiv.org/abs/2506.11820)|null|
+|**2025-06-13**|**MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space**|Jan Strich Team|[2506.11684](http://arxiv.org/abs/2506.11684)|null|
+|**2025-06-13**|**VLM@school -- Evaluation of AI image understanding on German middle school knowledge**|Vincent Tischler Team|[2506.11604](http://arxiv.org/abs/2506.11604)|null|
+|**2025-06-13**|**EasyARC: Evaluating Vision Language Models on True Visual Reasoning**|Aylin Akkus Team|[2506.11595](http://arxiv.org/abs/2506.11595)|null|
+|**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Johannes Betz Team|[2506.11526](http://arxiv.org/abs/2506.11526)|null|
+|**2025-06-13**|**Manager: Aggregating Insights from Unimodal Experts in Two-Tower VLMs and MLLMs**|Min-Yen Kan Team|[2506.11515](http://arxiv.org/abs/2506.11515)|null|
+|**2025-06-13**|**Taming Stable Diffusion for Computed Tomography Blind Super-Resolution**|Lichao Mou Team|[2506.11496](http://arxiv.org/abs/2506.11496)|null|
+|**2025-06-13**|**On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving**|Mert D. Pesé Team|[2506.11472](http://arxiv.org/abs/2506.11472)|null|
+|**2025-06-12**|**Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving**|Liam Paull Team|[2506.11234](http://arxiv.org/abs/2506.11234)|null|
 |**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Ngai-Man Cheung Team|[2506.10895](http://arxiv.org/abs/2506.10895)|null|
 |**2025-06-13**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Haoang Li Team|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
 |**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Mir Feroskhan Team|[2506.10756](http://arxiv.org/abs/2506.10756)|null|
@@ -1196,6 +1213,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity**|Robert K. Katzschmann Team|[2506.11916](http://arxiv.org/abs/2506.11916)|null|
 |**2025-06-11**|**Exploring EEG Responses during Observation of Actions Performed by Human Actor and Humanoid Robot**|Michelle J. Johnson Team|[2506.10170](http://arxiv.org/abs/2506.10170)|null|
 |**2025-06-11**|**Locomotion on Constrained Footholds via Layered Architectures and Model Predictive Control**|Aaron D. Ames Team|[2506.09979](http://arxiv.org/abs/2506.09979)|null|
 |**2025-06-11**|**Attention-Based Map Encoding for Learning Generalized Legged Locomotion**|Marco Hutter Team|[2506.09588](http://arxiv.org/abs/2506.09588)|null|
@@ -1288,6 +1306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations**|Maria Bauza Villalonga Team|[2506.11775](http://arxiv.org/abs/2506.11775)|null|
 |**2025-06-11**|**Adaptive event-triggered robust tracking control of soft robots**|Marios M. Polycarpou Team|[2506.09523](http://arxiv.org/abs/2506.09523)|null|
 |**2025-06-11**|**Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation**|Xiang Li Team|[2506.09384](http://arxiv.org/abs/2506.09384)|null|
 |**2025-06-09**|**TensorTouch: Calibration of Tactile Sensors for High Resolution Stress Tensor and Deformation for Dexterous Manipulation**|Monroe Kennedy III Team|[2506.08291](http://arxiv.org/abs/2506.08291)|null|
