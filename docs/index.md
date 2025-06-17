@@ -9,6 +9,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Raunaq Bhirangi Team|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
+|**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Wei-Chiu Ma Team|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
+|**2025-06-16**|**What Matters in Learning from Large-Scale Datasets for Robot Manipulation**|Danfei Xu Team|[2506.13536](http://arxiv.org/abs/2506.13536)|null|
+|**2025-06-16**|**A Survey on Imitation Learning for Contact-Rich Tasks in Robotics**|Arash Ajoudani Team|[2506.13498](http://arxiv.org/abs/2506.13498)|null|
+|**2025-06-16**|**Learning Swing-up Maneuvers for a Suspended Aerial Manipulation Platform in a Hierarchical Control Framework**|Christian Ott Team|[2506.13478](http://arxiv.org/abs/2506.13478)|null|
+|**2025-06-16**|**VLM-SFD: VLM-Assisted Siamese Flow Diffusion Framework for Dual-Arm Cooperative Manipulation**|Wei Pan Team|[2506.13428](http://arxiv.org/abs/2506.13428)|null|
+|**2025-06-15**|**SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration**|Wenwu Zhu Team|[2506.12723](http://arxiv.org/abs/2506.12723)|null|
+|**2025-06-15**|**Adapting by Analogy: OOD Generalization of Visuomotor Policies via Functional Correspondence**|Andrea Bajcsy Team|[2506.12678](http://arxiv.org/abs/2506.12678)|null|
+|**2025-06-15**|**Goal-based Self-Adaptive Generative Adversarial Imitation Learning (Goal-SAGAIL) for Multi-goal Robotic Manipulation Tasks**|George Vogiatzis Team|[2506.12676](http://arxiv.org/abs/2506.12676)|null|
+|**2025-06-14**|**AntiGrounding: Lifting Robotic Actions into VLM Representation Space for Decision Making**|Qingyao Wu Team|[2506.12374](http://arxiv.org/abs/2506.12374)|null|
+|**2025-06-13**|**Role of Uncertainty in Model Development and Control Design for a Manufacturing Process**|Francis Assadian Team|[2506.12273](http://arxiv.org/abs/2506.12273)|null|
 |**2025-06-13**|**SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies**|Danfei Xu Team|[2506.11948](http://arxiv.org/abs/2506.11948)|null|
 |**2025-06-13**|**mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity**|Robert K. Katzschmann Team|[2506.11916](http://arxiv.org/abs/2506.11916)|null|
 |**2025-06-13**|**ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations**|Maria Bauza Villalonga Team|[2506.11775](http://arxiv.org/abs/2506.11775)|null|
@@ -422,6 +433,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Raunaq Bhirangi Team|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
+|**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Wei-Chiu Ma Team|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
+|**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Yonghang Tai Team|[2506.13723](http://arxiv.org/abs/2506.13723)|null|
+|**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Xiaoyan Sun Team|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
+|**2025-06-16**|**DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models**|Hanspeter Pfister Team|[2506.13638](http://arxiv.org/abs/2506.13638)|null|
+|**2025-06-16**|**VLM-SFD: VLM-Assisted Siamese Flow Diffusion Framework for Dual-Arm Cooperative Manipulation**|Wei Pan Team|[2506.13428](http://arxiv.org/abs/2506.13428)|null|
+|**2025-06-16**|**Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation**|Marija Popović Team|[2506.13367](http://arxiv.org/abs/2506.13367)|null|
+|**2025-06-16**|**Anomaly Object Segmentation with Vision-Language Models for Steel Scrap Recycling**|Rei Kawakami Team|[2506.13282](http://arxiv.org/abs/2506.13282)|null|
+|**2025-06-16**|**Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments**|Ee-Chien Chang Team|[2506.13205](http://arxiv.org/abs/2506.13205)|null|
+|**2025-06-16**|**Dynamic Context-oriented Decomposition for Task-aware Low-rank Adaptation with Less Forgetting and Faster Convergence**|Bernard Ghanem Team|[2506.13187](http://arxiv.org/abs/2506.13187)|null|
+|**2025-06-16**|**GreedyPrune: Retenting Critical Visual Token Set for Large Vision Language Models**|Jun Wang Team|[2506.13166](http://arxiv.org/abs/2506.13166)|null|
+|**2025-06-16**|**Rethinking Test-Time Scaling for Medical AI: Model and Task-Aware Strategies for LLMs and VLMs**|Byung-Hoon Kim Team|[2506.13102](http://arxiv.org/abs/2506.13102)|null|
+|**2025-06-16**|**PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue**|Siqi Liu Team|[2506.13063](http://arxiv.org/abs/2506.13063)|null|
+|**2025-06-16**|**HKD4VLM: A Progressive Hybrid Knowledge Distillation Framework for Robust Multimodal Hallucination and Factuality Detection in VLMs**|Xuezhi Cao Team|[2506.13038](http://arxiv.org/abs/2506.13038)|null|
+|**2025-06-15**|**CAPO: Reinforcing Consistent Reasoning in Medical Decision-Making**|Zuozhu Liu Team|[2506.12849](http://arxiv.org/abs/2506.12849)|null|
+|**2025-06-15**|**Enhancing Rating-Based Reinforcement Learning to Effectively Leverage Feedback from Large Vision-Language Models**|Chang D. Yoo Team|[2506.12822](http://arxiv.org/abs/2506.12822)|null|
+|**2025-06-15**|**Native Visual Understanding: Resolving Resolution Dilemmas in Vision-Language Models**|Wentao Zhang Team|[2506.12776](http://arxiv.org/abs/2506.12776)|null|
+|**2025-06-15**|**NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models**|Jitao Sang Team|[2506.12706](http://arxiv.org/abs/2506.12706)|null|
+|**2025-06-15**|**Evaluating Cell Type Inference in Vision Language Models Under Varying Visual Context**|Sandeep Singhal Team|[2506.12683](http://arxiv.org/abs/2506.12683)|null|
+|**2025-06-14**|**Not All Tokens and Heads Are Equally Important: Dual-Level Attention Intervention for Hallucination Mitigation**|Yuexian Zou Team|[2506.12609](http://arxiv.org/abs/2506.12609)|null|
 |**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Minsu Cho Team|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
 |**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Neel Nanda Team|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
 |**2025-06-13**|**Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation**|Kaifu Zhang Team|[2506.11820](http://arxiv.org/abs/2506.11820)|null|
@@ -1108,6 +1139,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Jiaqi Ma Team|[2506.13757](http://arxiv.org/abs/2506.13757)|null|
+|**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Shankar Sastry Team|[2506.13751](http://arxiv.org/abs/2506.13751)|null|
+|**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Haoang Li Team|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
+|**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Xiaoyan Sun Team|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
+|**2025-06-16**|**Block-wise Adaptive Caching for Accelerating Diffusion Policy**|Zhi Wang Team|[2506.13456](http://arxiv.org/abs/2506.13456)|null|
+|**2025-06-16**|**A Comprehensive Survey on Continual Learning in Generative Models**|Cheng-Lin Liu Team|[2506.13045](http://arxiv.org/abs/2506.13045)|null|
+|**2025-06-15**|**SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration**|Wenwu Zhu Team|[2506.12723](http://arxiv.org/abs/2506.12723)|null|
 |**2025-06-13**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Haoang Li Team|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
 |**2025-06-11**|**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models**|Linfeng Zhang Team|[2506.10100](http://arxiv.org/abs/2506.10100)|null|
 |**2025-06-11**|**SAFE: Multitask Failure Detection for Vision-Language-Action Models**|Florian Shkurti Team|[2506.09937](http://arxiv.org/abs/2506.09937)|null|
@@ -1213,6 +1251,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-15**|**KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills**|Xuelong Li Team|[2506.12851](http://arxiv.org/abs/2506.12851)|null|
+|**2025-06-15**|**From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots**|Zongqing Lu Team|[2506.12779](http://arxiv.org/abs/2506.12779)|null|
+|**2025-06-15**|**RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control**|Zongqing Lu Team|[2506.12769](http://arxiv.org/abs/2506.12769)|null|
+|**2025-06-14**|**Explosive Output to Enhance Jumping Ability: A Variable Reduction Ratio Design Paradigm for Humanoid Robots Knee Joint**|Qiang Huang Team|[2506.12314](http://arxiv.org/abs/2506.12314)|null|
 |**2025-06-13**|**mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity**|Robert K. Katzschmann Team|[2506.11916](http://arxiv.org/abs/2506.11916)|null|
 |**2025-06-11**|**Exploring EEG Responses during Observation of Actions Performed by Human Actor and Humanoid Robot**|Michelle J. Johnson Team|[2506.10170](http://arxiv.org/abs/2506.10170)|null|
 |**2025-06-11**|**Locomotion on Constrained Footholds via Layered Architectures and Model Predictive Control**|Aaron D. Ames Team|[2506.09979](http://arxiv.org/abs/2506.09979)|null|
@@ -1306,6 +1348,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Haoang Li Team|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
+|**2025-06-13**|**ViTaSCOPE: Visuo-tactile Implicit Representation for In-hand Pose and Extrinsic Contact Estimation**|Nima Fazeli Team|[2506.12239](http://arxiv.org/abs/2506.12239)|null|
 |**2025-06-13**|**ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations**|Maria Bauza Villalonga Team|[2506.11775](http://arxiv.org/abs/2506.11775)|null|
 |**2025-06-11**|**Adaptive event-triggered robust tracking control of soft robots**|Marios M. Polycarpou Team|[2506.09523](http://arxiv.org/abs/2506.09523)|null|
 |**2025-06-11**|**Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation**|Xiang Li Team|[2506.09384](http://arxiv.org/abs/2506.09384)|null|
