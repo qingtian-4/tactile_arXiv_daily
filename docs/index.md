@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -17,7 +17,7 @@ layout: default
 |**2025-06-17**|**Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation**|Mustafa Mukadam Team|[2506.14754](http://arxiv.org/abs/2506.14754)|null|
 |**2025-06-17**|**SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning**|Shuo Wang Team|[2506.14648](http://arxiv.org/abs/2506.14648)|null|
 |**2025-06-17**|**Latent Action Diffusion for Cross-Embodiment Manipulation**|Robert K. Katzschmann Team|[2506.14608](http://arxiv.org/abs/2506.14608)|null|
-|**2025-06-17**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Hao Dong Team|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
+|**2025-06-19**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Hao Dong Team|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
 |**2025-06-17**|**Steering Robots with Inference-Time Interactions**|Yanwei Wang Team|[2506.14287](http://arxiv.org/abs/2506.14287)|null|
 |**2025-06-17**|**AMPLIFY: Actionless Motion Priors for Robot Learning from Videos**|Animesh Garg Team|[2506.14198](http://arxiv.org/abs/2506.14198)|null|
 |**2025-06-17**|**Non-Overlap-Aware Egocentric Pose Estimation for Collaborative Perception in Connected Autonomy**|Peng Gao Team|[2506.14180](http://arxiv.org/abs/2506.14180)|null|
@@ -453,7 +453,7 @@ layout: default
 |**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Rémi Lebret Team|[2506.15594](http://arxiv.org/abs/2506.15594)|**[link](https://github.com/negar-foroutan/wikimixqa)**|
 |**2025-06-18**|**DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**|Zhuang Li Team|[2506.15583](http://arxiv.org/abs/2506.15583)|**[link](https://github.com/shaoqlin/discosg)**|
 |**2025-06-18**|**Context-Informed Grounding Supervision**|Minjoon Seo Team|[2506.15480](http://arxiv.org/abs/2506.15480)|**[link](https://github.com/kaistai/cings)**|
-|**2025-06-18**|**OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models**|Guotai Wang Team|[2506.15318](http://arxiv.org/abs/2506.15318)|null|
+|**2025-06-19**|**OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models**|Guotai Wang Team|[2506.15318](http://arxiv.org/abs/2506.15318)|null|
 |**2025-06-18**|**MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering**|Adrian K. Davision Team|[2506.15298](http://arxiv.org/abs/2506.15298)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Shin'ichi Satoh Team|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
 |**2025-06-18**|**DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory**|Yue Gao Team|[2506.15096](http://arxiv.org/abs/2506.15096)|null|
@@ -1181,15 +1181,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-17**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Hao Dong Team|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
+|**2025-06-19**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Hao Dong Team|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
 |**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Mac Schwager Team|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Jiaqi Ma Team|[2506.13757](http://arxiv.org/abs/2506.13757)|**[link](https://github.com/ucla-mobility/AutoVLA)**|
-|**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Shankar Sastry Team|[2506.13751](http://arxiv.org/abs/2506.13751)|null|
+|**2025-06-19**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Shankar Sastry Team|[2506.13751](http://arxiv.org/abs/2506.13751)|null|
 |**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Haoang Li Team|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
 |**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Xiaoyan Sun Team|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
 |**2025-06-16**|**Block-wise Adaptive Caching for Accelerating Diffusion Policy**|Zhi Wang Team|[2506.13456](http://arxiv.org/abs/2506.13456)|null|
-|**2025-06-18**|**A Comprehensive Survey on Continual Learning in Generative Models**|Cheng-Lin Liu Team|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
-|**2025-06-15**|**SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration**|Wenwu Zhu Team|[2506.12723](http://arxiv.org/abs/2506.12723)|null|
+|**2025-06-19**|**A Comprehensive Survey on Continual Learning in Generative Models**|Cheng-Lin Liu Team|[2506.13045](http://arxiv.org/abs/2506.13045)|**[link](https://github.com/ghy0501/awesome-continual-learning-in-generative-models)**|
+|**2025-06-19**|**SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration**|Wenwu Zhu Team|[2506.12723](http://arxiv.org/abs/2506.12723)|null|
 |**2025-06-13**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Haoang Li Team|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
 |**2025-06-11**|**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models**|Linfeng Zhang Team|[2506.10100](http://arxiv.org/abs/2506.10100)|null|
 |**2025-06-11**|**SAFE: Multitask Failure Detection for Vision-Language-Action Models**|Florian Shkurti Team|[2506.09937](http://arxiv.org/abs/2506.09937)|null|
@@ -1300,7 +1300,7 @@ layout: default
 |**2025-06-17**|**GMT: General Motion Tracking for Humanoid Whole-Body Control**|Xiaolong Wang Team|[2506.14770](http://arxiv.org/abs/2506.14770)|null|
 |**2025-06-17**|**Whole-Body Control Framework for Humanoid Robots with Heavy Limbs: A Model-Based Approach**|Yun-Hui Liu Team|[2506.14278](http://arxiv.org/abs/2506.14278)|null|
 |**2025-06-15**|**KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills**|Xuelong Li Team|[2506.12851](http://arxiv.org/abs/2506.12851)|null|
-|**2025-06-15**|**From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots**|Zongqing Lu Team|[2506.12779](http://arxiv.org/abs/2506.12779)|null|
+|**2025-06-19**|**From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots**|Zongqing Lu Team|[2506.12779](http://arxiv.org/abs/2506.12779)|null|
 |**2025-06-15**|**RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control**|Zongqing Lu Team|[2506.12769](http://arxiv.org/abs/2506.12769)|null|
 |**2025-06-14**|**Explosive Output to Enhance Jumping Ability: A Variable Reduction Ratio Design Paradigm for Humanoid Robots Knee Joint**|Qiang Huang Team|[2506.12314](http://arxiv.org/abs/2506.12314)|null|
 |**2025-06-13**|**mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity**|Robert K. Katzschmann Team|[2506.11916](http://arxiv.org/abs/2506.11916)|null|
