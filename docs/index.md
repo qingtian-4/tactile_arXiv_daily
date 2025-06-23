@@ -9,6 +9,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Jingjin Yu Team|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
+|**2025-06-20**|**Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration**|Marco Hutter Team|[2506.16986](http://arxiv.org/abs/2506.16986)|null|
+|**2025-06-20**|**Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections**|Shuran Song Team|[2506.16685](http://arxiv.org/abs/2506.16685)|null|
+|**2025-06-19**|**CodeDiffuser: Attention-Enhanced Diffusion Policy via VLM-Generated Code for Instruction Ambiguity**|Yunzhu Li Team|[2506.16652](http://arxiv.org/abs/2506.16652)|null|
+|**2025-06-19**|**Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control**|Ran Tian Team|[2506.16565](http://arxiv.org/abs/2506.16565)|null|
+|**2025-06-19**|**An Optimization-Augmented Control Framework for Single and Coordinated Multi-Arm Robotic Manipulation**|Ozgur S. Oguz Team|[2506.16555](http://arxiv.org/abs/2506.16555)|null|
+|**2025-06-19**|**Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining**|Ding Zhao Team|[2506.16475](http://arxiv.org/abs/2506.16475)|null|
+|**2025-06-19**|**GoalLadder: Incremental Goal Discovery with Vision-Language Models**|Shimon Whiteson Team|[2506.16396](http://arxiv.org/abs/2506.16396)|null|
+|**2025-06-19**|**CapsDT: Diffusion-Transformer for Capsule Robot Manipulation**|Hongliang Ren Team|[2506.16263](http://arxiv.org/abs/2506.16263)|null|
+|**2025-06-19**|**ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models**|Siyuan Huang Team|[2506.16211](http://arxiv.org/abs/2506.16211)|null|
+|**2025-06-19**|**FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation**|Wei Tang Team|[2506.16201](http://arxiv.org/abs/2506.16201)|null|
+|**2025-06-19**|**ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation**|Jitendra Malik Team|[2506.15953](http://arxiv.org/abs/2506.15953)|null|
+|**2025-06-18**|**Learning from Planned Data to Improve Robotic Pick-and-Place Planning Efficiency**|Kensuke Harada Team|[2506.15920](http://arxiv.org/abs/2506.15920)|null|
+|**2025-06-18**|**Improving Robotic Manipulation: Techniques for Object Pose Estimation, Accommodating Positional Uncertainty, and Disassembly Tasks from Examples**|Viral Rasik Galaiya Team|[2506.15865](http://arxiv.org/abs/2506.15865)|null|
 |**2025-06-18**|**Vision in Action: Learning Active Perception from Human Demonstrations**|Shuran Song Team|[2506.15666](http://arxiv.org/abs/2506.15666)|null|
 |**2025-06-18**|**Learning Task-Agnostic Skill Bases to Uncover Motor Primitives in Animal Behaviors**|Anqi Wu Team|[2506.15190](http://arxiv.org/abs/2506.15190)|null|
 |**2025-06-18**|**Robust Instant Policy: Leveraging Student's t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation**|Yukiyasu Domae Team|[2506.15157](http://arxiv.org/abs/2506.15157)|null|
@@ -447,6 +461,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Hengshuang Zhao Team|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
+|**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Chuang Gan Team|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
+|**2025-06-20**|**Do We Need Large VLMs for Spotting Soccer Actions?**|Sandeep Chaurasia Team|[2506.17144](http://arxiv.org/abs/2506.17144)|null|
+|**2025-06-20**|**Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments**|Nathaniel D. Bastian Team|[2506.16994](http://arxiv.org/abs/2506.16994)|null|
+|**2025-06-20**|**FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation**|Jinqiao Wang Team|[2506.16806](http://arxiv.org/abs/2506.16806)|null|
+|**2025-06-20**|**Co-VisiON: Co-Visibility ReasONing on Sparse Image Sets of Indoor Scenes**|Chen Feng Team|[2506.16805](http://arxiv.org/abs/2506.16805)|null|
+|**2025-06-20**|**Cross-Modal Obfuscation for Jailbreak Attacks on Large Vision-Language Models**|Xiaohua Xu Team|[2506.16760](http://arxiv.org/abs/2506.16760)|null|
+|**2025-06-20**|**TeSG: Textual Semantic Guidance for Infrared and Visible Image Fusion**|Xinbo Gao Team|[2506.16730](http://arxiv.org/abs/2506.16730)|null|
+|**2025-06-20**|**V-CASS: Vision-context-aware Expressive Speech Synthesis for Enhancing User Understanding of Videos**|Xiaoyu Qin Team|[2506.16716](http://arxiv.org/abs/2506.16716)|null|
+|**2025-06-20**|**VLM-Empowered Multi-Mode System for Efficient and Safe Planetary Navigation**|Liang Ding Team|[2506.16703](http://arxiv.org/abs/2506.16703)|null|
+|**2025-06-20**|**LaVi: Efficient Large Vision-Language Models via Internal Feature Modulation**|Jing Liu Team|[2506.16691](http://arxiv.org/abs/2506.16691)|null|
+|**2025-06-19**|**CodeDiffuser: Attention-Enhanced Diffusion Policy via VLM-Generated Code for Instruction Ambiguity**|Yunzhu Li Team|[2506.16652](http://arxiv.org/abs/2506.16652)|null|
+|**2025-06-19**|**History-Augmented Vision-Language Models for Frontier-Based Zero-Shot Object Navigation**|Fatemeh Afghah Team|[2506.16623](http://arxiv.org/abs/2506.16623)|null|
+|**2025-06-19**|**GoalLadder: Incremental Goal Discovery with Vision-Language Models**|Shimon Whiteson Team|[2506.16396](http://arxiv.org/abs/2506.16396)|null|
+|**2025-06-19**|**CLIP-MG: Guiding Semantic Attention with Skeletal Pose Features and RGB Data for Micro-Gesture Recognition on the iMiGUE Dataset**|Amith Adiraju Team|[2506.16385](http://arxiv.org/abs/2506.16385)|null|
+|**2025-06-19**|**FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning for Vision-Language Models**|Tat-Seng Chua Team|[2506.16218](http://arxiv.org/abs/2506.16218)|null|
+|**2025-06-19**|**AutoV: Learning to Retrieve Visual Prompt for Large Vision-Language Models**|Shanghang Zhang Team|[2506.16112](http://arxiv.org/abs/2506.16112)|null|
+|**2025-06-19**|**Stepping Out of Similar Semantic Space for Open-Vocabulary Segmentation**|Yansong Tang Team|[2506.16058](http://arxiv.org/abs/2506.16058)|null|
+|**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Zongqing Lu Team|[2506.16012](http://arxiv.org/abs/2506.16012)|null|
+|**2025-06-18**|**VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics**|Michal Štefánik Team|[2506.15903](http://arxiv.org/abs/2506.15903)|null|
 |**2025-06-18**|**GenRecal: Generation after Recalibration from Large to Small Vision-Language Models**|Yueh-Hua Wu Team|[2506.15681](http://arxiv.org/abs/2506.15681)|null|
 |**2025-06-18**|**Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning**|Imran Razzak Team|[2506.15649](http://arxiv.org/abs/2506.15649)|null|
 |**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Zsolt Kira Team|[2506.15635](http://arxiv.org/abs/2506.15635)|null|
@@ -1181,6 +1215,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-19**|**CapsDT: Diffusion-Transformer for Capsule Robot Manipulation**|Hongliang Ren Team|[2506.16263](http://arxiv.org/abs/2506.16263)|null|
+|**2025-06-19**|**ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models**|Siyuan Huang Team|[2506.16211](http://arxiv.org/abs/2506.16211)|null|
 |**2025-06-19**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Hao Dong Team|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
 |**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Mac Schwager Team|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Jiaqi Ma Team|[2506.13757](http://arxiv.org/abs/2506.13757)|**[link](https://github.com/ucla-mobility/AutoVLA)**|
@@ -1295,6 +1331,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Zongqing Lu Team|[2506.16012](http://arxiv.org/abs/2506.16012)|null|
 |**2025-06-18**|**TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality**|Eiichi Yoshida Team|[2506.15146](http://arxiv.org/abs/2506.15146)|null|
 |**2025-06-18**|**Booster Gym: An End-to-End Reinforcement Learning Framework for Humanoid Robot Locomotion**|Mingguo Zhao Team|[2506.15132](http://arxiv.org/abs/2506.15132)|**[link](https://github.com/BoosterRobotics/booster_gym)**|
 |**2025-06-17**|**GMT: General Motion Tracking for Humanoid Whole-Body Control**|Xiaolong Wang Team|[2506.14770](http://arxiv.org/abs/2506.14770)|null|
@@ -1396,6 +1433,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation**|Xiaolong Wang Team|[2506.17198](http://arxiv.org/abs/2506.17198)|null|
+|**2025-06-19**|**ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation**|Jitendra Malik Team|[2506.15953](http://arxiv.org/abs/2506.15953)|null|
 |**2025-06-17**|**Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation**|Mustafa Mukadam Team|[2506.14754](http://arxiv.org/abs/2506.14754)|null|
 |**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Haoang Li Team|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
 |**2025-06-13**|**ViTaSCOPE: Visuo-tactile Implicit Representation for In-hand Pose and Extrinsic Contact Estimation**|Nima Fazeli Team|[2506.12239](http://arxiv.org/abs/2506.12239)|null|
