@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Unified Vision-Language-Action Model**|Zhaoxiang Zhang Team|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
+|**2025-06-24**|**T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models**|Qingyao Wu Team|[2506.19498](http://arxiv.org/abs/2506.19498)|null|
+|**2025-06-24**|**Is an object-centric representation beneficial for robotic manipulation ?**|Liming Chen Team|[2506.19408](http://arxiv.org/abs/2506.19408)|null|
+|**2025-06-24**|**Robotic Perception with a Large Tactile-Vision-Language Model for Physical Property Inference**|Nutan Chen Team|[2506.19303](http://arxiv.org/abs/2506.19303)|null|
+|**2025-06-24**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Hui Shen Team|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
+|**2025-06-24**|**Robust Behavior Cloning Via Global Lipschitz Regularization**|Sean B. Andersson Team|[2506.19250](http://arxiv.org/abs/2506.19250)|null|
+|**2025-06-23**|**CUPID: Curating Data your Robot Loves with Influence Functions**|Jeannette Bohg Team|[2506.19121](http://arxiv.org/abs/2506.19121)|null|
+|**2025-06-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Dongheui Lee Team|[2506.19077](http://arxiv.org/abs/2506.19077)|null|
+|**2025-06-23**|**FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation**|Lilly Chin Team|[2506.18960](http://arxiv.org/abs/2506.18960)|null|
 |**2025-06-23**|**RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base**|Xiangyang Xue Team|[2506.18856](http://arxiv.org/abs/2506.18856)|null|
 |**2025-06-23**|**SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives**|Jia Pan Team|[2506.18825](http://arxiv.org/abs/2506.18825)|null|
 |**2025-06-23**|**Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry**|Jan Steinbrener Team|[2506.18580](http://arxiv.org/abs/2506.18580)|null|
@@ -472,6 +481,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Unified Vision-Language-Action Model**|Zhaoxiang Zhang Team|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
+|**2025-06-24**|**Evaluating Compliance with Visualization Guidelines in Diagrams for Scientific Publications Using Large Vision Language Models**|Christoph M. Friedrich Team|[2506.19825](http://arxiv.org/abs/2506.19825)|null|
+|**2025-06-24**|**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**|Jiangmiao Pang Team|[2506.19816](http://arxiv.org/abs/2506.19816)|null|
+|**2025-06-24**|**UltraAD: Fine-Grained Ultrasound Anomaly Classification via Few-Shot CLIP Adaptation**|Zhongliang Jiang Team|[2506.19694](http://arxiv.org/abs/2506.19694)|null|
+|**2025-06-24**|**PEVLM: Parallel Encoding for Vision-Language Models**|Yong Wu Team|[2506.19651](http://arxiv.org/abs/2506.19651)|null|
+|**2025-06-24**|**V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis**|Zuozhu Liu Team|[2506.19610](http://arxiv.org/abs/2506.19610)|null|
+|**2025-06-24**|**ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP**|Bokui Chen Team|[2506.19608](http://arxiv.org/abs/2506.19608)|null|
+|**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Angelo Cangelosi Team|[2506.19579](http://arxiv.org/abs/2506.19579)|null|
+|**2025-06-24**|**Visual hallucination detection in large vision-language models via evidential conflict**|Liping Jing Team|[2506.19513](http://arxiv.org/abs/2506.19513)|null|
+|**2025-06-24**|**T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models**|Qingyao Wu Team|[2506.19498](http://arxiv.org/abs/2506.19498)|null|
+|**2025-06-24**|**Emergence of Text Readability in Vision Language Models**|Bohyung Han Team|[2506.19389](http://arxiv.org/abs/2506.19389)|null|
+|**2025-06-24**|**Robotic Perception with a Large Tactile-Vision-Language Model for Physical Property Inference**|Nutan Chen Team|[2506.19303](http://arxiv.org/abs/2506.19303)|null|
+|**2025-06-24**|**Open-Vocabulary Camouflaged Object Segmentation with Cascaded Vision Language Models**|Dan Zeng Team|[2506.19300](http://arxiv.org/abs/2506.19300)|null|
+|**2025-06-24**|**Da Yu: Towards USV-Based Image Captioning for Waterway Surveillance and Scene Understanding**|Hui Xiong Team|[2506.19288](http://arxiv.org/abs/2506.19288)|null|
+|**2025-06-24**|**MSR-Align: Policy-Grounded Multimodal Alignment for Safety-Aware Reasoning in Vision-Language Models**|Bo Zheng Team|[2506.19257](http://arxiv.org/abs/2506.19257)|null|
+|**2025-06-24**|**Scaffolding Dexterous Manipulation with Vision-Language Models**|Dorsa Sadigh Team|[2506.19212](http://arxiv.org/abs/2506.19212)|null|
+|**2025-06-23**|**Reading Smiles: Proxy Bias in Foundation Models for Facial Emotion Recognition**|Bjoern W. Schuller Team|[2506.19079](http://arxiv.org/abs/2506.19079)|null|
+|**2025-06-23**|**HAWAII: Hierarchical Visual Knowledge Transfer for Efficient Vision-Language Models**|Krzysztof Czarnecki Team|[2506.19072](http://arxiv.org/abs/2506.19072)|null|
+|**2025-06-23**|**GLIMPSE: Gradient-Layer Importance Mapping for Prompted Visual Saliency Explanation for Generative LVLMs**|Guanxi Shen Team|[2506.18985](http://arxiv.org/abs/2506.18985)|null|
 |**2025-06-23**|**VQ-Insight: Teaching VLMs for AI-Generated Video Quality Understanding via Progressive Visual Reinforcement Learning**|Jian Zhang Team|[2506.18564](http://arxiv.org/abs/2506.18564)|null|
 |**2025-06-23**|**Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey**|Heng Tao Shen Team|[2506.18504](http://arxiv.org/abs/2506.18504)|null|
 |**2025-06-23**|**InternSpatial: A Comprehensive Dataset for Spatial Reasoning in Vision-Language Models**|Wenhai Wang Team|[2506.18385](http://arxiv.org/abs/2506.18385)|null|
@@ -1246,6 +1274,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Unified Vision-Language-Action Model**|Zhaoxiang Zhang Team|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
+|**2025-06-24**|**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**|Jiangmiao Pang Team|[2506.19816](http://arxiv.org/abs/2506.19816)|null|
 |**2025-06-21**|**RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models**|Marco Pavone Team|[2506.17811](http://arxiv.org/abs/2506.17811)|null|
 |**2025-06-21**|**RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models**|Xiao Li Team|[2506.17639](http://arxiv.org/abs/2506.17639)|null|
 |**2025-06-21**|**VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models**|Lin Shao Team|[2506.17561](http://arxiv.org/abs/2506.17561)|null|
@@ -1467,6 +1497,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Scaffolding Dexterous Manipulation with Vision-Language Models**|Dorsa Sadigh Team|[2506.19212](http://arxiv.org/abs/2506.19212)|null|
+|**2025-06-24**|**The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors**|Daniel Seita Team|[2506.19201](http://arxiv.org/abs/2506.19201)|null|
 |**2025-06-21**|**VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models**|Lin Shao Team|[2506.17561](http://arxiv.org/abs/2506.17561)|null|
 |**2025-06-20**|**Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation**|Xiaolong Wang Team|[2506.17198](http://arxiv.org/abs/2506.17198)|null|
 |**2025-06-19**|**ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation**|Jitendra Malik Team|[2506.15953](http://arxiv.org/abs/2506.15953)|null|
