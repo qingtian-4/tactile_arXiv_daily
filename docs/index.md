@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -21,7 +21,7 @@ layout: default
 |**2025-06-21**|**Imitation Learning for Active Neck Motion Enabling Robot Manipulation beyond the Field of View**|Yasuo Kuniyoshi Team|[2506.17624](http://arxiv.org/abs/2506.17624)|null|
 |**2025-06-20**|**Kinematic Model Optimization via Differentiable Contact Manifold for In-Space Manipulation**|Satyandra K. Gupta Team|[2506.17458](http://arxiv.org/abs/2506.17458)|null|
 |**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Jingjin Yu Team|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
-|**2025-06-23**|**Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration**|Marco Hutter Team|[2506.16986](http://arxiv.org/abs/2506.16986)|null|
+|**2025-06-24**|**Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration**|Marco Hutter Team|[2506.16986](http://arxiv.org/abs/2506.16986)|null|
 |**2025-06-20**|**Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections**|Shuran Song Team|[2506.16685](http://arxiv.org/abs/2506.16685)|null|
 |**2025-06-19**|**CodeDiffuser: Attention-Enhanced Diffusion Policy via VLM-Generated Code for Instruction Ambiguity**|Yunzhu Li Team|[2506.16652](http://arxiv.org/abs/2506.16652)|null|
 |**2025-06-19**|**Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control**|Ran Tian Team|[2506.16565](http://arxiv.org/abs/2506.16565)|null|
@@ -477,7 +477,7 @@ layout: default
 |**2025-06-23**|**InternSpatial: A Comprehensive Dataset for Spatial Reasoning in Vision-Language Models**|Wenhai Wang Team|[2506.18385](http://arxiv.org/abs/2506.18385)|null|
 |**2025-06-23**|**Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review**|Jing Qin Team|[2506.18378](http://arxiv.org/abs/2506.18378)|null|
 |**2025-06-23**|**Escaping the SpuriVerse: Can Large Vision-Language Models Generalize Beyond Seen Spurious Correlations?**|Bill Howe Team|[2506.18322](http://arxiv.org/abs/2506.18322)|null|
-|**2025-06-23**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|JinQiao Wang Team|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
+|**2025-06-24**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|JinQiao Wang Team|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
 |**2025-06-23**|**Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**|Xinhai Zhao Team|[2506.18234](http://arxiv.org/abs/2506.18234)|null|
 |**2025-06-22**|**See-in-Pairs: Reference Image-Guided Comparative Vision-Language Models for Medical Diagnosis**|Xiaoxiao Li Team|[2506.18140](http://arxiv.org/abs/2506.18140)|null|
 |**2025-06-22**|**CLGRPO: Reasoning Ability Enhancement for Small VLMs**|Zhiwang Zhang Team|[2506.18048](http://arxiv.org/abs/2506.18048)|null|
@@ -1365,7 +1365,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Zongqing Lu Team|[2506.16012](http://arxiv.org/abs/2506.16012)|null|
+|**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Zongqing Lu Team|[2506.16012](http://arxiv.org/abs/2506.16012)|**[link](https://github.com/ds199895/dualthor)**|
 |**2025-06-18**|**TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality**|Eiichi Yoshida Team|[2506.15146](http://arxiv.org/abs/2506.15146)|null|
 |**2025-06-18**|**Booster Gym: An End-to-End Reinforcement Learning Framework for Humanoid Robot Locomotion**|Mingguo Zhao Team|[2506.15132](http://arxiv.org/abs/2506.15132)|**[link](https://github.com/BoosterRobotics/booster_gym)**|
 |**2025-06-17**|**GMT: General Motion Tracking for Humanoid Whole-Body Control**|Xiaolong Wang Team|[2506.14770](http://arxiv.org/abs/2506.14770)|null|
