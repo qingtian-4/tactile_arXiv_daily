@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Learning-Based Distance Estimation for 360° Single-Sensor Setups**|Andreas Zell Team|[2506.20586](http://arxiv.org/abs/2506.20586)|null|
+|**2025-06-25**|**Learn to Position -- A Novel Meta Method for Robotic Positioning**|Xiaoming Tao Team|[2506.20445](http://arxiv.org/abs/2506.20445)|null|
+|**2025-06-25**|**Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration**|Quanquan Gu Team|[2506.20307](http://arxiv.org/abs/2506.20307)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Zhaoxiang Zhang Team|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models**|Qingyao Wu Team|[2506.19498](http://arxiv.org/abs/2506.19498)|null|
 |**2025-06-24**|**Is an object-centric representation beneficial for robotic manipulation ?**|Liming Chen Team|[2506.19408](http://arxiv.org/abs/2506.19408)|null|
@@ -481,6 +484,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Trung-Nghia Le Team|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
+|**2025-06-25**|**HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction**|Maja Matarić Team|[2506.20566](http://arxiv.org/abs/2506.20566)|null|
+|**2025-06-25**|**Med-Art: Diffusion Transformer for 2D Medical Text-to-Image Generation**|Morten Rieger Hannemose Team|[2506.20449](http://arxiv.org/abs/2506.20449)|null|
+|**2025-06-25**|**CARMA: Context-Aware Situational Grounding of Human-Robot Group Interactions by Combining Vision-Language Models with Object and Action Recognition**|Michael Gienger Team|[2506.20373](http://arxiv.org/abs/2506.20373)|null|
+|**2025-06-25**|**Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards**|Bo Zheng Team|[2506.20332](http://arxiv.org/abs/2506.20332)|null|
+|**2025-06-25**|**MIRAGE: A Benchmark for Multimodal Information-Seeking and Reasoning in Agricultural Expert-Guided Conversations**|Vikram S. Adve Team|[2506.20100](http://arxiv.org/abs/2506.20100)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Zhaoxiang Zhang Team|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**Evaluating Compliance with Visualization Guidelines in Diagrams for Scientific Publications Using Large Vision Language Models**|Christoph M. Friedrich Team|[2506.19825](http://arxiv.org/abs/2506.19825)|null|
 |**2025-06-24**|**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**|Jiangmiao Pang Team|[2506.19816](http://arxiv.org/abs/2506.19816)|null|
@@ -1395,6 +1404,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots**|Wenjun Zeng Team|[2506.20487](http://arxiv.org/abs/2506.20487)|null|
 |**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Zongqing Lu Team|[2506.16012](http://arxiv.org/abs/2506.16012)|**[link](https://github.com/ds199895/dualthor)**|
 |**2025-06-18**|**TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality**|Eiichi Yoshida Team|[2506.15146](http://arxiv.org/abs/2506.15146)|null|
 |**2025-06-18**|**Booster Gym: An End-to-End Reinforcement Learning Framework for Humanoid Robot Locomotion**|Mingguo Zhao Team|[2506.15132](http://arxiv.org/abs/2506.15132)|**[link](https://github.com/BoosterRobotics/booster_gym)**|
@@ -1409,7 +1419,7 @@ layout: default
 |**2025-06-11**|**Locomotion on Constrained Footholds via Layered Architectures and Model Predictive Control**|Aaron D. Ames Team|[2506.09979](http://arxiv.org/abs/2506.09979)|null|
 |**2025-06-11**|**Attention-Based Map Encoding for Learning Generalized Legged Locomotion**|Marco Hutter Team|[2506.09588](http://arxiv.org/abs/2506.09588)|null|
 |**2025-06-11**|**Bipedal Balance Control with Whole-body Musculoskeletal Standing and Falling Simulations**|Yanan Sui Team|[2506.09383](http://arxiv.org/abs/2506.09383)|null|
-|**2025-06-11**|**SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending**|Yue Wang Team|[2506.09366](http://arxiv.org/abs/2506.09366)|null|
+|**2025-06-11**|**SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending**|Yue Wang Team|[2506.09366](http://arxiv.org/abs/2506.09366)|**[link](https://github.com/Humanoid-SkillBlender/SkillBlender)**|
 |**2025-06-10**|**Fast Estimation of Globally Optimal Independent Contact Regions for Robust Grasping and Manipulation**|Nancy S. Pollard Team|[2506.08856](http://arxiv.org/abs/2506.08856)|null|
 |**2025-06-12**|**MoRE: Mixture of Residual Experts for Humanoid Lifelike Gaits Learning on Complex Terrains**|Xuelong Li Team|[2506.08840](http://arxiv.org/abs/2506.08840)|null|
 |**2025-06-10**|**Periodic Bipedal Gait Learning Using Reward Composition Based on a Novel Gait Planner for Humanoid Robots**|Lijun Zhu Team|[2506.08416](http://arxiv.org/abs/2506.08416)|null|
