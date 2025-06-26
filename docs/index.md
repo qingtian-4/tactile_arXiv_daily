@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -13,11 +13,11 @@ layout: default
 |**2025-06-24**|**T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models**|Qingyao Wu Team|[2506.19498](http://arxiv.org/abs/2506.19498)|null|
 |**2025-06-24**|**Is an object-centric representation beneficial for robotic manipulation ?**|Liming Chen Team|[2506.19408](http://arxiv.org/abs/2506.19408)|null|
 |**2025-06-24**|**Robotic Perception with a Large Tactile-Vision-Language Model for Physical Property Inference**|Nutan Chen Team|[2506.19303](http://arxiv.org/abs/2506.19303)|null|
-|**2025-06-24**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Hui Shen Team|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
+|**2025-06-25**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Hui Shen Team|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
 |**2025-06-24**|**Robust Behavior Cloning Via Global Lipschitz Regularization**|Sean B. Andersson Team|[2506.19250](http://arxiv.org/abs/2506.19250)|null|
 |**2025-06-23**|**CUPID: Curating Data your Robot Loves with Influence Functions**|Jeannette Bohg Team|[2506.19121](http://arxiv.org/abs/2506.19121)|null|
 |**2025-06-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Dongheui Lee Team|[2506.19077](http://arxiv.org/abs/2506.19077)|null|
-|**2025-06-23**|**FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation**|Lilly Chin Team|[2506.18960](http://arxiv.org/abs/2506.18960)|null|
+|**2025-06-25**|**FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation**|Lillian Chin Team|[2506.18960](http://arxiv.org/abs/2506.18960)|null|
 |**2025-06-23**|**RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base**|Xiangyang Xue Team|[2506.18856](http://arxiv.org/abs/2506.18856)|null|
 |**2025-06-23**|**SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives**|Jia Pan Team|[2506.18825](http://arxiv.org/abs/2506.18825)|null|
 |**2025-06-23**|**Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry**|Jan Steinbrener Team|[2506.18580](http://arxiv.org/abs/2506.18580)|null|
