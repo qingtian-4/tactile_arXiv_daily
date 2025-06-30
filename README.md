@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Tsu-Chin Tsao Team|[2506.22410](http://arxiv.org/abs/2506.22410)|null|
+|**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Abhinav Valada Team|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
+|**2025-06-26**|**Experimental investigation of pose informed reinforcement learning for skid-steered visual navigation**|Venkat Krovi Team|[2506.21732](http://arxiv.org/abs/2506.21732)|null|
+|**2025-06-24**|**Ark: An Open-source Python-based Framework for Robot Learning**|Haitham Bou-Ammar Team|[2506.21628](http://arxiv.org/abs/2506.21628)|null|
+|**2025-06-24**|**FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models**|Huiping Zhuang Team|[2506.21627](http://arxiv.org/abs/2506.21627)|null|
 |**2025-06-26**|**ACTLLM: Action Consistency Tuned Large Language Model**|Chenliang Xu Team|[2506.21250](http://arxiv.org/abs/2506.21250)|null|
 |**2025-06-26**|**World-aware Planning Narratives Enhance Large Vision-Language Model Planner**|Xipeng QIu Team|[2506.21230](http://arxiv.org/abs/2506.21230)|null|
 |**2025-06-26**|**UAIbot: Beginner-friendly web-based simulator for interactive robotics learning and research**|Vinicius Mariano Gonçalves Team|[2506.21178](http://arxiv.org/abs/2506.21178)|null|
@@ -498,6 +503,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Hengshuang Zhao Team|[2506.22434](http://arxiv.org/abs/2506.22434)|null|
+|**2025-06-27**|**Test-Time Consistency in Vision Language Models**|Leonid Sigal Team|[2506.22395](http://arxiv.org/abs/2506.22395)|null|
+|**2025-06-27**|**Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation**|Xun Xu Team|[2506.22375](http://arxiv.org/abs/2506.22375)|null|
+|**2025-06-27**|**Rethinking Visual Token Reduction in LVLMs under Cross-modal Misalignment**|Bo Du Team|[2506.22283](http://arxiv.org/abs/2506.22283)|null|
+|**2025-06-27**|**COOCO -- Common Objects Out-of-Context -- Semantic Violation in Scenes: Investigating Multimodal Context in Referential Communication**|Albert Gatt Team|[2506.22274](http://arxiv.org/abs/2506.22274)|null|
+|**2025-06-27**|**Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs**|Mahdieh Soleymani Baghshah Team|[2506.22146](http://arxiv.org/abs/2506.22146)|null|
+|**2025-06-27**|**Universal Retrieval for Multimodal Trajectory Modeling**|Dehan Kong Team|[2506.22056](http://arxiv.org/abs/2506.22056)|null|
+|**2025-06-27**|**Partial CLIP is Enough: Chimera-Seg for Zero-shot Semantic Segmentation**|Daisuke Deguchi Team|[2506.22032](http://arxiv.org/abs/2506.22032)|null|
+|**2025-06-27**|**SODA: Out-of-Distribution Detection in Domain-Shifted Point Clouds via Neighborhood Propagation**|Xulei Yang Team|[2506.21892](http://arxiv.org/abs/2506.21892)|null|
+|**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Matthew J. Barth Team|[2506.21885](http://arxiv.org/abs/2506.21885)|null|
+|**2025-06-27**|**Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation**|Zhiting Hu Team|[2506.21876](http://arxiv.org/abs/2506.21876)|null|
+|**2025-06-27**|**On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial Mislabeling**|Ben Y. Zhao Team|[2506.21874](http://arxiv.org/abs/2506.21874)|null|
+|**2025-06-27**|**Remote Sensing Large Vision-Language Model: Semantic-augmented Multi-level Alignment and Semantic-aware Expert Modeling**|Yong Man Ro Team|[2506.21863](http://arxiv.org/abs/2506.21863)|null|
+|**2025-06-27**|**Embodied Domain Adaptation for Object Detection**|Feras Dayoub Team|[2506.21860](http://arxiv.org/abs/2506.21860)|null|
+|**2025-06-27**|**The Cost of Avoiding Backpropagation**|Hui Guan Team|[2506.21833](http://arxiv.org/abs/2506.21833)|null|
+|**2025-06-26**|**ViStruct: Simulating Expert-Like Reasoning Through Task Decomposition and Visual Attention Cues**|Carolina Nobre Team|[2506.21762](http://arxiv.org/abs/2506.21762)|null|
+|**2025-06-26**|**Fine-Grained Preference Optimization Improves Spatial Reasoning in VLMs**|Ismini Lourentzou Team|[2506.21656](http://arxiv.org/abs/2506.21656)|null|
 |**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jian Wu Team|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
 |**2025-06-26**|**Global and Local Entailment Learning for Natural World Imagery**|Nathan Jacobs Team|[2506.21476](http://arxiv.org/abs/2506.21476)|null|
 |**2025-06-26**|**Spatial Mental Modeling from Limited Views**|Li Fei-Fei Team|[2506.21458](http://arxiv.org/abs/2506.21458)|null|
@@ -1316,6 +1338,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration**|Li Zhang Team|[2506.22242](http://arxiv.org/abs/2506.22242)|null|
 |**2025-06-26**|**WorldVLA: Towards Autoregressive Action World Model**|Hao Chen Team|[2506.21539](http://arxiv.org/abs/2506.21539)|null|
 |**2025-06-26**|**Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends**|Zeng-Guang Hou Team|[2506.20966](http://arxiv.org/abs/2506.20966)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Zhaoxiang Zhang Team|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
@@ -1441,6 +1464,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Ark: An Open-source Python-based Framework for Robot Learning**|Haitham Bou-Ammar Team|[2506.21628](http://arxiv.org/abs/2506.21628)|null|
 |**2025-06-25**|**Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots**|Wenjun Zeng Team|[2506.20487](http://arxiv.org/abs/2506.20487)|null|
 |**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Zongqing Lu Team|[2506.16012](http://arxiv.org/abs/2506.16012)|**[link](https://github.com/ds199895/dualthor)**|
 |**2025-06-18**|**TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality**|Eiichi Yoshida Team|[2506.15146](http://arxiv.org/abs/2506.15146)|null|
