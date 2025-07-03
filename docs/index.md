@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -25,7 +25,7 @@ layout: default
 |**2025-06-24**|**Ark: An Open-source Python-based Framework for Robot Learning**|Haitham Bou-Ammar Team|[2506.21628](http://arxiv.org/abs/2506.21628)|null|
 |**2025-06-24**|**FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models**|Huiping Zhuang Team|[2506.21627](http://arxiv.org/abs/2506.21627)|null|
 |**2025-06-26**|**ACTLLM: Action Consistency Tuned Large Language Model**|Chenliang Xu Team|[2506.21250](http://arxiv.org/abs/2506.21250)|null|
-|**2025-06-26**|**World-aware Planning Narratives Enhance Large Vision-Language Model Planner**|Xipeng QIu Team|[2506.21230](http://arxiv.org/abs/2506.21230)|null|
+|**2025-07-02**|**World-aware Planning Narratives Enhance Large Vision-Language Model Planner**|Xipeng Qiu Team|[2506.21230](http://arxiv.org/abs/2506.21230)|null|
 |**2025-06-26**|**UAIbot: Beginner-friendly web-based simulator for interactive robotics learning and research**|Vinicius Mariano Gonçalves Team|[2506.21178](http://arxiv.org/abs/2506.21178)|null|
 |**2025-06-26**|**Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions**|Cewu Lu Team|[2506.21057](http://arxiv.org/abs/2506.21057)|null|
 |**2025-06-26**|**Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends**|Zeng-Guang Hou Team|[2506.20966](http://arxiv.org/abs/2506.20966)|null|
@@ -1482,7 +1482,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-01**|**DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover**|Yuexin Ma Team|[2506.23152](http://arxiv.org/abs/2506.23152)|null|
+|**2025-07-02**|**DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover**|Yuexin Ma Team|[2506.23152](http://arxiv.org/abs/2506.23152)|null|
 |**2025-06-29**|**Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots**|Yue Gao Team|[2506.23125](http://arxiv.org/abs/2506.23125)|null|
 |**2025-06-28**|**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**|Navid Azizan Team|[2506.22827](http://arxiv.org/abs/2506.22827)|null|
 |**2025-06-20**|**Unsupervised Discovery of Behavioral Primitives from Sensorimotor Dynamic Functional Connectivity**|Matej Hoffmann Team|[2506.22473](http://arxiv.org/abs/2506.22473)|null|
