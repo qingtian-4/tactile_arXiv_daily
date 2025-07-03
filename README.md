@@ -16,6 +16,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Wei-Shi Zheng Team|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
+|**2025-07-02**|**S3D: A Spatial Steerable Surgical Drilling Framework for Robotic Spinal Fixation Procedures**|Farshid Alambeigi Team|[2507.01779](http://arxiv.org/abs/2507.01779)|null|
+|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Yanwei Fu Team|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-01**|**Search-Based Robot Motion Planning With Distance-Based Adaptive Motion Primitives**|Bakir Lacevic Team|[2507.01198](http://arxiv.org/abs/2507.01198)|null|
+|**2025-07-01**|**Imitation Learning for Satellite Attitude Control under Unknown Perturbations**|Xiaoli Bai Team|[2507.01161](http://arxiv.org/abs/2507.01161)|null|
+|**2025-07-01**|**SonoGym: High Performance Simulation for Challenging Surgical Tasks with Robotic Ultrasound**|Philipp Fürnstahl Team|[2507.01152](http://arxiv.org/abs/2507.01152)|null|
+|**2025-07-01**|**Geometry-aware 4D Video Generation for Robot Manipulation**|Shuran Song Team|[2507.01099](http://arxiv.org/abs/2507.01099)|null|
+|**2025-07-01**|**DexWrist: A Robotic Wrist for Constrained and Dynamic Manipulation**|Pulkit Agrawal Team|[2507.01008](http://arxiv.org/abs/2507.01008)|null|
+|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Yunzhu Li Team|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
+|**2025-07-01**|**HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning**|Chenjia Bai Team|[2507.00833](http://arxiv.org/abs/2507.00833)|null|
+|**2025-07-01**|**Learning Steerable Imitation Controllers from Unstructured Animal Motions**|Stelian Coros Team|[2507.00677](http://arxiv.org/abs/2507.00677)|null|
+|**2025-07-01**|**RoboEval: Where Robotic Manipulation Meets Structured and Scalable Evaluation**|Siddhartha Srinivasa Team|[2507.00435](http://arxiv.org/abs/2507.00435)|null|
 |**2025-07-01**|**Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning**|Yang Gao Team|[2506.23944](http://arxiv.org/abs/2506.23944)|null|
 |**2025-06-30**|**World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation**|Lin Shao Team|[2506.23919](http://arxiv.org/abs/2506.23919)|null|
 |**2025-06-30**|**Advancing Learnable Multi-Agent Pathfinding Solvers with Active Fine-Tuning**|Alexey Skrynnik Team|[2506.23793](http://arxiv.org/abs/2506.23793)|null|
@@ -513,6 +525,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**How Do Vision-Language Models Process Conflicting Information Across Modalities?**|Ellie Pavlick Team|[2507.01790](http://arxiv.org/abs/2507.01790)|null|
+|**2025-07-02**|**Facial Emotion Learning with Text-Guided Multiview Fusion via Vision-Language Model for 3D/4D Facial Expression Recognition**|Muzammil Behzad Team|[2507.01673](http://arxiv.org/abs/2507.01673)|null|
+|**2025-07-02**|**MARVIS: Modality Adaptive Reasoning over VISualizations**|Chinmay Hegde Team|[2507.01544](http://arxiv.org/abs/2507.01544)|null|
+|**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Martin Schramm Team|[2507.01504](http://arxiv.org/abs/2507.01504)|null|
+|**2025-07-02**|**BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments**|Mingzhai Sun Team|[2507.01485](http://arxiv.org/abs/2507.01485)|null|
+|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Yanwei Fu Team|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-02**|**CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning**|Yoshitaka Ushiku Team|[2507.01409](http://arxiv.org/abs/2507.01409)|null|
+|**2025-07-02**|**Long-Tailed Distribution-Aware Router For Mixture-of-Experts in Large Vision-Language Model**|Xi Li Team|[2507.01351](http://arxiv.org/abs/2507.01351)|null|
+|**2025-07-02**|**AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**|Jiawei Zhang Team|[2507.01255](http://arxiv.org/abs/2507.01255)|null|
+|**2025-07-02**|**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning**|Jie Tang Team|[2507.01006](http://arxiv.org/abs/2507.01006)|null|
+|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Yunzhu Li Team|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
+|**2025-07-01**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Seyedali Mirjalili Team|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
+|**2025-07-01**|**The Age of Sensorial Zero Trust: Why We Can No Longer Trust Our Senses**|Fabio Correa Xavier Team|[2507.00907](http://arxiv.org/abs/2507.00907)|null|
+|**2025-07-01**|**ONLY: One-Layer Intervention Sufficiently Mitigates Hallucinations in Large Vision-Language Models**|Yaqi Xie Team|[2507.00898](http://arxiv.org/abs/2507.00898)|null|
+|**2025-07-01**|**GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond**|Luc Van Gool Team|[2507.00886](http://arxiv.org/abs/2507.00886)|null|
+|**2025-07-01**|**UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement**|Xiangxiang Chu Team|[2507.00721](http://arxiv.org/abs/2507.00721)|null|
+|**2025-07-01**|**Contrasting Cognitive Styles in Vision-Language Models: Holistic Attention in Japanese Versus Analytical Focus in English**|Rajesh Sharma Team|[2507.00700](http://arxiv.org/abs/2507.00700)|null|
+|**2025-07-01**|**Context-Aware Academic Emotion Dataset and Benchmark**|Wenwu Yang Team|[2507.00586](http://arxiv.org/abs/2507.00586)|null|
+|**2025-07-01**|**Not All Attention Heads Are What You Need: Refining CLIP's Image Representation with Attention Ablation**|Rong Xiao Team|[2507.00537](http://arxiv.org/abs/2507.00537)|null|
+|**2025-07-01**|**Box-QAymo: Box-Referring VQA Dataset for Autonomous Driving**|Yadan Luo Team|[2507.00525](http://arxiv.org/abs/2507.00525)|null|
 |**2025-06-30**|**EXPERT: An Explainable Image Captioning Evaluation Metric with Structured Explanations**|Sungzoon Cho Team|[2506.24016](http://arxiv.org/abs/2506.24016)|null|
 |**2025-06-30**|**The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models**|Tieniu Tan Team|[2506.24000](http://arxiv.org/abs/2506.24000)|null|
 |**2025-06-30**|**GroundingDINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision-Language Models**|Hassan Rivaz Team|[2506.23903](http://arxiv.org/abs/2506.23903)|null|
@@ -1368,6 +1400,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yaodong Yang Team|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
+|**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Nadiya Shvai Team|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
+|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Yanwei Fu Team|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-01**|**VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers**|Tong He Team|[2507.01016](http://arxiv.org/abs/2507.01016)|null|
+|**2025-07-01**|**Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding**|Bo Zhao Team|[2507.00416](http://arxiv.org/abs/2507.00416)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Lijun Sun Team|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
 |**2025-06-27**|**4D-VLA: Spatiotemporal Vision-Language-Action Pretraining with Cross-Scene Calibration**|Li Zhang Team|[2506.22242](http://arxiv.org/abs/2506.22242)|null|
 |**2025-06-26**|**WorldVLA: Towards Autoregressive Action World Model**|Hao Chen Team|[2506.21539](http://arxiv.org/abs/2506.21539)|null|
@@ -1495,6 +1532,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-01**|**HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning**|Chenjia Bai Team|[2507.00833](http://arxiv.org/abs/2507.00833)|null|
+|**2025-06-30**|**Mechanical Intelligence-Aware Curriculum Reinforcement Learning for Humanoids with Parallel Actuation**|Dennis Hong Team|[2507.00273](http://arxiv.org/abs/2507.00273)|null|
 |**2025-07-02**|**DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover**|Yuexin Ma Team|[2506.23152](http://arxiv.org/abs/2506.23152)|null|
 |**2025-06-29**|**Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots**|Yue Gao Team|[2506.23125](http://arxiv.org/abs/2506.23125)|null|
 |**2025-06-28**|**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**|Navid Azizan Team|[2506.22827](http://arxiv.org/abs/2506.22827)|null|
@@ -1605,6 +1644,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Wei-Shi Zheng Team|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
+|**2025-07-01**|**HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning**|Chenjia Bai Team|[2507.00833](http://arxiv.org/abs/2507.00833)|null|
 |**2025-06-26**|**Lightweight Fingernail Haptic Device: Unobstructed Fingerpad Force and Vibration Feedback for Enhanced Virtual Dexterous Manipulation**|Shoichi Hasegawa Team|[2506.21417](http://arxiv.org/abs/2506.21417)|null|
 |**2025-06-24**|**Scaffolding Dexterous Manipulation with Vision-Language Models**|Dorsa Sadigh Team|[2506.19212](http://arxiv.org/abs/2506.19212)|null|
 |**2025-06-24**|**The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors**|Daniel Seita Team|[2506.19201](http://arxiv.org/abs/2506.19201)|null|
