@@ -16,6 +16,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Yanzhi Wang Team|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
+|**2025-07-07**|**When Imitation Learning Outperforms Reinforcement Learning in Surgical Action Planning**|Sebastien Ourselin Team|[2507.05011](http://arxiv.org/abs/2507.05011)|null|
+|**2025-07-07**|**Training-free Generation of Temporally Consistent Rewards from VLMs**|Jian Tang Team|[2507.04789](http://arxiv.org/abs/2507.04789)|null|
+|**2025-07-07**|**DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics**|Mingsheng Shang Team|[2507.04661](http://arxiv.org/abs/2507.04661)|null|
+|**2025-07-07**|**PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation**|Chee-Meng Chew Team|[2507.04633](http://arxiv.org/abs/2507.04633)|null|
+|**2025-07-07**|**Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts**|Junjie Hu Team|[2507.04631](http://arxiv.org/abs/2507.04631)|null|
+|**2025-07-06**|**VLM-TDP: VLM-guided Trajectory-conditioned Diffusion Policy for Robust Long-Horizon Manipulation**|Lei Han Team|[2507.04524](http://arxiv.org/abs/2507.04524)|null|
+|**2025-07-06**|**DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge**|Xin Jin Team|[2507.04447](http://arxiv.org/abs/2507.04447)|null|
+|**2025-07-06**|**Wavelet Policy: Lifting Scheme for Policy Learning in Long-Horizon Tasks**|Yi Fang Team|[2507.04331](http://arxiv.org/abs/2507.04331)|null|
+|**2025-07-05**|**Are Learning-Based Approaches Ready for Real-World Indoor Navigation? A Case for Imitation Learning**|Sebastian Houben Team|[2507.04086](http://arxiv.org/abs/2507.04086)|null|
+|**2025-07-05**|**Breaking Imitation Bottlenecks: Reinforced Diffusion Powers Diverse Trajectory Generation**|Yadan Luo Team|[2507.04049](http://arxiv.org/abs/2507.04049)|null|
+|**2025-07-05**|**RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot**|Hao Dong Team|[2507.03930](http://arxiv.org/abs/2507.03930)|null|
+|**2025-07-05**|**DK-RRT: Deep Koopman RRT for Collision-Aware Motion Planning of Space Manipulators in Dynamic Debris Environments**|Dezhi Yu Team|[2507.03878](http://arxiv.org/abs/2507.03878)|null|
+|**2025-07-04**|**Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting**|Zeyu Ren Team|[2507.03227](http://arxiv.org/abs/2507.03227)|null|
 |**2025-07-02**|**cVLA: Towards Efficient Camera-Space VLAs**|Thomas Brox Team|[2507.02190](http://arxiv.org/abs/2507.02190)|null|
 |**2025-07-02**|**Towards Bio-Inspired Robotic Trajectory Planning via Self-Supervised RNN**|Matthias Kerzel Team|[2507.02171](http://arxiv.org/abs/2507.02171)|null|
 |**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Wei-Shi Zheng Team|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
@@ -527,6 +541,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Cheng Lu Team|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
+|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Rao Muhammad Anwer Team|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
+|**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Abdullah-Al-Zubaer Imran Team|[2507.05165](http://arxiv.org/abs/2507.05165)|null|
+|**2025-07-07**|**INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling**|Bo Zheng Team|[2507.05056](http://arxiv.org/abs/2507.05056)|null|
+|**2025-07-07**|**Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision**|Nicolas Padoy Team|[2507.05020](http://arxiv.org/abs/2507.05020)|null|
+|**2025-07-07**|**Training-free Generation of Temporally Consistent Rewards from VLMs**|Jian Tang Team|[2507.04789](http://arxiv.org/abs/2507.04789)|null|
+|**2025-07-07**|**Vision-Language Models Can't See the Obvious**|Sanath Narayan Team|[2507.04741](http://arxiv.org/abs/2507.04741)|null|
+|**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Fabio Poiesi Team|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
+|**2025-07-07**|**A Visual Leap in CLIP Compositionality Reasoning through Generation of Counterfactual Sets**|Jie Zhou Team|[2507.04699](http://arxiv.org/abs/2507.04699)|null|
+|**2025-07-07**|**MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding**|Dinesh Manocha Team|[2507.04686](http://arxiv.org/abs/2507.04686)|null|
+|**2025-07-07**|**Identify, Isolate, and Purge: Mitigating Hallucinations in LVLMs via Self-Evolving Distillation**|Chang Xu Team|[2507.04680](http://arxiv.org/abs/2507.04680)|null|
+|**2025-07-06**|**VLM-TDP: VLM-guided Trajectory-conditioned Diffusion Policy for Robust Long-Horizon Manipulation**|Lei Han Team|[2507.04524](http://arxiv.org/abs/2507.04524)|null|
+|**2025-07-06**|**FA: Forced Prompt Learning of Vision-Language Models for Out-of-Distribution Detection**|Ruixuan Wang Team|[2507.04511](http://arxiv.org/abs/2507.04511)|null|
+|**2025-07-06**|**MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization**|Changhao Chen Team|[2507.04509](http://arxiv.org/abs/2507.04509)|null|
+|**2025-07-06**|**Think Twice Before You Judge: Mixture of Dual Reasoning Experts for Multimodal Sarcasm Detection**|Sanasam Ranbir Singh Team|[2507.04458](http://arxiv.org/abs/2507.04458)|null|
+|**2025-07-06**|**Multi-Modal Semantic Parsing for the Interpretation of Tombstone Inscriptions**|Johan Bos Team|[2507.04377](http://arxiv.org/abs/2507.04377)|null|
+|**2025-07-05**|**LVLM-Composer's Explicit Planning for Image Generation**|Amina Grant Team|[2507.04152](http://arxiv.org/abs/2507.04152)|null|
+|**2025-07-05**|**Unlocking Compositional Control: Self-Supervision for LVLM-Based Image Generation**|Hunter Young Team|[2507.04151](http://arxiv.org/abs/2507.04151)|null|
+|**2025-07-05**|**PresentAgent: Multimodal Agent for Presentation Video Generation**|Yang Zhao Team|[2507.04036](http://arxiv.org/abs/2507.04036)|null|
+|**2025-07-05**|**A Comparative Study of Specialized LLMs as Dense Retrievers**|Jiafeng Guo Team|[2507.03958](http://arxiv.org/abs/2507.03958)|null|
 |**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Cewu Lu Team|[2507.02600](http://arxiv.org/abs/2507.02600)|null|
 |**2025-07-02**|**cVLA: Towards Efficient Camera-Space VLAs**|Thomas Brox Team|[2507.02190](http://arxiv.org/abs/2507.02190)|null|
 |**2025-07-02**|**Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges**|Anuj Sharma Team|[2507.02074](http://arxiv.org/abs/2507.02074)|null|
@@ -1406,6 +1440,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Cheng Lu Team|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
+|**2025-07-07**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Yanzhi Wang Team|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
+|**2025-07-06**|**DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge**|Xin Jin Team|[2507.04447](http://arxiv.org/abs/2507.04447)|null|
+|**2025-07-06**|**Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties**|Yunxin Liu Team|[2507.04227](http://arxiv.org/abs/2507.04227)|null|
 |**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|He Wang Team|[2507.02747](http://arxiv.org/abs/2507.02747)|null|
 |**2025-07-02**|**cVLA: Towards Efficient Camera-Space VLAs**|Thomas Brox Team|[2507.02190](http://arxiv.org/abs/2507.02190)|null|
 |**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yaodong Yang Team|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
@@ -1419,7 +1457,7 @@
 |**2025-06-26**|**Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends**|Zeng-Guang Hou Team|[2506.20966](http://arxiv.org/abs/2506.20966)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Zhaoxiang Zhang Team|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**|Jiangmiao Pang Team|[2506.19816](http://arxiv.org/abs/2506.19816)|null|
-|**2025-06-21**|**RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models**|Marco Pavone Team|[2506.17811](http://arxiv.org/abs/2506.17811)|null|
+|**2025-07-07**|**RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models**|Marco Pavone Team|[2506.17811](http://arxiv.org/abs/2506.17811)|null|
 |**2025-06-21**|**RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models**|Xiao Li Team|[2506.17639](http://arxiv.org/abs/2506.17639)|null|
 |**2025-06-21**|**VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models**|Lin Shao Team|[2506.17561](http://arxiv.org/abs/2506.17561)|null|
 |**2025-06-19**|**CapsDT: Diffusion-Transformer for Capsule Robot Manipulation**|Hongliang Ren Team|[2506.16263](http://arxiv.org/abs/2506.16263)|null|
@@ -1540,6 +1578,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-05**|**Learning Humanoid Arm Motion via Centroidal Momentum Regularized Multi-Agent Reinforcement Learning**|Sangbae Kim Team|[2507.04140](http://arxiv.org/abs/2507.04140)|null|
 |**2025-07-01**|**HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning**|Chenjia Bai Team|[2507.00833](http://arxiv.org/abs/2507.00833)|null|
 |**2025-06-30**|**Mechanical Intelligence-Aware Curriculum Reinforcement Learning for Humanoids with Parallel Actuation**|Dennis Hong Team|[2507.00273](http://arxiv.org/abs/2507.00273)|null|
 |**2025-07-02**|**DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover**|Yuexin Ma Team|[2506.23152](http://arxiv.org/abs/2506.23152)|null|
@@ -1652,6 +1691,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**SimLauncher: Launching Sample-Efficient Real-world Robotic Reinforcement Learning via Simulation Pre-training**|Hao Dong Team|[2507.04452](http://arxiv.org/abs/2507.04452)|null|
 |**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|He Wang Team|[2507.02747](http://arxiv.org/abs/2507.02747)|null|
 |**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Wei-Shi Zheng Team|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
 |**2025-07-01**|**HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning**|Chenjia Bai Team|[2507.00833](http://arxiv.org/abs/2507.00833)|null|
