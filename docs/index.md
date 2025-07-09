@@ -9,6 +9,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Liang Wang Team|[2507.06224](http://arxiv.org/abs/2507.06224)|null|
+|**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Hongyang Li Team|[2507.06219](http://arxiv.org/abs/2507.06219)|null|
+|**2025-07-08**|**Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model**|Toshiaki Tsuji Team|[2507.06174](http://arxiv.org/abs/2507.06174)|null|
+|**2025-07-08**|**Learning Agile Tensile Perching for Aerial Robots from Demonstrations**|Basaran Bahadir Kocer Team|[2507.06172](http://arxiv.org/abs/2507.06172)|null|
+|**2025-07-08**|**SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles**|Jeffrey Ian Lipton Team|[2507.06053](http://arxiv.org/abs/2507.06053)|null|
+|**2025-07-08**|**LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving**|Jian Sun Team|[2507.05754](http://arxiv.org/abs/2507.05754)|null|
+|**2025-07-08**|**Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning**|Daniel Rakita Team|[2507.05695](http://arxiv.org/abs/2507.05695)|null|
+|**2025-07-08**|**Integrating Diffusion-based Multi-task Learning with Online Reinforcement Learning for Robust Quadruped Robot Control**|Bin Liang Team|[2507.05674](http://arxiv.org/abs/2507.05674)|null|
+|**2025-07-08**|**Stable Tracking-in-the-Loop Control of Cable-Driven Surgical Manipulators under Erroneous Kinematic Chains**|Michael C. Yip Team|[2507.05663](http://arxiv.org/abs/2507.05663)|null|
+|**2025-07-08**|**DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation**|Frank Chongwoo Park Team|[2507.05627](http://arxiv.org/abs/2507.05627)|null|
+|**2025-07-07**|**Gaussian Process-Based Active Exploration Strategies in Vision and Touch**|Nadia Figueroa Team|[2507.05522](http://arxiv.org/abs/2507.05522)|null|
+|**2025-07-07**|**A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation**|Russ Tedrake Team|[2507.05331](http://arxiv.org/abs/2507.05331)|null|
 |**2025-07-07**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Yanzhi Wang Team|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
 |**2025-07-07**|**When Imitation Learning Outperforms Reinforcement Learning in Surgical Action Planning**|Sebastien Ourselin Team|[2507.05011](http://arxiv.org/abs/2507.05011)|null|
 |**2025-07-07**|**Training-free Generation of Temporally Consistent Rewards from VLMs**|Jian Tang Team|[2507.04789](http://arxiv.org/abs/2507.04789)|null|
@@ -532,6 +544,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yi R. Fung Team|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
+|**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Naga Harshita Marupaka Team|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
+|**2025-07-08**|**Skywork-R1V3 Technical Report**|Yahui Zhou Team|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Hongming Shan Team|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
+|**2025-07-08**|**GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing**|Hao Liu Team|[2507.05887](http://arxiv.org/abs/2507.05887)|null|
+|**2025-07-08**|**Bridging Perception and Language: A Systematic Benchmark for LVLMs' Understanding of Amodal Completion Reports**|Hitomi Yanaka Team|[2507.05799](http://arxiv.org/abs/2507.05799)|null|
+|**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Tao He Team|[2507.05798](http://arxiv.org/abs/2507.05798)|null|
+|**2025-07-08**|**A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation**|Yue Gao Team|[2507.05731](http://arxiv.org/abs/2507.05731)|null|
+|**2025-07-08**|**Integrated Structural Prompt Learning for Vision-Language Models**|Bin Luo Team|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
+|**2025-07-08**|**R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding**|Shabnam Ghadar Team|[2507.05673](http://arxiv.org/abs/2507.05673)|null|
+|**2025-07-08**|**Dynamic Rank Adaptation for Vision-Language Models**|Bin Luo Team|[2507.05668](http://arxiv.org/abs/2507.05668)|null|
+|**2025-07-08**|**Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube**|Shenghai Yuan Team|[2507.05607](http://arxiv.org/abs/2507.05607)|null|
+|**2025-07-08**|**Rethinking Layered Graphic Design Generation with a Top-Down Approach**|Qifeng Chen Team|[2507.05601](http://arxiv.org/abs/2507.05601)|null|
+|**2025-07-08**|**PaddleOCR 3.0 Technical Report**|Yanjun Ma Team|[2507.05595](http://arxiv.org/abs/2507.05595)|null|
+|**2025-07-07**|**Fine-Grained Vision-Language Modeling for Multimodal Training Assistants in Augmented Reality**|Junxiao Wang Team|[2507.05515](http://arxiv.org/abs/2507.05515)|null|
+|**2025-07-07**|**Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model**|Even Oldridge Team|[2507.05513](http://arxiv.org/abs/2507.05513)|null|
+|**2025-07-07**|**OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts**|Priyadarshini Panda Team|[2507.05427](http://arxiv.org/abs/2507.05427)|null|
+|**2025-07-07**|**pFedMMA: Personalized Federated Fine-Tuning with Multi-Modal Adapter for Vision-Language Models**|Ramtin Pedarsani Team|[2507.05394](http://arxiv.org/abs/2507.05394)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Cheng Lu Team|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
 |**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Rao Muhammad Anwer Team|[2507.05211](http://arxiv.org/abs/2507.05211)|null|
 |**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Abdullah-Al-Zubaer Imran Team|[2507.05165](http://arxiv.org/abs/2507.05165)|null|
@@ -1676,6 +1706,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation**|Russ Tedrake Team|[2507.05331](http://arxiv.org/abs/2507.05331)|null|
 |**2025-07-06**|**SimLauncher: Launching Sample-Efficient Real-world Robotic Reinforcement Learning via Simulation Pre-training**|Hao Dong Team|[2507.04452](http://arxiv.org/abs/2507.04452)|null|
 |**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|He Wang Team|[2507.02747](http://arxiv.org/abs/2507.02747)|null|
 |**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Wei-Shi Zheng Team|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
