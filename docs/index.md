@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -20,7 +20,7 @@ layout: default
 |**2025-07-06**|**Wavelet Policy: Lifting Scheme for Policy Learning in Long-Horizon Tasks**|Yi Fang Team|[2507.04331](http://arxiv.org/abs/2507.04331)|null|
 |**2025-07-05**|**Are Learning-Based Approaches Ready for Real-World Indoor Navigation? A Case for Imitation Learning**|Sebastian Houben Team|[2507.04086](http://arxiv.org/abs/2507.04086)|null|
 |**2025-07-05**|**Breaking Imitation Bottlenecks: Reinforced Diffusion Powers Diverse Trajectory Generation**|Yadan Luo Team|[2507.04049](http://arxiv.org/abs/2507.04049)|null|
-|**2025-07-05**|**RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot**|Hao Dong Team|[2507.03930](http://arxiv.org/abs/2507.03930)|null|
+|**2025-07-08**|**RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot**|Hao Dong Team|[2507.03930](http://arxiv.org/abs/2507.03930)|null|
 |**2025-07-05**|**DK-RRT: Deep Koopman RRT for Collision-Aware Motion Planning of Space Manipulators in Dynamic Debris Environments**|Dezhi Yu Team|[2507.03878](http://arxiv.org/abs/2507.03878)|null|
 |**2025-07-04**|**Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting**|Zeyu Ren Team|[2507.03227](http://arxiv.org/abs/2507.03227)|null|
 |**2025-07-02**|**cVLA: Towards Efficient Camera-Space VLAs**|Thomas Brox Team|[2507.02190](http://arxiv.org/abs/2507.02190)|null|
@@ -544,7 +544,7 @@ layout: default
 |**2025-07-07**|**MOSU: Autonomous Long-range Robot Navigation with Multi-modal Scene Understanding**|Dinesh Manocha Team|[2507.04686](http://arxiv.org/abs/2507.04686)|null|
 |**2025-07-07**|**Identify, Isolate, and Purge: Mitigating Hallucinations in LVLMs via Self-Evolving Distillation**|Chang Xu Team|[2507.04680](http://arxiv.org/abs/2507.04680)|null|
 |**2025-07-06**|**VLM-TDP: VLM-guided Trajectory-conditioned Diffusion Policy for Robust Long-Horizon Manipulation**|Lei Han Team|[2507.04524](http://arxiv.org/abs/2507.04524)|null|
-|**2025-07-06**|**FA: Forced Prompt Learning of Vision-Language Models for Out-of-Distribution Detection**|Ruixuan Wang Team|[2507.04511](http://arxiv.org/abs/2507.04511)|null|
+|**2025-07-08**|**FA: Forced Prompt Learning of Vision-Language Models for Out-of-Distribution Detection**|Ruixuan Wang Team|[2507.04511](http://arxiv.org/abs/2507.04511)|null|
 |**2025-07-06**|**MVL-Loc: Leveraging Vision-Language Model for Generalizable Multi-Scene Camera Relocalization**|Changhao Chen Team|[2507.04509](http://arxiv.org/abs/2507.04509)|null|
 |**2025-07-06**|**Think Twice Before You Judge: Mixture of Dual Reasoning Experts for Multimodal Sarcasm Detection**|Sanasam Ranbir Singh Team|[2507.04458](http://arxiv.org/abs/2507.04458)|null|
 |**2025-07-06**|**Multi-Modal Semantic Parsing for the Interpretation of Tombstone Inscriptions**|Johan Bos Team|[2507.04377](http://arxiv.org/abs/2507.04377)|null|
@@ -1570,7 +1570,7 @@ layout: default
 |**2025-06-30**|**Mechanical Intelligence-Aware Curriculum Reinforcement Learning for Humanoids with Parallel Actuation**|Dennis Hong Team|[2507.00273](http://arxiv.org/abs/2507.00273)|null|
 |**2025-07-02**|**DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover**|Yuexin Ma Team|[2506.23152](http://arxiv.org/abs/2506.23152)|null|
 |**2025-06-29**|**Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots**|Yue Gao Team|[2506.23125](http://arxiv.org/abs/2506.23125)|null|
-|**2025-06-28**|**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**|Navid Azizan Team|[2506.22827](http://arxiv.org/abs/2506.22827)|null|
+|**2025-07-08**|**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**|Navid Azizan Team|[2506.22827](http://arxiv.org/abs/2506.22827)|null|
 |**2025-06-20**|**Unsupervised Discovery of Behavioral Primitives from Sensorimotor Dynamic Functional Connectivity**|Matej Hoffmann Team|[2506.22473](http://arxiv.org/abs/2506.22473)|null|
 |**2025-06-24**|**Ark: An Open-source Python-based Framework for Robot Learning**|Haitham Bou-Ammar Team|[2506.21628](http://arxiv.org/abs/2506.21628)|null|
 |**2025-06-25**|**Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots**|Wenjun Zeng Team|[2506.20487](http://arxiv.org/abs/2506.20487)|null|
