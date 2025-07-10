@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -546,13 +546,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yi R. Fung Team|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Naga Harshita Marupaka Team|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
-|**2025-07-08**|**Skywork-R1V3 Technical Report**|Yahui Zhou Team|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-09**|**Skywork-R1V3 Technical Report**|Yahui Zhou Team|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Hongming Shan Team|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
 |**2025-07-08**|**GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing**|Hao Liu Team|[2507.05887](http://arxiv.org/abs/2507.05887)|null|
 |**2025-07-08**|**Bridging Perception and Language: A Systematic Benchmark for LVLMs' Understanding of Amodal Completion Reports**|Hitomi Yanaka Team|[2507.05799](http://arxiv.org/abs/2507.05799)|null|
 |**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Tao He Team|[2507.05798](http://arxiv.org/abs/2507.05798)|null|
 |**2025-07-08**|**A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation**|Yue Gao Team|[2507.05731](http://arxiv.org/abs/2507.05731)|null|
-|**2025-07-08**|**Integrated Structural Prompt Learning for Vision-Language Models**|Bin Luo Team|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
+|**2025-07-09**|**Integrated Structural Prompt Learning for Vision-Language Models**|Bin Luo Team|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
 |**2025-07-08**|**R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding**|Shabnam Ghadar Team|[2507.05673](http://arxiv.org/abs/2507.05673)|null|
 |**2025-07-08**|**Dynamic Rank Adaptation for Vision-Language Models**|Bin Luo Team|[2507.05668](http://arxiv.org/abs/2507.05668)|null|
 |**2025-07-08**|**Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube**|Shenghai Yuan Team|[2507.05607](http://arxiv.org/abs/2507.05607)|null|

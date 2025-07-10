@@ -1,4 +1,4 @@
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -547,7 +547,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 ## VLM
 
@@ -555,13 +555,13 @@
 |---|---|---|---|---|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yi R. Fung Team|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Naga Harshita Marupaka Team|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
-|**2025-07-08**|**Skywork-R1V3 Technical Report**|Yahui Zhou Team|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-09**|**Skywork-R1V3 Technical Report**|Yahui Zhou Team|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Hongming Shan Team|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
 |**2025-07-08**|**GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing**|Hao Liu Team|[2507.05887](http://arxiv.org/abs/2507.05887)|null|
 |**2025-07-08**|**Bridging Perception and Language: A Systematic Benchmark for LVLMs' Understanding of Amodal Completion Reports**|Hitomi Yanaka Team|[2507.05799](http://arxiv.org/abs/2507.05799)|null|
 |**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Tao He Team|[2507.05798](http://arxiv.org/abs/2507.05798)|null|
 |**2025-07-08**|**A Satellite-Ground Synergistic Large Vision-Language Model System for Earth Observation**|Yue Gao Team|[2507.05731](http://arxiv.org/abs/2507.05731)|null|
-|**2025-07-08**|**Integrated Structural Prompt Learning for Vision-Language Models**|Bin Luo Team|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
+|**2025-07-09**|**Integrated Structural Prompt Learning for Vision-Language Models**|Bin Luo Team|[2507.05677](http://arxiv.org/abs/2507.05677)|null|
 |**2025-07-08**|**R-VLM: Region-Aware Vision Language Model for Precise GUI Grounding**|Shabnam Ghadar Team|[2507.05673](http://arxiv.org/abs/2507.05673)|null|
 |**2025-07-08**|**Dynamic Rank Adaptation for Vision-Language Models**|Bin Luo Team|[2507.05668](http://arxiv.org/abs/2507.05668)|null|
 |**2025-07-08**|**Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube**|Shenghai Yuan Team|[2507.05607](http://arxiv.org/abs/2507.05607)|null|
@@ -1464,7 +1464,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 ## VLA
 
@@ -1602,7 +1602,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 ## Humanoid
 
@@ -1715,7 +1715,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 ## Dexterous
 
@@ -1811,5 +1811,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
