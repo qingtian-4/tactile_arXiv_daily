@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Chelsea Finn Team|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
+|**2025-07-10**|**Reinforcement Learning with Action Chunking**|Sergey Levine Team|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
+|**2025-07-09**|**Self-Wearing Adaptive Garments via Soft Robotic Unfurling**|Allison M. Okamura Team|[2507.07221](http://arxiv.org/abs/2507.07221)|null|
 |**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Xinjun Sheng Team|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
 |**2025-07-09**|**Learning safe, constrained policies via imitation learning: Connection to Probabilistic Inference and a Naive Algorithm**|George A. Vouros Team|[2507.06780](http://arxiv.org/abs/2507.06780)|null|
 |**2025-07-09**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Yanwei Fu Team|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
@@ -561,6 +564,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**CLIP Won't Learn Object-Attribute Binding from Natural Data and Here is Why**|Thomas Brox Team|[2507.07985](http://arxiv.org/abs/2507.07985)|null|
+|**2025-07-10**|**Scaling RL to Long Videos**|Song Han Team|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
+|**2025-07-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Lei Fan Team|[2507.07939](http://arxiv.org/abs/2507.07939)|null|
+|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Chao Zhang Team|[2507.07818](http://arxiv.org/abs/2507.07818)|null|
+|**2025-07-10**|**Energy-Guided Decoding for Object Hallucination Mitigation**|Christopher Zach Team|[2507.07731](http://arxiv.org/abs/2507.07731)|null|
+|**2025-07-10**|**One Object, Multiple Lies: A Benchmark for Cross-task Adversarial Attack on Unified Vision-Language Models**|Cairong Zhao Team|[2507.07709](http://arxiv.org/abs/2507.07709)|null|
+|**2025-07-10**|**Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought**|Daiki Chijiwa Team|[2507.07685](http://arxiv.org/abs/2507.07685)|null|
+|**2025-07-10**|**ViLU: Learning Vision-Language Uncertainties for Failure Prediction**|Nicolas Thome Team|[2507.07620](http://arxiv.org/abs/2507.07620)|null|
+|**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Renaud Marlet Team|[2507.07605](http://arxiv.org/abs/2507.07605)|null|
+|**2025-07-10**|**The Synergy Dilemma of Long-CoT SFT and RL: Investigating Post-Training Techniques for Reasoning VLMs**|Qun Liu Team|[2507.07562](http://arxiv.org/abs/2507.07562)|null|
+|**2025-07-10**|**ArchiveGPT: A human-centered evaluation of using a vision language model for image cataloguing**|Markus Huff Team|[2507.07551](http://arxiv.org/abs/2507.07551)|null|
+|**2025-07-09**|**Entity Re-identification in Visual Storytelling via Contrastive Reinforcement Learning**|David Martins de Matos Team|[2507.07340](http://arxiv.org/abs/2507.07340)|null|
+|**2025-07-09**|**ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation**|Suren Kumar Team|[2507.07317](http://arxiv.org/abs/2507.07317)|null|
+|**2025-07-09**|**LangNavBench: Evaluation of Natural Language Understanding in Semantic Navigation**|Angel X. Chang Team|[2507.07299](http://arxiv.org/abs/2507.07299)|null|
+|**2025-07-09**|**MagiC: Evaluating Multimodal Cognition Toward Grounded Visual Reasoning**|Dan Goldwasser Team|[2507.07297](http://arxiv.org/abs/2507.07297)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Zhengzhong Tu Team|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Junfei Xiao Team|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Davide Talon Team|[2507.07079](http://arxiv.org/abs/2507.07079)|null|
@@ -1630,6 +1648,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots**|Weinan Zhang Team|[2507.07356](http://arxiv.org/abs/2507.07356)|null|
 |**2025-07-09**|**ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation**|Zongwu Xie Team|[2507.06905](http://arxiv.org/abs/2507.06905)|null|
 |**2025-07-08**|**Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction**|Alessio Del Bue Team|[2507.06404](http://arxiv.org/abs/2507.06404)|null|
 |**2025-07-05**|**Learning Humanoid Arm Motion via Centroidal Momentum Regularized Multi-Agent Reinforcement Learning**|Sangbae Kim Team|[2507.04140](http://arxiv.org/abs/2507.04140)|null|
