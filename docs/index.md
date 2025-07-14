@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Changjae Oh Team|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
+|**2025-07-11**|**Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots**|Yue Gao Team|[2507.08303](http://arxiv.org/abs/2507.08303)|null|
+|**2025-07-11**|**CL3R: 3D Reconstruction and Contrastive Learning for Enhanced Robotic Manipulation Representations**|He Wang Team|[2507.08262](http://arxiv.org/abs/2507.08262)|null|
+|**2025-07-10**|**Imitation Learning for Obstacle Avoidance Using End-to-End CNN-Based Sensor Fusion**|Raafat E. Shalaby Team|[2507.08112](http://arxiv.org/abs/2507.08112)|null|
 |**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Chelsea Finn Team|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
 |**2025-07-10**|**Reinforcement Learning with Action Chunking**|Sergey Levine Team|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
 |**2025-07-09**|**Self-Wearing Adaptive Garments via Soft Robotic Unfurling**|Allison M. Okamura Team|[2507.07221](http://arxiv.org/abs/2507.07221)|null|
@@ -555,6 +559,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Subarna Tripathi Team|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
+|**2025-07-11**|**Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**|András Lőrincz Team|[2507.08624](http://arxiv.org/abs/2507.08624)|null|
+|**2025-07-11**|**Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data**|Ambedkar Dukkipati Team|[2507.08610](http://arxiv.org/abs/2507.08610)|null|
+|**2025-07-11**|**BayesTTA: Continual-Temporal Test-Time Adaptation for Vision-Language Models via Gaussian Discriminant Analysis**|Hui Xiong Team|[2507.08607](http://arxiv.org/abs/2507.08607)|null|
+|**2025-07-11**|**Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R**|Sanidhya Kashyap Team|[2507.08505](http://arxiv.org/abs/2507.08505)|null|
+|**2025-07-11**|**LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning**|Lei Fan Team|[2507.08496](http://arxiv.org/abs/2507.08496)|null|
+|**2025-07-11**|**Multi-modal Mutual-Guidance Conditional Prompt Learning for Vision-Language Models**|Jianping Fan Team|[2507.08410](http://arxiv.org/abs/2507.08410)|null|
+|**2025-07-11**|**Making VLMs More Robot-Friendly: Self-Critical Distillation of Low-Level Procedural Reasoning**|Yejin Choi Team|[2507.08224](http://arxiv.org/abs/2507.08224)|null|
 |**2025-07-10**|**CLIP Won't Learn Object-Attribute Binding from Natural Data and Here is Why**|Thomas Brox Team|[2507.07985](http://arxiv.org/abs/2507.07985)|null|
 |**2025-07-10**|**Scaling RL to Long Videos**|Song Han Team|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
 |**2025-07-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Lei Fan Team|[2507.07939](http://arxiv.org/abs/2507.07939)|null|
@@ -1635,6 +1647,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots**|Yue Gao Team|[2507.08303](http://arxiv.org/abs/2507.08303)|null|
 |**2025-07-10**|**UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots**|Weinan Zhang Team|[2507.07356](http://arxiv.org/abs/2507.07356)|null|
 |**2025-07-09**|**ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation**|Zongwu Xie Team|[2507.06905](http://arxiv.org/abs/2507.06905)|null|
 |**2025-07-08**|**Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction**|Alessio Del Bue Team|[2507.06404](http://arxiv.org/abs/2507.06404)|null|
