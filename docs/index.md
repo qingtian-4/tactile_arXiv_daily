@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -18,7 +18,7 @@ layout: default
 |**2025-07-09**|**Self-Wearing Adaptive Garments via Soft Robotic Unfurling**|Allison M. Okamura Team|[2507.07221](http://arxiv.org/abs/2507.07221)|null|
 |**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Xinjun Sheng Team|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
 |**2025-07-09**|**Learning safe, constrained policies via imitation learning: Connection to Probabilistic Inference and a Naive Algorithm**|George A. Vouros Team|[2507.06780](http://arxiv.org/abs/2507.06780)|null|
-|**2025-07-09**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Yanwei Fu Team|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
+|**2025-07-13**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Yanwei Fu Team|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
 |**2025-07-09**|**Value from Observations: Towards Large-Scale Imitation Learning via Self-Improvement**|Martin Riedmiller Team|[2507.06701](http://arxiv.org/abs/2507.06701)|null|
 |**2025-07-09**|**Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning**|Jian Cheng Team|[2507.06628](http://arxiv.org/abs/2507.06628)|null|
 |**2025-07-09**|**Q-STAC: Q-Guided Stein Variational Model Predictive Actor-Critic**|Fabio Ramos Team|[2507.06625](http://arxiv.org/abs/2507.06625)|null|
