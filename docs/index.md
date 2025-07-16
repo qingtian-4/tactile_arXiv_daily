@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -17,7 +17,7 @@ layout: default
 |**2025-07-13**|**Self-supervised Pretraining for Integrated Prediction and Planning of Automated Vehicles**|Keqiang Li Team|[2507.09537](http://arxiv.org/abs/2507.09537)|null|
 |**2025-07-13**|**SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation**|Boyu Wang Team|[2507.09459](http://arxiv.org/abs/2507.09459)|null|
 |**2025-07-12**|**DAA*: Deep Angular A Star for Image-based Path Planning**|Zhiwei Xu Team|[2507.09305](http://arxiv.org/abs/2507.09305)|null|
-|**2025-07-12**|**Learning and Transferring Better with Depth Information in Visual Reinforcement Learning**|Jingdong Zhao Team|[2507.09180](http://arxiv.org/abs/2507.09180)|null|
+|**2025-07-15**|**Learning and Transferring Better with Depth Information in Visual Reinforcement Learning**|Jingdong Zhao Team|[2507.09180](http://arxiv.org/abs/2507.09180)|null|
 |**2025-07-12**|**PRAG: Procedural Action Generator**|Karla Stepanova Team|[2507.09167](http://arxiv.org/abs/2507.09167)|null|
 |**2025-07-12**|**Towards Human-level Dexterity via Robot Learning**|Gagan Khandate Team|[2507.09117](http://arxiv.org/abs/2507.09117)|null|
 |**2025-07-11**|**Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**|Max Simchowitz Team|[2507.09061](http://arxiv.org/abs/2507.09061)|null|
@@ -26,8 +26,8 @@ layout: default
 |**2025-07-11**|**Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots**|Yue Gao Team|[2507.08303](http://arxiv.org/abs/2507.08303)|null|
 |**2025-07-11**|**CL3R: 3D Reconstruction and Contrastive Learning for Enhanced Robotic Manipulation Representations**|He Wang Team|[2507.08262](http://arxiv.org/abs/2507.08262)|null|
 |**2025-07-10**|**Imitation Learning for Obstacle Avoidance Using End-to-End CNN-Based Sensor Fusion**|Raafat E. Shalaby Team|[2507.08112](http://arxiv.org/abs/2507.08112)|null|
-|**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Chelsea Finn Team|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
-|**2025-07-10**|**Reinforcement Learning with Action Chunking**|Sergey Levine Team|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
+|**2025-07-15**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Chelsea Finn Team|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
+|**2025-07-15**|**Reinforcement Learning with Action Chunking**|Sergey Levine Team|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
 |**2025-07-09**|**Self-Wearing Adaptive Garments via Soft Robotic Unfurling**|Allison M. Okamura Team|[2507.07221](http://arxiv.org/abs/2507.07221)|null|
 |**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Xinjun Sheng Team|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
 |**2025-07-09**|**Learning safe, constrained policies via imitation learning: Connection to Probabilistic Inference and a Naive Algorithm**|George A. Vouros Team|[2507.06780](http://arxiv.org/abs/2507.06780)|null|
