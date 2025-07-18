@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner**|Kai Chen Team|[2507.13332](http://arxiv.org/abs/2507.13332)|null|
+|**2025-07-17**|**ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning**|Johannes A. Stork Team|[2507.13088](http://arxiv.org/abs/2507.13088)|null|
+|**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Jun Zhu Team|[2507.12898](http://arxiv.org/abs/2507.12898)|null|
+|**2025-07-17**|**Supervised Fine Tuning on Curated Data is Reinforcement Learning (and can be improved)**|Jost Tobias Springenberg Team|[2507.12856](http://arxiv.org/abs/2507.12856)|null|
+|**2025-07-17**|**DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning**|Melanie N. Zeilinger Team|[2507.12855](http://arxiv.org/abs/2507.12855)|null|
+|**2025-07-17**|**Learning to Predict Mobile Robot Stability in Off-Road Environments**|Parikshit Maini Team|[2507.12731](http://arxiv.org/abs/2507.12731)|null|
 |**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Jiming Chen Team|[2507.11840](http://arxiv.org/abs/2507.11840)|null|
 |**2025-07-15**|**Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification**|Zsolt Kira Team|[2507.11662](http://arxiv.org/abs/2507.11662)|null|
@@ -584,6 +590,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Jiaya Jia Team|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pravendra Singh Team|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
+|**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Shifeng Chen Team|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
+|**2025-07-17**|**Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection**|Changwen Zheng Team|[2507.13061](http://arxiv.org/abs/2507.13061)|null|
+|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-17**|**City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning**|Xiaowen Chu Team|[2507.12795](http://arxiv.org/abs/2507.12795)|null|
+|**2025-07-16**|**VLMgineer: Vision Language Models as Robotic Toolsmiths**|Dinesh Jayaraman Team|[2507.12644](http://arxiv.org/abs/2507.12644)|null|
+|**2025-07-16**|**NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting**|Chaoli Wang Team|[2507.12621](http://arxiv.org/abs/2507.12621)|null|
+|**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Chuang Gan Team|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
+|**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Xinge Zhu Team|[2507.12499](http://arxiv.org/abs/2507.12499)|null|
+|**2025-07-15**|**Spatially Grounded Explanations in Vision Language Models for Document Visual Question Answering**|Dimosthenis Karatzas Team|[2507.12490](http://arxiv.org/abs/2507.12490)|null|
 |**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
 |**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Min Xu Team|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
 |**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Sihao Ding Team|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
@@ -1569,6 +1586,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
 |**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Irfan Hussain Team|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
 |**2025-07-12**|**Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization**|Yang Gao Team|[2507.09160](http://arxiv.org/abs/2507.09160)|null|
