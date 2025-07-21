@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Improving Low-Cost Teleoperation: Augmenting GELLO with Force**|Kai Arulkumaran Team|[2507.13602](http://arxiv.org/abs/2507.13602)|null|
 |**2025-07-17**|**The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner**|Kai Chen Team|[2507.13332](http://arxiv.org/abs/2507.13332)|null|
 |**2025-07-17**|**ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning**|Johannes A. Stork Team|[2507.13088](http://arxiv.org/abs/2507.13088)|null|
 |**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Jun Zhu Team|[2507.12898](http://arxiv.org/abs/2507.12898)|null|
@@ -590,6 +591,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**VLA-Mark: A cross modal watermark for large vision-language alignment model**|Xuming Hu Team|[2507.14067](http://arxiv.org/abs/2507.14067)|null|
+|**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
+|**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Sharon X. Huang Team|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
+|**2025-07-18**|**When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models**|Alberto Cazzaniga Team|[2507.13868](http://arxiv.org/abs/2507.13868)|null|
+|**2025-07-18**|**Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions**|Jiajun Zhang Team|[2507.13773](http://arxiv.org/abs/2507.13773)|null|
+|**2025-07-17**|**LoRA-Loop: Closing the Synthetic Replay Cycle for Continual VLM Learning**|Margrit Betke Team|[2507.13568](http://arxiv.org/abs/2507.13568)|null|
+|**2025-07-17**|**COREVQA: A Crowd Observation and Reasoning Entailment Visual Question Answering Benchmark**|Vasu Sharma Team|[2507.13405](http://arxiv.org/abs/2507.13405)|null|
 |**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Jiaya Jia Team|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
 |**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pravendra Singh Team|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
 |**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Shifeng Chen Team|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
@@ -1586,6 +1594,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
 |**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
@@ -1846,6 +1855,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Improving Low-Cost Teleoperation: Augmenting GELLO with Force**|Kai Arulkumaran Team|[2507.13602](http://arxiv.org/abs/2507.13602)|null|
 |**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Jiming Chen Team|[2507.11840](http://arxiv.org/abs/2507.11840)|null|
 |**2025-07-14**|**Demonstrating the Octopi-1.5 Visual-Tactile-Language Model**|Harold Soh Team|[2507.09985](http://arxiv.org/abs/2507.09985)|null|
 |**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Xinjun Sheng Team|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
