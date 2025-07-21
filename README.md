@@ -1,4 +1,4 @@
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2025-07-17**|**Supervised Fine Tuning on Curated Data is Reinforcement Learning (and can be improved)**|Jost Tobias Springenberg Team|[2507.12856](http://arxiv.org/abs/2507.12856)|null|
 |**2025-07-17**|**DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning**|Melanie N. Zeilinger Team|[2507.12855](http://arxiv.org/abs/2507.12855)|null|
 |**2025-07-17**|**Learning to Predict Mobile Robot Stability in Off-Road Environments**|Parikshit Maini Team|[2507.12731](http://arxiv.org/abs/2507.12731)|null|
-|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Jiming Chen Team|[2507.11840](http://arxiv.org/abs/2507.11840)|null|
 |**2025-07-15**|**Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification**|Zsolt Kira Team|[2507.11662](http://arxiv.org/abs/2507.11662)|null|
 |**2025-07-15**|**MPC-based Coarse-to-Fine Motion Planning for Robotic Object Transportation in Cluttered Environments**|Steven Liu Team|[2507.11211](http://arxiv.org/abs/2507.11211)|null|
@@ -593,7 +593,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## VLM
 
@@ -618,7 +618,7 @@
 |**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Rongrong Ji Team|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
 |**2025-07-16**|**POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering**|Qin Jin Team|[2507.11939](http://arxiv.org/abs/2507.11939)|null|
 |**2025-07-15**|**Seeing the Signs: A Survey of Edge-Deployable OCR Models for Billboard Visibility Analysis**|Lihang Ying Team|[2507.11730](http://arxiv.org/abs/2507.11730)|null|
-|**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Rossella Arcucci Team|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
+|**2025-07-18**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Rossella Arcucci Team|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
 |**2025-07-15**|**Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities**|Yang Zhang Team|[2507.11155](http://arxiv.org/abs/2507.11155)|null|
 |**2025-07-15**|**Assessing Color Vision Test in Large Vision-language Models**|Hongyang Chen Team|[2507.11153](http://arxiv.org/abs/2507.11153)|null|
 |**2025-07-15**|**MSA at ImageCLEF 2025 Multimodal Reasoning: Multilingual Multimodal Reasoning With Ensemble Vision Language Models**|Hamza Moustafa Team|[2507.11114](http://arxiv.org/abs/2507.11114)|null|
@@ -1591,7 +1591,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## VLA
 
@@ -1599,7 +1599,7 @@
 |---|---|---|---|---|
 |**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
-|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Irfan Hussain Team|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
 |**2025-07-12**|**Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization**|Yang Gao Team|[2507.09160](http://arxiv.org/abs/2507.09160)|null|
 |**2025-07-09**|**3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds**|Nick Haber Team|[2507.06484](http://arxiv.org/abs/2507.06484)|null|
@@ -1735,7 +1735,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Humanoid
 
@@ -1756,7 +1756,7 @@
 |**2025-07-10**|**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**|Navid Azizan Team|[2506.22827](http://arxiv.org/abs/2506.22827)|null|
 |**2025-06-20**|**Unsupervised Discovery of Behavioral Primitives from Sensorimotor Dynamic Functional Connectivity**|Matej Hoffmann Team|[2506.22473](http://arxiv.org/abs/2506.22473)|null|
 |**2025-07-14**|**Ark: An Open-source Python-based Framework for Robot Learning**|Haitham Bou-Ammar Team|[2506.21628](http://arxiv.org/abs/2506.21628)|null|
-|**2025-07-11**|**A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots**|Wenjun Zeng Team|[2506.20487](http://arxiv.org/abs/2506.20487)|null|
+|**2025-07-18**|**A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots**|Wenjun Zeng Team|[2506.20487](http://arxiv.org/abs/2506.20487)|null|
 |**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Zongqing Lu Team|[2506.16012](http://arxiv.org/abs/2506.16012)|**[link](https://github.com/ds199895/dualthor)**|
 |**2025-06-18**|**TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality**|Eiichi Yoshida Team|[2506.15146](http://arxiv.org/abs/2506.15146)|null|
 |**2025-06-18**|**Booster Gym: An End-to-End Reinforcement Learning Framework for Humanoid Robot Locomotion**|Mingguo Zhao Team|[2506.15132](http://arxiv.org/abs/2506.15132)|**[link](https://github.com/BoosterRobotics/booster_gym)**|
@@ -1855,7 +1855,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Dexterous
 
@@ -1954,5 +1954,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
