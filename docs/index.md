@@ -9,6 +9,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers**|Iman Soltani Team|[2507.15833](http://arxiv.org/abs/2507.15833)|null|
+|**2025-07-21**|**Strong, Accurate, and Low-Cost Robot Manipulator**|Donghyun Kim Team|[2507.15693](http://arxiv.org/abs/2507.15693)|null|
+|**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Zongqing Lu Team|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
+|**2025-07-21**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
+|**2025-07-20**|**Learning-Based Modeling of a Magnetically Steerable Soft Suction Device for Endoscopic Endonasal Interventions**|Eric Diller Team|[2507.15155](http://arxiv.org/abs/2507.15155)|null|
+|**2025-07-20**|**Reinforcement Learning for Flow-Matching Policies**|Somayeh Sojoudi Team|[2507.15073](http://arxiv.org/abs/2507.15073)|null|
+|**2025-07-20**|**Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper**|Yunzhu Li Team|[2507.15062](http://arxiv.org/abs/2507.15062)|null|
+|**2025-07-20**|**LLM-Enhanced Multi-Agent Reinforcement Learning with Expert Workflow for Real-Time P2P Energy Trading**|Lu Zhang Team|[2507.14995](http://arxiv.org/abs/2507.14995)|null|
+|**2025-07-20**|**Heterogeneous object manipulation on nonlinear soft surface through linear controller**|Andres Faiña Team|[2507.14967](http://arxiv.org/abs/2507.14967)|null|
+|**2025-07-20**|**KGN-Pro: Keypoint-Based Grasp Prediction through Probabilistic 2D-3D Correspondence Learning**|Guangyao Zhai Team|[2507.14820](http://arxiv.org/abs/2507.14820)|null|
+|**2025-07-19**|**BT-TL-DMPs: A Novel Robot TAMP Framework Combining Behavior Tree, Temporal Logic and Dynamical Movement Primitives**|Yongchun Fang Team|[2507.14582](http://arxiv.org/abs/2507.14582)|null|
 |**2025-07-18**|**Improving Low-Cost Teleoperation: Augmenting GELLO with Force**|Kai Arulkumaran Team|[2507.13602](http://arxiv.org/abs/2507.13602)|null|
 |**2025-07-17**|**The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner**|Kai Chen Team|[2507.13332](http://arxiv.org/abs/2507.13332)|null|
 |**2025-07-17**|**ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning**|Johannes A. Stork Team|[2507.13088](http://arxiv.org/abs/2507.13088)|null|
@@ -591,6 +602,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Jiaqi Wang Team|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
+|**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Erkut Erdem Team|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
+|**2025-07-21**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Jiarun Song Team|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-21**|**Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging**|Margret Keuper Team|[2507.15576](http://arxiv.org/abs/2507.15576)|null|
+|**2025-07-21**|**HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation**|Robby T. Tan Team|[2507.15542](http://arxiv.org/abs/2507.15542)|null|
+|**2025-07-21**|**Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner**|Lin Ma Team|[2507.15509](http://arxiv.org/abs/2507.15509)|null|
+|**2025-07-21**|**One Last Attention for Your Vision-Language Model**|Zhiqiang Shen Team|[2507.15480](http://arxiv.org/abs/2507.15480)|null|
+|**2025-07-21**|**EgoPrune: Efficient Token Pruning for Egomotion Video Reasoning in Embodied Agent**|Xinlei Chen Team|[2507.15428](http://arxiv.org/abs/2507.15428)|null|
+|**2025-07-21**|**In-context Learning of Vision Language Models for Detection of Physical and Digital Attacks against Face Recognition Systems**|Christoph Busch Team|[2507.15285](http://arxiv.org/abs/2507.15285)|null|
+|**2025-07-21**|**VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**|Tong Heng Lee Team|[2507.15266](http://arxiv.org/abs/2507.15266)|null|
+|**2025-07-20**|**Survey of GenAI for Automotive Software Development: From Requirements to Executable Code**|Alois Knoll Team|[2507.15025](http://arxiv.org/abs/2507.15025)|null|
+|**2025-07-20**|**Hierarchical Cross-modal Prompt Learning for Vision-Language Models**|Zhenhua Huang Team|[2507.14976](http://arxiv.org/abs/2507.14976)|null|
+|**2025-07-20**|**FinChart-Bench: Benchmarking Financial Chart Comprehension in Vision-Language Models**|Mengnan Du Team|[2507.14823](http://arxiv.org/abs/2507.14823)|null|
+|**2025-07-19**|**IRGPT: Understanding Real-world Infrared Image with Bi-cross-modal Curriculum on Large-scale Benchmark**|Ruiheng Zhang Team|[2507.14449](http://arxiv.org/abs/2507.14449)|null|
+|**2025-07-18**|**CLIPTTA: Robust Contrastive Vision-Language Test-Time Adaptation**|Nicolas Thome Team|[2507.14312](http://arxiv.org/abs/2507.14312)|null|
+|**2025-07-18**|**In-Depth and In-Breadth: Pre-training Multimodal Language Models Customized for Comprehensive Chart Understanding**|Leonid Sigal Team|[2507.14298](http://arxiv.org/abs/2507.14298)|null|
 |**2025-07-18**|**VLA-Mark: A cross modal watermark for large vision-language alignment model**|Xuming Hu Team|[2507.14067](http://arxiv.org/abs/2507.14067)|null|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Sharon X. Huang Team|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
@@ -1594,6 +1621,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Zongqing Lu Team|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
+|**2025-07-21**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
@@ -1737,6 +1766,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation**|Rong Xiong Team|[2507.15649](http://arxiv.org/abs/2507.15649)|null|
 |**2025-07-16**|**Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming**|Loris Roveda Team|[2507.11498](http://arxiv.org/abs/2507.11498)|null|
 |**2025-07-15**|**From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League**|Shohei Yasuda Team|[2507.11402](http://arxiv.org/abs/2507.11402)|null|
 |**2025-07-14**|**Physics-Informed Neural Networks with Unscented Kalman Filter for Sensorless Joint Torque Estimation in Humanoid Robots**|Daniele Pucci Team|[2507.10105](http://arxiv.org/abs/2507.10105)|null|
@@ -1855,6 +1885,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-19**|**A 21-DOF Humanoid Dexterous Hand with Hybrid SMA-Motor Actuation: CYJ Hand-0**|Erbao Dong Team|[2507.14538](http://arxiv.org/abs/2507.14538)|null|
 |**2025-07-18**|**Improving Low-Cost Teleoperation: Augmenting GELLO with Force**|Kai Arulkumaran Team|[2507.13602](http://arxiv.org/abs/2507.13602)|null|
 |**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Jiming Chen Team|[2507.11840](http://arxiv.org/abs/2507.11840)|null|
 |**2025-07-14**|**Demonstrating the Octopi-1.5 Visual-Tactile-Language Model**|Harold Soh Team|[2507.09985](http://arxiv.org/abs/2507.09985)|null|
