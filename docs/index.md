@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -602,14 +602,14 @@ layout: default
 |**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pravendra Singh Team|[2507.13113](http://arxiv.org/abs/2507.13113)|null|
 |**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Shifeng Chen Team|[2507.13089](http://arxiv.org/abs/2507.13089)|null|
 |**2025-07-17**|**Advancing Complex Wide-Area Scene Understanding with Hierarchical Coresets Selection**|Changwen Zheng Team|[2507.13061](http://arxiv.org/abs/2507.13061)|null|
-|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning**|Xiaowen Chu Team|[2507.12795](http://arxiv.org/abs/2507.12795)|null|
 |**2025-07-16**|**VLMgineer: Vision Language Models as Robotic Toolsmiths**|Dinesh Jayaraman Team|[2507.12644](http://arxiv.org/abs/2507.12644)|null|
 |**2025-07-16**|**NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting**|Chaoli Wang Team|[2507.12621](http://arxiv.org/abs/2507.12621)|null|
 |**2025-07-16**|**MindJourney: Test-Time Scaling with World Models for Spatial Reasoning**|Chuang Gan Team|[2507.12508](http://arxiv.org/abs/2507.12508)|null|
 |**2025-07-16**|**ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving**|Xinge Zhu Team|[2507.12499](http://arxiv.org/abs/2507.12499)|null|
 |**2025-07-15**|**Spatially Grounded Explanations in Vision Language Models for Document Visual Question Answering**|Dimosthenis Karatzas Team|[2507.12490](http://arxiv.org/abs/2507.12490)|null|
-|**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-20**|**PhysX-3D: Physical-Grounded 3D Asset Generation**|Ziwei Liu Team|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
 |**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Min Xu Team|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
 |**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Sihao Ding Team|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
 |**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Bernhard Kainz Team|[2507.12236](http://arxiv.org/abs/2507.12236)|null|
@@ -1595,7 +1595,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
-|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
 |**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
 |**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Irfan Hussain Team|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
