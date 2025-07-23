@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Fu-En Yang Team|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
+|**2025-07-22**|**Equivariant Goal Conditioned Contrastive Reinforcement Learning**|Robert Platt Team|[2507.16139](http://arxiv.org/abs/2507.16139)|null|
 |**2025-07-21**|**Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers**|Iman Soltani Team|[2507.15833](http://arxiv.org/abs/2507.15833)|null|
 |**2025-07-21**|**Strong, Accurate, and Low-Cost Robot Manipulator**|Donghyun Kim Team|[2507.15693](http://arxiv.org/abs/2507.15693)|null|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Zongqing Lu Team|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
@@ -602,6 +604,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Kai Chen Team|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
+|**2025-07-22**|**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**|Arslan Munir Team|[2507.16781](http://arxiv.org/abs/2507.16781)|null|
+|**2025-07-22**|**Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation**|Ke Yang Team|[2507.16716](http://arxiv.org/abs/2507.16716)|null|
+|**2025-07-22**|**Experience is the Best Teacher: Grounding VLMs for Robotics through Self-Generated Memory**|Marco Hutter Team|[2507.16713](http://arxiv.org/abs/2507.16713)|null|
+|**2025-07-22**|**Spatial 3D-LLM: Exploring Spatial Awareness in 3D Vision-Language Models**|Chao Zhang Team|[2507.16524](http://arxiv.org/abs/2507.16524)|null|
+|**2025-07-22**|**SceneLoom: Communicating Data with Scene Context**|Siming Chen Team|[2507.16466](http://arxiv.org/abs/2507.16466)|null|
+|**2025-07-22**|**Quality Text, Robust Vision: The Role of Language in Enhancing Visual Robustness of Vision-Language Models**|Isao Echizen Team|[2507.16257](http://arxiv.org/abs/2507.16257)|null|
 |**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Jiaqi Wang Team|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Erkut Erdem Team|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
 |**2025-07-22**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Jiarun Song Team|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
@@ -1621,6 +1630,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Fu-En Yang Team|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Zongqing Lu Team|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
 |**2025-07-22**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
@@ -1766,6 +1776,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Humanoid Robot Whole-body Geometric Calibration with Embedded Sensors and a Single Plane**|Florent Lamiraux Team|[2507.16369](http://arxiv.org/abs/2507.16369)|null|
+|**2025-07-20**|**Integrating Reason-Based Moral Decision-Making in the Reinforcement Learning Architecture**|Lisa Dargasz Team|[2507.15895](http://arxiv.org/abs/2507.15895)|null|
 |**2025-07-21**|**EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation**|Rong Xiong Team|[2507.15649](http://arxiv.org/abs/2507.15649)|null|
 |**2025-07-16**|**Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming**|Loris Roveda Team|[2507.11498](http://arxiv.org/abs/2507.11498)|null|
 |**2025-07-15**|**From Production Logistics to Smart Manufacturing: The Vision for a New RoboCup Industrial League**|Shohei Yasuda Team|[2507.11402](http://arxiv.org/abs/2507.11402)|null|
