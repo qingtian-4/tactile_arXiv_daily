@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -12,7 +12,7 @@ layout: default
 |**2025-07-21**|**Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers**|Iman Soltani Team|[2507.15833](http://arxiv.org/abs/2507.15833)|null|
 |**2025-07-21**|**Strong, Accurate, and Low-Cost Robot Manipulator**|Donghyun Kim Team|[2507.15693](http://arxiv.org/abs/2507.15693)|null|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Zongqing Lu Team|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
-|**2025-07-21**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
+|**2025-07-22**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
 |**2025-07-20**|**Learning-Based Modeling of a Magnetically Steerable Soft Suction Device for Endoscopic Endonasal Interventions**|Eric Diller Team|[2507.15155](http://arxiv.org/abs/2507.15155)|null|
 |**2025-07-20**|**Reinforcement Learning for Flow-Matching Policies**|Somayeh Sojoudi Team|[2507.15073](http://arxiv.org/abs/2507.15073)|null|
 |**2025-07-20**|**Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper**|Yunzhu Li Team|[2507.15062](http://arxiv.org/abs/2507.15062)|null|
@@ -602,9 +602,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Jiaqi Wang Team|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
+|**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Jiaqi Wang Team|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Erkut Erdem Team|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
-|**2025-07-21**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Jiarun Song Team|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-22**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Jiarun Song Team|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
 |**2025-07-21**|**Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging**|Margret Keuper Team|[2507.15576](http://arxiv.org/abs/2507.15576)|null|
 |**2025-07-21**|**HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation**|Robby T. Tan Team|[2507.15542](http://arxiv.org/abs/2507.15542)|null|
 |**2025-07-21**|**Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner**|Lin Ma Team|[2507.15509](http://arxiv.org/abs/2507.15509)|null|
@@ -1622,7 +1622,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Zongqing Lu Team|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
-|**2025-07-21**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
+|**2025-07-22**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
