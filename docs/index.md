@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Hesheng Wang Team|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
+|**2025-07-23**|**Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning**|Byeongjoon Noh Team|[2507.17418](http://arxiv.org/abs/2507.17418)|null|
+|**2025-07-23**|**Confounded Causal Imitation Learning with Instrumental Variables**|Zhi Geng Team|[2507.17309](http://arxiv.org/abs/2507.17309)|null|
+|**2025-07-23**|**Prolonging Tool Life: Learning Skillful Use of General-purpose Tools through Lifespan-guided Reinforcement Learning**|Takamitsu Matsubara Team|[2507.17275](http://arxiv.org/abs/2507.17275)|null|
+|**2025-07-23**|**Towards Human-level Intelligence via Human-like Whole-Body Manipulation**|Zhaohui An Team|[2507.17141](http://arxiv.org/abs/2507.17141)|null|
+|**2025-07-22**|**Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots**|Aitor Arrieta Team|[2507.17049](http://arxiv.org/abs/2507.17049)|null|
+|**2025-07-19**|**Sensor-Space Based Robust Kinematic Control of Redundant Soft Manipulator by Learning**|Charlie C. L. Wang Team|[2507.16842](http://arxiv.org/abs/2507.16842)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Fu-En Yang Team|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**Equivariant Goal Conditioned Contrastive Reinforcement Learning**|Robert Platt Team|[2507.16139](http://arxiv.org/abs/2507.16139)|null|
 |**2025-07-21**|**Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers**|Iman Soltani Team|[2507.15833](http://arxiv.org/abs/2507.15833)|null|
@@ -604,6 +611,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Christian Berger Team|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**|Jiangmiao Pang Team|[2507.17520](http://arxiv.org/abs/2507.17520)|null|
+|**2025-07-23**|**Dynamic Scoring with Enhanced Semantics for Training-Free Human-Object Interaction Detection**|Elisa Ricci Team|[2507.17456](http://arxiv.org/abs/2507.17456)|null|
+|**2025-07-23**|**VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization**|Shoaib Ehsan Team|[2507.17455](http://arxiv.org/abs/2507.17455)|null|
+|**2025-07-23**|**Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection**|Xi Li Team|[2507.17436](http://arxiv.org/abs/2507.17436)|null|
+|**2025-07-23**|**Language-Conditioned Open-Vocabulary Mobile Manipulation with Pretrained Models**|Guanghui Sun Team|[2507.17379](http://arxiv.org/abs/2507.17379)|null|
+|**2025-07-23**|**RoadBench: A Vision-Language Foundation Model and Benchmark for Road Damage Understanding**|Tianyang Wang Team|[2507.17353](http://arxiv.org/abs/2507.17353)|null|
+|**2025-07-23**|**HySafe-AI: Hybrid Safety Architectural Analysis Framework for AI Systems: A Case Study**|Maria Spence Team|[2507.17118](http://arxiv.org/abs/2507.17118)|null|
+|**2025-07-23**|**FedVLM: Scalable Personalized Vision-Language Models through Federated Learning**|Habeeb Olufowobi Team|[2507.17088](http://arxiv.org/abs/2507.17088)|null|
+|**2025-07-22**|**VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings**|Kannan Achan Team|[2507.17080](http://arxiv.org/abs/2507.17080)|null|
+|**2025-07-22**|**Controllable Hybrid Captioner for Improved Long-form Video Understanding**|Arun Reddy Team|[2507.17047](http://arxiv.org/abs/2507.17047)|null|
 |**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Kai Chen Team|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
 |**2025-07-22**|**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**|Arslan Munir Team|[2507.16781](http://arxiv.org/abs/2507.16781)|null|
 |**2025-07-22**|**Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation**|Ke Yang Team|[2507.16716](http://arxiv.org/abs/2507.16716)|null|
@@ -1630,6 +1648,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**|Jiangmiao Pang Team|[2507.17520](http://arxiv.org/abs/2507.17520)|null|
+|**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Hesheng Wang Team|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
+|**2025-07-23**|**Confidence Calibration in Vision-Language-Action Models**|Richard Zemel Team|[2507.17383](http://arxiv.org/abs/2507.17383)|null|
+|**2025-07-23**|**VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback**|Harold Soh Team|[2507.17294](http://arxiv.org/abs/2507.17294)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Fu-En Yang Team|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Zongqing Lu Team|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
 |**2025-07-22**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
