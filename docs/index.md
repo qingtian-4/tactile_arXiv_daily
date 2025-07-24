@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -613,7 +613,7 @@ layout: default
 |**2025-07-22**|**Quality Text, Robust Vision: The Role of Language in Enhancing Visual Robustness of Vision-Language Models**|Isao Echizen Team|[2507.16257](http://arxiv.org/abs/2507.16257)|null|
 |**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Jiaqi Wang Team|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Erkut Erdem Team|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
-|**2025-07-22**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Jiarun Song Team|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-23**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Jiarun Song Team|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
 |**2025-07-21**|**Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging**|Margret Keuper Team|[2507.15576](http://arxiv.org/abs/2507.15576)|null|
 |**2025-07-21**|**HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation**|Robby T. Tan Team|[2507.15542](http://arxiv.org/abs/2507.15542)|null|
 |**2025-07-21**|**Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner**|Lin Ma Team|[2507.15509](http://arxiv.org/abs/2507.15509)|null|
