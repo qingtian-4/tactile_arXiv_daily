@@ -12,8 +12,8 @@ layout: default
 |**2025-08-01**|**On-Device Diffusion Transformer Policy for Efficient Robot Manipulation**|Dong Xu Team|[2508.00697](http://arxiv.org/abs/2508.00697)|null|
 |**2025-08-01**|**HannesImitation: Grasping with the Hannes Prosthetic Hand via Imitation Learning**|Lorenzo Natale Team|[2508.00491](http://arxiv.org/abs/2508.00491)|null|
 |**2025-08-01**|**Energy Efficient Trajectory Control and Resource Allocation in Multi-UAV-assisted MEC via Deep Reinforcement Learning**|Dusit Niyato Team|[2508.00261](http://arxiv.org/abs/2508.00261)|null|
-|**2025-07-31**|**RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping**|Jianbing Shen Team|[2507.23734](http://arxiv.org/abs/2507.23734)|null|
-|**2025-07-31**|**villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models**|Jiang Bian Team|[2507.23682](http://arxiv.org/abs/2507.23682)|null|
+|**2025-07-31**|**RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping**|Jianbing Shen Team|[2507.23734](http://arxiv.org/abs/2507.23734)|**[link](https://github.com/wudongming97/AffordanceNet)**|
+|**2025-07-31**|**villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models**|Jiang Bian Team|[2507.23682](http://arxiv.org/abs/2507.23682)|**[link](https://aka.ms/villa-x)**|
 |**2025-08-01**|**H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation**|Jun Zhu Team|[2507.23523](http://arxiv.org/abs/2507.23523)|null|
 |**2025-07-31**|**Policy Learning from Large Vision-Language Model Feedback without Reward Modeling**|Chang D. Yoo Team|[2507.23391](http://arxiv.org/abs/2507.23391)|null|
 |**2025-07-30**|**In-between Motion Generation Based Multi-Style Quadruped Robot Locomotion**|Peng Lu Team|[2507.23053](http://arxiv.org/abs/2507.23053)|null|
@@ -1688,8 +1688,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-31**|**XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation**|Ning Yang Team|[2508.00097](http://arxiv.org/abs/2508.00097)|null|
-|**2025-07-31**|**villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models**|Jiang Bian Team|[2507.23682](http://arxiv.org/abs/2507.23682)|null|
+|**2025-07-31**|**XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation**|Ning Yang Team|[2508.00097](http://arxiv.org/abs/2508.00097)|**[link](https://github.com/XR-Robotics)**|
+|**2025-07-31**|**villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models**|Jiang Bian Team|[2507.23682](http://arxiv.org/abs/2507.23682)|**[link](https://aka.ms/villa-x)**|
 |**2025-07-31**|**A Unified Perception-Language-Action Framework for Adaptive Autonomous Driving**|Alois Knoll Team|[2507.23540](http://arxiv.org/abs/2507.23540)|null|
 |**2025-07-31**|**FastDriveVLA: Efficient End-to-End Driving via Plug-and-Play Reconstruction-based Token Pruning**|Shanghang Zhang Team|[2507.23318](http://arxiv.org/abs/2507.23318)|null|
 |**2025-07-30**|**Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance**|Derek F. Wong Team|[2507.22424](http://arxiv.org/abs/2507.22424)|null|
@@ -1697,16 +1697,16 @@ layout: default
 |**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Hesheng Wang Team|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
 |**2025-07-23**|**Confidence Calibration in Vision-Language-Action Models**|Richard Zemel Team|[2507.17383](http://arxiv.org/abs/2507.17383)|null|
 |**2025-07-29**|**VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback**|Harold Soh Team|[2507.17294](http://arxiv.org/abs/2507.17294)|null|
-|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Fu-En Yang Team|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Fu-En Yang Team|[2507.16815](http://arxiv.org/abs/2507.16815)|**[link](https://jasper0314-huang.github.io/thinkact-vla/)**|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Zongqing Lu Team|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
-|**2025-07-22**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|null|
+|**2025-07-22**|**GR-3 Technical Report**|Yichu Yang Team|[2507.15493](http://arxiv.org/abs/2507.15493)|**[link](https://seed.bytedance.com/GR3/)**|
 |**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Benjamin Bolte Team|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
 |**2025-07-23**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh Team|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation**|Jun Zhu Team|[2507.12768](http://arxiv.org/abs/2507.12768)|null|
-|**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-18**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Xiaolong Wang Team|[2507.12440](http://arxiv.org/abs/2507.12440)|**[link](https://rchalyang.github.io/EgoVLA)**|
 |**2025-07-14**|**Vision Language Action Models in Robotic Manipulation: A Systematic Review**|Irfan Hussain Team|[2507.10672](http://arxiv.org/abs/2507.10672)|null|
 |**2025-07-12**|**Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization**|Yang Gao Team|[2507.09160](http://arxiv.org/abs/2507.09160)|null|
-|**2025-07-09**|**3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds**|Nick Haber Team|[2507.06484](http://arxiv.org/abs/2507.06484)|null|
+|**2025-07-09**|**3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds**|Nick Haber Team|[2507.06484](http://arxiv.org/abs/2507.06484)|**[link](https://ai.stanford.edu/~sunfanyun/3d-generalist/)**|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Cheng Lu Team|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
 |**2025-07-10**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Yanzhi Wang Team|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
 |**2025-07-17**|**DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge**|Xin Jin Team|[2507.04447](http://arxiv.org/abs/2507.04447)|null|
@@ -1852,7 +1852,7 @@ layout: default
 |**2025-07-29**|**Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots**|Qiang Zhang Team|[2507.20217](http://arxiv.org/abs/2507.20217)|null|
 |**2025-07-27**|**LRR-Bench: Left, Right or Rotate? Vision-Language models Still Struggle With Spatial Understanding Tasks**|Xiaoshuang Shi Team|[2507.20174](http://arxiv.org/abs/2507.20174)|null|
 |**2025-07-25**|**How Age Influences the Interpretation of Emotional Body Language in Humanoid Robots -- long paper version**|Giuseppe Palestra Team|[2507.19335](http://arxiv.org/abs/2507.19335)|null|
-|**2025-07-24**|**Experimental Comparison of Whole-Body Control Formulations for Humanoid Robots in Task Acceleration and Task Force Spaces**|Christian Ott Team|[2507.18502](http://arxiv.org/abs/2507.18502)|null|
+|**2025-07-24**|**Experimental Comparison of Whole-Body Control Formulations for Humanoid Robots in Task Acceleration and Task Force Spaces**|Christian Ott Team|[2507.18502](http://arxiv.org/abs/2507.18502)|**[link](https://youtu.be/Nfm50ycz-FU)**|
 |**2025-07-22**|**Humanoid Robot Whole-body Geometric Calibration with Embedded Sensors and a Single Plane**|Florent Lamiraux Team|[2507.16369](http://arxiv.org/abs/2507.16369)|null|
 |**2025-07-20**|**Integrating Reason-Based Moral Decision-Making in the Reinforcement Learning Architecture**|Lisa Dargasz Team|[2507.15895](http://arxiv.org/abs/2507.15895)|null|
 |**2025-07-21**|**EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation**|Rong Xiong Team|[2507.15649](http://arxiv.org/abs/2507.15649)|null|
@@ -1975,8 +1975,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-08-01**|**Video Generators are Robot Policies**|Carl Vondrick Team|[2508.00795](http://arxiv.org/abs/2508.00795)|null|
-|**2025-07-31**|**XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation**|Ning Yang Team|[2508.00097](http://arxiv.org/abs/2508.00097)|null|
-|**2025-07-31**|**villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models**|Jiang Bian Team|[2507.23682](http://arxiv.org/abs/2507.23682)|null|
+|**2025-07-31**|**XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation**|Ning Yang Team|[2508.00097](http://arxiv.org/abs/2508.00097)|**[link](https://github.com/XR-Robotics)**|
+|**2025-07-31**|**villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models**|Jiang Bian Team|[2507.23682](http://arxiv.org/abs/2507.23682)|**[link](https://aka.ms/villa-x)**|
 |**2025-07-19**|**A 21-DOF Humanoid Dexterous Hand with Hybrid SMA-Motor Actuation: CYJ Hand-0**|Erbao Dong Team|[2507.14538](http://arxiv.org/abs/2507.14538)|null|
 |**2025-07-18**|**Improving Low-Cost Teleoperation: Augmenting GELLO with Force**|Kai Arulkumaran Team|[2507.13602](http://arxiv.org/abs/2507.13602)|null|
 |**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Jiming Chen Team|[2507.11840](http://arxiv.org/abs/2507.11840)|null|
@@ -1985,13 +1985,13 @@ layout: default
 |**2025-07-07**|**A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation**|Russ Tedrake Team|[2507.05331](http://arxiv.org/abs/2507.05331)|null|
 |**2025-07-06**|**SimLauncher: Launching Sample-Efficient Real-world Robotic Reinforcement Learning via Simulation Pre-training**|Hao Dong Team|[2507.04452](http://arxiv.org/abs/2507.04452)|null|
 |**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|He Wang Team|[2507.02747](http://arxiv.org/abs/2507.02747)|null|
-|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Wei-Shi Zheng Team|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
-|**2025-07-01**|**HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning**|Chenjia Bai Team|[2507.00833](http://arxiv.org/abs/2507.00833)|null|
+|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Wei-Shi Zheng Team|[2507.01857](http://arxiv.org/abs/2507.01857)|**[link](https://isee-laboratory.github.io/TypeTele)**|
+|**2025-07-01**|**HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning**|Chenjia Bai Team|[2507.00833](http://arxiv.org/abs/2507.00833)|**[link](https://openhumanoidgen.github.io)**|
 |**2025-06-26**|**Lightweight Fingernail Haptic Device: Unobstructed Fingerpad Force and Vibration Feedback for Enhanced Virtual Dexterous Manipulation**|Shoichi Hasegawa Team|[2506.21417](http://arxiv.org/abs/2506.21417)|null|
 |**2025-06-24**|**Scaffolding Dexterous Manipulation with Vision-Language Models**|Dorsa Sadigh Team|[2506.19212](http://arxiv.org/abs/2506.19212)|null|
 |**2025-06-24**|**The MOTIF Hand: A Robotic Hand for Multimodal Observations with Thermal, Inertial, and Force Sensors**|Daniel Seita Team|[2506.19201](http://arxiv.org/abs/2506.19201)|null|
 |**2025-06-21**|**VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models**|Lin Shao Team|[2506.17561](http://arxiv.org/abs/2506.17561)|null|
-|**2025-06-20**|**Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation**|Xiaolong Wang Team|[2506.17198](http://arxiv.org/abs/2506.17198)|null|
+|**2025-06-20**|**Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation**|Xiaolong Wang Team|[2506.17198](http://arxiv.org/abs/2506.17198)|**[link](https://jianglongye.com/dex1b)**|
 |**2025-06-19**|**ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation**|Jitendra Malik Team|[2506.15953](http://arxiv.org/abs/2506.15953)|null|
 |**2025-06-17**|**Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation**|Mustafa Mukadam Team|[2506.14754](http://arxiv.org/abs/2506.14754)|null|
 |**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Haoang Li Team|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
