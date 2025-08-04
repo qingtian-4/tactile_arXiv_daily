@@ -127,38 +127,38 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]    
         paper_url = arxiv_url + 'abs/' + paper_key
         
-        try:
-            # source code link    
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_last_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_last_author,paper_url,paper_url,repo_url,repo_url)
+        # try:
+        #     # source code link    
+        #     r = requests.get(code_url).json()
+        #     repo_url = None
+        #     if "official" in r and r["official"]:
+        #         repo_url = r["official"]["url"]
+        #     # TODO: not found, two more chances  
+        #     # else: 
+        #     #    repo_url = get_code_link(paper_title)
+        #     #    if repo_url is None:
+        #     #        repo_url = get_code_link(paper_key)
+        #     if repo_url is not None:
+        #         content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|**[link]({})**|\n".format(
+        #                update_time,paper_title,paper_last_author,paper_key,paper_url,repo_url)
+        #         content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({}), Code: **[{}]({})**".format(
+        #                update_time,paper_title,paper_last_author,paper_url,paper_url,repo_url,repo_url)
 
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_last_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({})".format(
-                       update_time,paper_title,paper_last_author,paper_url,paper_url)
+        #     else:
+        #         content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|null|\n".format(
+        #                update_time,paper_title,paper_last_author,paper_key,paper_url)
+        #         content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({})".format(
+        #                update_time,paper_title,paper_last_author,paper_url,paper_url)
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+        #     # TODO: select useful comments
+        #     comments = None
+        #     if comments != None:
+        #         content_to_web[paper_key] += f", {comments}\n"
+        #     else:
+        #         content_to_web[paper_key] += f"\n"
 
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+        # except Exception as e:
+        #     logging.error(f"exception: {e} with id: {paper_key}")
 
     data = {topic:content}
     data_web = {topic:content_to_web}
