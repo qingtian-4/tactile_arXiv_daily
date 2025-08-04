@@ -136,6 +136,12 @@ def get_daily_papers(topic,query="slam", max_results=2):
                     repo_url = r["official"]["url"]
             else:
                 repo_url = None
+            
+            if not repo_url and comments:
+                # 用正则提取 http/https 链接
+                urls = re.findall(r'(https?://[^\s,;]+)', comments)
+                if urls:
+                    repo_url = urls[0]  # 取第一个链接
             # TODO: not found, two more chances  
             # else: 
             #    repo_url = get_code_link(paper_title)
