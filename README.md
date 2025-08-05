@@ -1,4 +1,4 @@
-## Updated on 2025.08.04
+## Updated on 2025.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-07-29**|**Retrieve-Augmented Generation for Speeding up Diffusion Policy without Additional Training**|Yutaka Matsuo Team|[2507.21452](http://arxiv.org/abs/2507.21452)|null|
 |**2025-07-28**|**Fluidically Innervated Lattices Make Versatile and Durable Tactile Sensors**|Daniela Rus Team|[2507.21225](http://arxiv.org/abs/2507.21225)|null|
 |**2025-07-28**|**FMimic: Foundation Models are Fine-grained Action Learners from Human Videos**|Yufeng Yue Team|[2507.20622](http://arxiv.org/abs/2507.20622)|null|
-|**2025-07-28**|**Learning Physical Interaction Skills from Human Demonstrations**|Kwonjoon Lee Team|[2507.20445](http://arxiv.org/abs/2507.20445)|null|
+|**2025-08-03**|**Learning Physical Interaction Skills from Human Demonstrations**|Kwonjoon Lee Team|[2507.20445](http://arxiv.org/abs/2507.20445)|null|
 |**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Hesheng Wang Team|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
 |**2025-07-23**|**Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning**|Byeongjoon Noh Team|[2507.17418](http://arxiv.org/abs/2507.17418)|null|
 |**2025-07-23**|**Confounded Causal Imitation Learning with Instrumental Variables**|Zhi Geng Team|[2507.17309](http://arxiv.org/abs/2507.17309)|null|
@@ -634,7 +634,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 
 ## VLM
 
@@ -1693,7 +1693,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 
 ## VLA
 
@@ -1702,7 +1702,7 @@
 |**2025-07-31**|**XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation**|Ning Yang Team|[2508.00097](http://arxiv.org/abs/2508.00097)|**[link](https://github.com/XR-Robotics)**|
 |**2025-07-31**|**villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models**|Jiang Bian Team|[2507.23682](http://arxiv.org/abs/2507.23682)|**[link](https://aka.ms/villa-x)**|
 |**2025-07-31**|**A Unified Perception-Language-Action Framework for Adaptive Autonomous Driving**|Alois Knoll Team|[2507.23540](http://arxiv.org/abs/2507.23540)|null|
-|**2025-07-31**|**FastDriveVLA: Efficient End-to-End Driving via Plug-and-Play Reconstruction-based Token Pruning**|Shanghang Zhang Team|[2507.23318](http://arxiv.org/abs/2507.23318)|null|
+|**2025-08-02**|**FastDriveVLA: Efficient End-to-End Driving via Plug-and-Play Reconstruction-based Token Pruning**|Shanghang Zhang Team|[2507.23318](http://arxiv.org/abs/2507.23318)|null|
 |**2025-07-30**|**Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance**|Derek F. Wong Team|[2507.22424](http://arxiv.org/abs/2507.22424)|null|
 |**2025-07-23**|**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**|Jiangmiao Pang Team|[2507.17520](http://arxiv.org/abs/2507.17520)|null|
 |**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Hesheng Wang Team|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
@@ -1850,7 +1850,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 
 ## Humanoid
 
@@ -1983,7 +1983,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 
 ## Dexterous
 
@@ -2087,5 +2087,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250805>back to top</a>)</p>
 

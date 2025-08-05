@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.04
+## Updated on 2025.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -28,7 +28,7 @@ layout: default
 |**2025-07-29**|**Retrieve-Augmented Generation for Speeding up Diffusion Policy without Additional Training**|Yutaka Matsuo Team|[2507.21452](http://arxiv.org/abs/2507.21452)|null|
 |**2025-07-28**|**Fluidically Innervated Lattices Make Versatile and Durable Tactile Sensors**|Daniela Rus Team|[2507.21225](http://arxiv.org/abs/2507.21225)|null|
 |**2025-07-28**|**FMimic: Foundation Models are Fine-grained Action Learners from Human Videos**|Yufeng Yue Team|[2507.20622](http://arxiv.org/abs/2507.20622)|null|
-|**2025-07-28**|**Learning Physical Interaction Skills from Human Demonstrations**|Kwonjoon Lee Team|[2507.20445](http://arxiv.org/abs/2507.20445)|null|
+|**2025-08-03**|**Learning Physical Interaction Skills from Human Demonstrations**|Kwonjoon Lee Team|[2507.20445](http://arxiv.org/abs/2507.20445)|null|
 |**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Hesheng Wang Team|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
 |**2025-07-23**|**Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning**|Byeongjoon Noh Team|[2507.17418](http://arxiv.org/abs/2507.17418)|null|
 |**2025-07-23**|**Confounded Causal Imitation Learning with Instrumental Variables**|Zhi Geng Team|[2507.17309](http://arxiv.org/abs/2507.17309)|null|
@@ -1691,7 +1691,7 @@ layout: default
 |**2025-07-31**|**XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation**|Ning Yang Team|[2508.00097](http://arxiv.org/abs/2508.00097)|**[link](https://github.com/XR-Robotics)**|
 |**2025-07-31**|**villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models**|Jiang Bian Team|[2507.23682](http://arxiv.org/abs/2507.23682)|**[link](https://aka.ms/villa-x)**|
 |**2025-07-31**|**A Unified Perception-Language-Action Framework for Adaptive Autonomous Driving**|Alois Knoll Team|[2507.23540](http://arxiv.org/abs/2507.23540)|null|
-|**2025-07-31**|**FastDriveVLA: Efficient End-to-End Driving via Plug-and-Play Reconstruction-based Token Pruning**|Shanghang Zhang Team|[2507.23318](http://arxiv.org/abs/2507.23318)|null|
+|**2025-08-02**|**FastDriveVLA: Efficient End-to-End Driving via Plug-and-Play Reconstruction-based Token Pruning**|Shanghang Zhang Team|[2507.23318](http://arxiv.org/abs/2507.23318)|null|
 |**2025-07-30**|**Spec-VLA: Speculative Decoding for Vision-Language-Action Models with Relaxed Acceptance**|Derek F. Wong Team|[2507.22424](http://arxiv.org/abs/2507.22424)|null|
 |**2025-07-23**|**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**|Jiangmiao Pang Team|[2507.17520](http://arxiv.org/abs/2507.17520)|null|
 |**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Hesheng Wang Team|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
