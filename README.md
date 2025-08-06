@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-05**|**DiWA: Diffusion Policy Adaptation with World Models**|Abhinav Valada Team|[2508.03645](http://arxiv.org/abs/2508.03645)|null|
+|**2025-08-05**|**ActionSink: Toward Precise Robot Manipulation with Dynamic Integration of Action Flow**|Xiaodan Liang Team|[2508.03218](http://arxiv.org/abs/2508.03218)|null|
+|**2025-08-05**|**Safety-Aware Imitation Learning via MPC-Guided Disturbance Injection**|Somil Bansal Team|[2508.03129](http://arxiv.org/abs/2508.03129)|null|
+|**2025-08-05**|**Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching**|C. Karen Liu Team|[2508.03068](http://arxiv.org/abs/2508.03068)|null|
+|**2025-08-05**|**Aerobatic maneuvers in insect-scale flapping-wing aerial robots via deep-learned robust tube model predictive control**|YuFeng Chen Team|[2508.03043](http://arxiv.org/abs/2508.03043)|null|
+|**2025-08-04**|**Learning User Interaction Forces using Vision for a Soft Finger Exosuit**|Thomas George Thuruthel Team|[2508.02870](http://arxiv.org/abs/2508.02870)|null|
 |**2025-08-04**|**Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks**|Ahmed H. Qureshi Team|[2508.02649](http://arxiv.org/abs/2508.02649)|null|
 |**2025-08-04**|**D2PPO: Diffusion Policy Policy Optimization with Dispersive Loss**|Haitao Wang Team|[2508.02644](http://arxiv.org/abs/2508.02644)|null|
 |**2025-08-04**|**HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents**|Yao Mu Team|[2508.02629](http://arxiv.org/abs/2508.02629)|null|
@@ -660,6 +666,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-05**|**Can Large Vision-Language Models Understand Multimodal Sarcasm?**|Liqiang Jing Team|[2508.03654](http://arxiv.org/abs/2508.03654)|null|
+|**2025-08-05**|**IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models**|Liang Wang Team|[2508.03469](http://arxiv.org/abs/2508.03469)|null|
+|**2025-08-05**|**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**|Zhengtao Zhang Team|[2508.03447](http://arxiv.org/abs/2508.03447)|null|
+|**2025-08-05**|**Visual Document Understanding and Question Answering: A Multi-Agent Collaboration Framework with Test-Time Scaling**|Shuicheng Yan Team|[2508.03404](http://arxiv.org/abs/2508.03404)|null|
+|**2025-08-05**|**VLMQ: Efficient Post-Training Quantization for Large Vision-Language Models via Hessian Augmentation**|Jun Zhang Team|[2508.03351](http://arxiv.org/abs/2508.03351)|null|
+|**2025-08-05**|**CookBench: A Long-Horizon Embodied Planning Benchmark for Complex Cooking Scenarios**|Ting Liu Team|[2508.03232](http://arxiv.org/abs/2508.03232)|null|
+|**2025-08-05**|**GeoShield: Safeguarding Geolocation Privacy from Vision-Language Models via Adversarial Perturbations**|Xiaochun Cao Team|[2508.03209](http://arxiv.org/abs/2508.03209)|null|
+|**2025-08-05**|**SAVER: Mitigating Hallucinations in Large Vision-Language Models via Style-Aware Visual Early Revision**|Xudong Jiang Team|[2508.03177](http://arxiv.org/abs/2508.03177)|null|
+|**2025-08-05**|**ChartCap: Mitigating Hallucination of Dense Chart Captioning**|Gunhee Kim Team|[2508.03164](http://arxiv.org/abs/2508.03164)|null|
+|**2025-08-05**|**UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying**|Shanghang Zhang Team|[2508.03142](http://arxiv.org/abs/2508.03142)|null|
+|**2025-08-05**|**Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation**|Seong-Woo Kim Team|[2508.03138](http://arxiv.org/abs/2508.03138)|null|
+|**2025-08-05**|**Landsat30-AU: A Vision-Language Dataset for Australian Landsat Imagery**|John A Taylor Team|[2508.03127](http://arxiv.org/abs/2508.03127)|null|
+|**2025-08-05**|**Exploring Fairness across Fine-Grained Attributes in Large Vision-Language Models**|Toshihiko Yamasaki Team|[2508.03079](http://arxiv.org/abs/2508.03079)|null|
+|**2025-08-04**|**Following Route Instructions using Large Vision-Language Models: A Comparison between Low-level and Panoramic Action Spaces**|Pierre Lison Team|[2508.02917](http://arxiv.org/abs/2508.02917)|null|
+|**2025-08-04**|**VisuCraft: Enhancing Large Vision-Language Models for Complex Visual-Guided Creative Content Generation via Structured Information Extraction**|Mingrui Yan Team|[2508.02890](http://arxiv.org/abs/2508.02890)|null|
+|**2025-08-04**|**Coherent Multimodal Reasoning with Iterative Self-Evaluation for Vision-Language Models**|Julian Perry Team|[2508.02886](http://arxiv.org/abs/2508.02886)|null|
+|**2025-08-04**|**DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework**|Xin Dong Team|[2508.02807](http://arxiv.org/abs/2508.02807)|null|
 |**2025-08-04**|**Raw Data Matters: Enhancing Prompt Tuning by Internal Augmentation on Vision-Language Models**|Guodong Long Team|[2508.02671](http://arxiv.org/abs/2508.02671)|null|
 |**2025-08-04**|**What Is Your AI Agent Buying? Evaluation, Implications and Emerging Questions for Agentic E-Commerce**|Akshit Kumar Team|[2508.02630](http://arxiv.org/abs/2508.02630)|null|
 |**2025-08-04**|**HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents**|Yao Mu Team|[2508.02629](http://arxiv.org/abs/2508.02629)|null|
@@ -2036,6 +2059,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-05**|**UniFucGrasp: Human-Hand-Inspired Unified Functional Grasp Annotation Strategy and Dataset for Diverse Dexterous Hands**|Yaonan Wang Team|[2508.03339](http://arxiv.org/abs/2508.03339)|**[link](https://haochen611.github.io/UFG)**|
 |**2025-08-03**|**DexReMoE:In-hand Reorientation of General Object via Mixtures of Experts**|Yunlong Dong Team|[2508.01695](http://arxiv.org/abs/2508.01695)|null|
 |**2025-08-01**|**Video Generators are Robot Policies**|Carl Vondrick Team|[2508.00795](http://arxiv.org/abs/2508.00795)|null|
 |**2025-07-31**|**XRoboToolkit: A Cross-Platform Framework for Robot Teleoperation**|Ning Yang Team|[2508.00097](http://arxiv.org/abs/2508.00097)|**[link](https://github.com/XR-Robotics)**|
