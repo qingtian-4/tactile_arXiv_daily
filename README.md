@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-06**|**Optimization of sliding control parameters for a 3-dof robot arm using genetic algorithm (GA)**|Le Tieu Nien Team|[2508.04009](http://arxiv.org/abs/2508.04009)|null|
+|**2025-08-05**|**Constraint-Preserving Data Generation for Visuomotor Policy Learning**|Jeannette Bohg Team|[2508.03944](http://arxiv.org/abs/2508.03944)|**[link](https://cp-gen.github.io)**|
 |**2025-08-05**|**DiWA: Diffusion Policy Adaptation with World Models**|Abhinav Valada Team|[2508.03645](http://arxiv.org/abs/2508.03645)|null|
 |**2025-08-05**|**ActionSink: Toward Precise Robot Manipulation with Dynamic Integration of Action Flow**|Xiaodan Liang Team|[2508.03218](http://arxiv.org/abs/2508.03218)|null|
 |**2025-08-05**|**Safety-Aware Imitation Learning via MPC-Guided Disturbance Injection**|Somil Bansal Team|[2508.03129](http://arxiv.org/abs/2508.03129)|null|
@@ -666,6 +668,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-06**|**SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience**|Jiaqi Wang Team|[2508.04700](http://arxiv.org/abs/2508.04700)|**[link](https://github.com/SunzeY/SEAgent)**|
+|**2025-08-06**|**ANPrompt: Anti-noise Prompt Tuning for Vision-Language Models**|Shengsheng Wang Team|[2508.04677](http://arxiv.org/abs/2508.04677)|null|
+|**2025-08-06**|**EncQA: Benchmarking Vision-Language Models on Visual Encodings for Charts**|Yannick Assogba Team|[2508.04650](http://arxiv.org/abs/2508.04650)|null|
+|**2025-08-06**|**Knowledge to Sight: Reasoning over Visual Attributes via Knowledge Decomposition for Abnormality Grounding**|Julia A. Schnabel Team|[2508.04572](http://arxiv.org/abs/2508.04572)|null|
+|**2025-08-06**|**Do Recommender Systems Really Leverage Multimodal Content? A Comprehensive Analysis on Multimodal Representations for Recommendation**|Tommaso Di Noia Team|[2508.04571](http://arxiv.org/abs/2508.04571)|null|
+|**2025-08-06**|**Analyzing and Mitigating Object Hallucination: A Training Bias Perspective**|Ji-Rong Wen Team|[2508.04567](http://arxiv.org/abs/2508.04567)|null|
+|**2025-08-06**|**FrEVL: Leveraging Frozen Pretrained Embeddings for Efficient Vision-Language Understanding**|Pauline Bourigault Team|[2508.04469](http://arxiv.org/abs/2508.04469)|null|
+|**2025-08-06**|**Boosting Visual Knowledge-Intensive Training for LVLMs Through Causality-Driven Visual Object Completion**|Jinsong Su Team|[2508.04453](http://arxiv.org/abs/2508.04453)|null|
+|**2025-08-06**|**Enhancing Vision-Language Model Training with Reinforcement Learning in Synthetic Worlds for Real-World Success**|Daniil Gavrilov Team|[2508.04280](http://arxiv.org/abs/2508.04280)|null|
+|**2025-08-06**|**Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting**|Yonghong Tian Team|[2508.04227](http://arxiv.org/abs/2508.04227)|null|
+|**2025-08-06**|**AD-FM: Multimodal LLMs for Anomaly Detection via Multi-Stage Reasoning and Fine-Grained Reward Optimization**|Xulei Yang Team|[2508.04175](http://arxiv.org/abs/2508.04175)|null|
+|**2025-08-06**|**CLIPVehicle: A Unified Framework for Vision-based Vehicle Search**|Wei Feng Team|[2508.04120](http://arxiv.org/abs/2508.04120)|null|
+|**2025-08-06**|**NEARL-CLIP: Interacted Query Adaptation with Orthogonal Regularization for Medical Vision-Language Understanding**|Wei Shen Team|[2508.04101](http://arxiv.org/abs/2508.04101)|null|
+|**2025-08-06**|**Model Inversion Attacks on Vision-Language Models: Do They Leak What They Learn?**|Ngai-Man Cheung Team|[2508.04097](http://arxiv.org/abs/2508.04097)|null|
+|**2025-08-06**|**PET2Rep: Towards Vision-Language Model-Drived Automated Radiology Report Generation for Positron Emission Tomography**|Le Xue Team|[2508.04062](http://arxiv.org/abs/2508.04062)|null|
+|**2025-08-06**|**VisualTrans: A Benchmark for Real-World Visual Transformation Reasoning**|Xiaolong Zheng Team|[2508.04043](http://arxiv.org/abs/2508.04043)|null|
+|**2025-08-06**|**Dual Prompt Learning for Adapting Vision-Language Models to Downstream Image-Text Retrieval**|Jiancheng Lv Team|[2508.04028](http://arxiv.org/abs/2508.04028)|null|
+|**2025-08-05**|**RAVID: Retrieval-Augmented Visual Detection: A Knowledge-Driven Approach for AI-Generated Image Identification**|Abdenour Hadid Team|[2508.03967](http://arxiv.org/abs/2508.03967)|null|
 |**2025-08-05**|**Can Large Vision-Language Models Understand Multimodal Sarcasm?**|Liqiang Jing Team|[2508.03654](http://arxiv.org/abs/2508.03654)|null|
 |**2025-08-05**|**IKOD: Mitigating Visual Attention Degradation in Large Vision-Language Models**|Liang Wang Team|[2508.03469](http://arxiv.org/abs/2508.03469)|null|
 |**2025-08-05**|**CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection**|Zhengtao Zhang Team|[2508.03447](http://arxiv.org/abs/2508.03447)|null|
@@ -1762,6 +1782,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-06**|**Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions**|Xiaokang Yang Team|[2508.04681](http://arxiv.org/abs/2508.04681)|**[link](https://liangxuy.github.io/InterVLA/)**|
 |**2025-08-04**|**MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming**|Zhaoxin Fan Team|[2508.02549](http://arxiv.org/abs/2508.02549)|null|
 |**2025-08-04**|**CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning**|Chunhe Xia Team|[2508.02219](http://arxiv.org/abs/2508.02219)|null|
 |**2025-08-04**|**FedVLA: Federated Vision-Language-Action Learning with Dual Gating Mixture-of-Experts for Robotic Manipulation**|Xiaodong Wang Team|[2508.02190](http://arxiv.org/abs/2508.02190)|null|
@@ -1923,6 +1944,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-06**|**Binaural Sound Event Localization and Detection Neural Network based on HRTF Localization Cues for Humanoid Robots**|Gyeong-Tae Lee Team|[2508.04333](http://arxiv.org/abs/2508.04333)|null|
 |**2025-08-04**|**Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Humanoid-Robot Interaction**|Agnieszka Wykowska Team|[2508.02505](http://arxiv.org/abs/2508.02505)|null|
 |**2025-08-04**|**Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis**|Jingya Wang Team|[2508.02106](http://arxiv.org/abs/2508.02106)|null|
 |**2025-08-02**|**Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy**|Yue Gao Team|[2508.01247](http://arxiv.org/abs/2508.01247)|null|
