@@ -1,4 +1,4 @@
-## Updated on 2025.08.06
+## Updated on 2025.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-08-04**|**Learning User Interaction Forces using Vision for a Soft Finger Exosuit**|Thomas George Thuruthel Team|[2508.02870](http://arxiv.org/abs/2508.02870)|null|
 |**2025-08-04**|**Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks**|Ahmed H. Qureshi Team|[2508.02649](http://arxiv.org/abs/2508.02649)|null|
 |**2025-08-04**|**D2PPO: Diffusion Policy Policy Optimization with Dispersive Loss**|Haitao Wang Team|[2508.02644](http://arxiv.org/abs/2508.02644)|null|
-|**2025-08-04**|**HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents**|Yao Mu Team|[2508.02629](http://arxiv.org/abs/2508.02629)|null|
+|**2025-08-06**|**HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents**|Yao Mu Team|[2508.02629](http://arxiv.org/abs/2508.02629)|null|
 |**2025-08-04**|**Vision-based Navigation of Unmanned Aerial Vehicles in Orchards: An Imitation Learning Approach**|Zhaodan Kong Team|[2508.02617](http://arxiv.org/abs/2508.02617)|null|
 |**2025-08-04**|**Periodic robust robotic rock chop via virtual model control**|Fulvio Forni Team|[2508.02604](http://arxiv.org/abs/2508.02604)|null|
 |**2025-08-04**|**Multi-Class Human/Object Detection on Robot Manipulators using Proprioceptive Sensing**|Hans Wernher van de Venn Team|[2508.02425](http://arxiv.org/abs/2508.02425)|null|
@@ -660,7 +660,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250807>back to top</a>)</p>
 
 ## VLM
 
@@ -677,7 +677,7 @@
 |**2025-08-05**|**ChartCap: Mitigating Hallucination of Dense Chart Captioning**|Gunhee Kim Team|[2508.03164](http://arxiv.org/abs/2508.03164)|null|
 |**2025-08-05**|**UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying**|Shanghang Zhang Team|[2508.03142](http://arxiv.org/abs/2508.03142)|null|
 |**2025-08-05**|**Language as Cost: Proactive Hazard Mapping using VLM for Robot Navigation**|Seong-Woo Kim Team|[2508.03138](http://arxiv.org/abs/2508.03138)|null|
-|**2025-08-05**|**Landsat30-AU: A Vision-Language Dataset for Australian Landsat Imagery**|John A Taylor Team|[2508.03127](http://arxiv.org/abs/2508.03127)|null|
+|**2025-08-06**|**Landsat30-AU: A Vision-Language Dataset for Australian Landsat Imagery**|John A Taylor Team|[2508.03127](http://arxiv.org/abs/2508.03127)|null|
 |**2025-08-05**|**Exploring Fairness across Fine-Grained Attributes in Large Vision-Language Models**|Toshihiko Yamasaki Team|[2508.03079](http://arxiv.org/abs/2508.03079)|null|
 |**2025-08-04**|**Following Route Instructions using Large Vision-Language Models: A Comparison between Low-level and Panoramic Action Spaces**|Pierre Lison Team|[2508.02917](http://arxiv.org/abs/2508.02917)|null|
 |**2025-08-04**|**VisuCraft: Enhancing Large Vision-Language Models for Complex Visual-Guided Creative Content Generation via Structured Information Extraction**|Mingrui Yan Team|[2508.02890](http://arxiv.org/abs/2508.02890)|null|
@@ -685,7 +685,7 @@
 |**2025-08-04**|**DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework**|Xin Dong Team|[2508.02807](http://arxiv.org/abs/2508.02807)|null|
 |**2025-08-04**|**Raw Data Matters: Enhancing Prompt Tuning by Internal Augmentation on Vision-Language Models**|Guodong Long Team|[2508.02671](http://arxiv.org/abs/2508.02671)|null|
 |**2025-08-04**|**What Is Your AI Agent Buying? Evaluation, Implications and Emerging Questions for Agentic E-Commerce**|Akshit Kumar Team|[2508.02630](http://arxiv.org/abs/2508.02630)|null|
-|**2025-08-04**|**HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents**|Yao Mu Team|[2508.02629](http://arxiv.org/abs/2508.02629)|null|
+|**2025-08-06**|**HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents**|Yao Mu Team|[2508.02629](http://arxiv.org/abs/2508.02629)|null|
 |**2025-08-04**|**Modality Bias in LVLMs: Analyzing and Mitigating Object Hallucination via Attention Lens**|Zhenguo Zhang Team|[2508.02419](http://arxiv.org/abs/2508.02419)|null|
 |**2025-08-04**|**Improving Generalization of Language-Conditioned Robot Manipulation**|Andrea Cavallaro Team|[2508.02405](http://arxiv.org/abs/2508.02405)|null|
 |**2025-08-04**|**Vision Language Model-based Testing of Industrial Autonomous Mobile Robots**|Thomas Peyrucain Team|[2508.02338](http://arxiv.org/abs/2508.02338)|null|
@@ -1756,7 +1756,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250807>back to top</a>)</p>
 
 ## VLA
 
@@ -1917,7 +1917,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250807>back to top</a>)</p>
 
 ## Humanoid
 
@@ -2053,7 +2053,7 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250807>back to top</a>)</p>
 
 ## Dexterous
 
@@ -2159,5 +2159,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250807>back to top</a>)</p>
 
