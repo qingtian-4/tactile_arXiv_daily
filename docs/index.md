@@ -48,7 +48,7 @@ layout: default
 |**2025-07-29**|**Retrieve-Augmented Generation for Speeding up Diffusion Policy without Additional Training**|Yutaka Matsuo Team|[2507.21452](http://arxiv.org/abs/2507.21452)|null|
 |**2025-07-28**|**Fluidically Innervated Lattices Make Versatile and Durable Tactile Sensors**|Daniela Rus Team|[2507.21225](http://arxiv.org/abs/2507.21225)|null|
 |**2025-07-28**|**FMimic: Foundation Models are Fine-grained Action Learners from Human Videos**|Yufeng Yue Team|[2507.20622](http://arxiv.org/abs/2507.20622)|null|
-|**2025-08-03**|**Learning Physical Interaction Skills from Human Demonstrations**|Kwonjoon Lee Team|[2507.20445](http://arxiv.org/abs/2507.20445)|null|
+|**2025-07-28**|**Learning Physical Interaction Skills from Human Demonstrations**|Kwonjoon Lee Team|[2507.20445](http://arxiv.org/abs/2507.20445)|null|
 |**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Hesheng Wang Team|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
 |**2025-07-23**|**Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning**|Byeongjoon Noh Team|[2507.17418](http://arxiv.org/abs/2507.17418)|null|
 |**2025-07-23**|**Confounded Causal Imitation Learning with Instrumental Variables**|Zhi Geng Team|[2507.17309](http://arxiv.org/abs/2507.17309)|null|
@@ -1728,6 +1728,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-07**|**Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control**|Hamid Reza Karimi Team|[2508.05342](http://arxiv.org/abs/2508.05342)|null|
+|**2025-08-07**|**Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction**|Jorge Peña Queralta Team|[2508.05294](http://arxiv.org/abs/2508.05294)|null|
+|**2025-08-07**|**Learning to See and Act: Task-Aware View Planning for Robotic Manipulation**|Liang Lin Team|[2508.05186](http://arxiv.org/abs/2508.05186)|**[link](https://hcplab-sysu.github.io/TAVP)**|
 |**2025-08-06**|**Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions**|Xiaokang Yang Team|[2508.04681](http://arxiv.org/abs/2508.04681)|**[link](https://liangxuy.github.io/InterVLA/)**|
 |**2025-08-04**|**MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming**|Zhaoxin Fan Team|[2508.02549](http://arxiv.org/abs/2508.02549)|null|
 |**2025-08-04**|**CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning**|Chunhe Xia Team|[2508.02219](http://arxiv.org/abs/2508.02219)|null|
@@ -1888,6 +1891,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-07**|**Examining the legibility of humanoid robot arm movements in a pointing task**|Igor Farkaš Team|[2508.05104](http://arxiv.org/abs/2508.05104)|null|
+|**2025-08-06**|**INTENTION: Inferring Tendencies of Humanoid Robot Motion Through Interactive Intuition and Grounded VLM**|Nikos Tsagarakis Team|[2508.04931](http://arxiv.org/abs/2508.04931)|**[link](https://robo-intention.github.io)**|
+|**2025-08-06**|**On the causality between affective impact and coordinated human-robot reactions**|Kasper Støy Team|[2508.04834](http://arxiv.org/abs/2508.04834)|null|
 |**2025-08-06**|**Binaural Sound Event Localization and Detection Neural Network based on HRTF Localization Cues for Humanoid Robots**|Gyeong-Tae Lee Team|[2508.04333](http://arxiv.org/abs/2508.04333)|null|
 |**2025-08-04**|**Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Humanoid-Robot Interaction**|Agnieszka Wykowska Team|[2508.02505](http://arxiv.org/abs/2508.02505)|null|
 |**2025-08-04**|**Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis**|Jingya Wang Team|[2508.02106](http://arxiv.org/abs/2508.02106)|null|
