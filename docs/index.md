@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.07
+## Updated on 2025.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -660,7 +660,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-08-06**|**SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience**|Jiaqi Wang Team|[2508.04700](http://arxiv.org/abs/2508.04700)|**[link](https://github.com/SunzeY/SEAgent)**|
-|**2025-08-06**|**ANPrompt: Anti-noise Prompt Tuning for Vision-Language Models**|Shengsheng Wang Team|[2508.04677](http://arxiv.org/abs/2508.04677)|null|
+|**2025-08-07**|**ANPrompt: Anti-noise Prompt Tuning for Vision-Language Models**|Shengsheng Wang Team|[2508.04677](http://arxiv.org/abs/2508.04677)|null|
 |**2025-08-06**|**EncQA: Benchmarking Vision-Language Models on Visual Encodings for Charts**|Yannick Assogba Team|[2508.04650](http://arxiv.org/abs/2508.04650)|null|
 |**2025-08-06**|**Knowledge to Sight: Reasoning over Visual Attributes via Knowledge Decomposition for Abnormality Grounding**|Julia A. Schnabel Team|[2508.04572](http://arxiv.org/abs/2508.04572)|null|
 |**2025-08-06**|**Do Recommender Systems Really Leverage Multimodal Content? A Comprehensive Analysis on Multimodal Representations for Recommendation**|Tommaso Di Noia Team|[2508.04571](http://arxiv.org/abs/2508.04571)|null|
