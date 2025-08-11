@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-08**|**Towards Balanced Behavior Cloning from Imbalanced Datasets**|Dylan P. Losey Team|[2508.06319](http://arxiv.org/abs/2508.06319)|null|
+|**2025-08-08**|**Surrogate-Enhanced Modeling and Adaptive Modular Control of All-Electric Heavy-Duty Robotic Manipulators**|Jouni Mattila Team|[2508.06313](http://arxiv.org/abs/2508.06313)|null|
+|**2025-08-08**|**ADPro: a Test-time Adaptive Diffusion Policy for Robot Manipulation via Manifold and Initial Noise Constraints**|Liming Chen Team|[2508.06266](http://arxiv.org/abs/2508.06266)|null|
+|**2025-08-08**|**Incremental Language Understanding for Online Motion Planning of Robot Manipulators**|Matthias Scheutz Team|[2508.06095](http://arxiv.org/abs/2508.06095)|null|
+|**2025-08-08**|**Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning**|Jonghyun Choi Team|[2508.06042](http://arxiv.org/abs/2508.06042)|null|
+|**2025-08-08**|**PASG: A Closed-Loop Framework for Automated Geometric Primitive Extraction and Semantic Anchoring in Robotic Manipulation**|Yao Mu Team|[2508.05976](http://arxiv.org/abs/2508.05976)|null|
 |**2025-08-07**|**Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation**|Guanghui Ren Team|[2508.05635](http://arxiv.org/abs/2508.05635)|**[link](https://genie-envisioner.github.io/)**|
 |**2025-08-07**|**Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty Handling**|Jiachen Li Team|[2508.05634](http://arxiv.org/abs/2508.05634)|**[link](https://gen-safe-nav.github.io/.)**|
 |**2025-08-07**|**Robust adaptive fuzzy sliding mode control for trajectory tracking for of cylindrical manipulator**|Nga Nguyen Thi Team|[2508.05584](http://arxiv.org/abs/2508.05584)|null|
@@ -651,6 +657,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-08**|**Uncertainty-quantified Rollout Policy Adaptation for Unlabelled Cross-domain Temporal Grounding**|Kun Shao Team|[2508.06317](http://arxiv.org/abs/2508.06317)|null|
+|**2025-08-08**|**Real-Time 3D Vision-Language Embedding Mapping**|Elmar Rueckert Team|[2508.06291](http://arxiv.org/abs/2508.06291)|null|
+|**2025-08-08**|**InfoCausalQA:Can Models Perform Non-explicit Causal Reasoning Based on Infographic?**|Youngjae Yu Team|[2508.06220](http://arxiv.org/abs/2508.06220)|null|
+|**2025-08-08**|**VISTAR:A User-Centric and Role-Driven Benchmark for Text-to-Image Evaluation**|ChengSheng Deng Team|[2508.06152](http://arxiv.org/abs/2508.06152)|null|
+|**2025-08-08**|**Q-CLIP: Unleashing the Power of Vision-Language Models for Video Quality Assessment through Unified Cross-Modal Adaptation**|Shaohui Liu Team|[2508.06092](http://arxiv.org/abs/2508.06092)|null|
+|**2025-08-08**|**AdaptInfer: Adaptive Token Pruning for Vision-Language Model Inference with Dynamical Text Guidance**|Yunhao Liu Team|[2508.06084](http://arxiv.org/abs/2508.06084)|null|
+|**2025-08-08**|**Fourier-VLM: Compressing Vision Tokens in the Frequency Domain for Large Vision-Language Models**|Zhouhan Lin Team|[2508.06038](http://arxiv.org/abs/2508.06038)|null|
+|**2025-08-08**|**More Is Better: A MoE-Based Emotion Recognition Framework with Human Preference Alignment**|Zhepeng Wang Team|[2508.06036](http://arxiv.org/abs/2508.06036)|null|
+|**2025-08-08**|**Mediator-Guided Multi-Agent Collaboration among Open-Source Models for Medical Decision-Making**|Xiaosong Wang Team|[2508.05996](http://arxiv.org/abs/2508.05996)|null|
+|**2025-08-08**|**PASG: A Closed-Loop Framework for Automated Geometric Primitive Extraction and Semantic Anchoring in Robotic Manipulation**|Yao Mu Team|[2508.05976](http://arxiv.org/abs/2508.05976)|null|
+|**2025-08-07**|**HOLODECK 2.0: Vision-Language-Guided 3D World Generation with Editing**|Chris Callison-Burch Team|[2508.05899](http://arxiv.org/abs/2508.05899)|null|
+|**2025-08-07**|**ETTA: Efficient Test-Time Adaptation for Vision-Language Models through Dynamic Embedding Updates**|Ali cheraghian Team|[2508.05898](http://arxiv.org/abs/2508.05898)|null|
 |**2025-08-07**|**Follow-Your-Instruction: A Comprehensive MLLM Agent for World Data Synthesis**|Zeyu Wang Team|[2508.05580](http://arxiv.org/abs/2508.05580)|null|
 |**2025-08-07**|**Adapting Vision-Language Models Without Labels: A Comprehensive Survey**|Olga Fink Team|[2508.05547](http://arxiv.org/abs/2508.05547)|**[link](https://github.com/tim-learn/Awesome-LabelFree-VLMs})**|
 |**2025-08-07**|**Explaining Similarity in Vision-Language Encoders with Weighted Banzhaf Interactions**|Przemyslaw Biecek Team|[2508.05430](http://arxiv.org/abs/2508.05430)|null|
