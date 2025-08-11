@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.10
+## Updated on 2025.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
@@ -24,7 +24,7 @@ layout: default
 |**2025-08-05**|**DiWA: Diffusion Policy Adaptation with World Models**|Abhinav Valada Team|[2508.03645](http://arxiv.org/abs/2508.03645)|null|
 |**2025-08-05**|**ActionSink: Toward Precise Robot Manipulation with Dynamic Integration of Action Flow**|Xiaodan Liang Team|[2508.03218](http://arxiv.org/abs/2508.03218)|null|
 |**2025-08-05**|**Safety-Aware Imitation Learning via MPC-Guided Disturbance Injection**|Somil Bansal Team|[2508.03129](http://arxiv.org/abs/2508.03129)|null|
-|**2025-08-05**|**Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching**|C. Karen Liu Team|[2508.03068](http://arxiv.org/abs/2508.03068)|null|
+|**2025-08-07**|**Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching**|C. Karen Liu Team|[2508.03068](http://arxiv.org/abs/2508.03068)|null|
 |**2025-08-05**|**Aerobatic maneuvers in insect-scale flapping-wing aerial robots via deep-learned robust tube model predictive control**|YuFeng Chen Team|[2508.03043](http://arxiv.org/abs/2508.03043)|null|
 |**2025-08-04**|**Learning User Interaction Forces using Vision for a Soft Finger Exosuit**|Thomas George Thuruthel Team|[2508.02870](http://arxiv.org/abs/2508.02870)|null|
 |**2025-08-04**|**Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks**|Ahmed H. Qureshi Team|[2508.02649](http://arxiv.org/abs/2508.02649)|null|
@@ -1895,7 +1895,7 @@ layout: default
 |**2025-08-06**|**INTENTION: Inferring Tendencies of Humanoid Robot Motion Through Interactive Intuition and Grounded VLM**|Nikos Tsagarakis Team|[2508.04931](http://arxiv.org/abs/2508.04931)|**[link](https://robo-intention.github.io)**|
 |**2025-08-06**|**On the causality between affective impact and coordinated human-robot reactions**|Kasper Støy Team|[2508.04834](http://arxiv.org/abs/2508.04834)|null|
 |**2025-08-06**|**Binaural Sound Event Localization and Detection Neural Network based on HRTF Localization Cues for Humanoid Robots**|Gyeong-Tae Lee Team|[2508.04333](http://arxiv.org/abs/2508.04333)|null|
-|**2025-08-04**|**Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Humanoid-Robot Interaction**|Agnieszka Wykowska Team|[2508.02505](http://arxiv.org/abs/2508.02505)|null|
+|**2025-08-08**|**Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative Human-Robot Interaction**|Agnieszka Wykowska Team|[2508.02505](http://arxiv.org/abs/2508.02505)|null|
 |**2025-08-04**|**Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis**|Jingya Wang Team|[2508.02106](http://arxiv.org/abs/2508.02106)|null|
 |**2025-08-02**|**Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy**|Yue Gao Team|[2508.01247](http://arxiv.org/abs/2508.01247)|null|
 |**2025-08-01**|**A Whole-Body Motion Imitation Framework from Human Data for Full-Size Humanoid Robot**|Rong Xiong Team|[2508.00362](http://arxiv.org/abs/2508.00362)|null|
