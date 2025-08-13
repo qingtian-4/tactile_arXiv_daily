@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-12**|**GeoVLA: Empowering 3D Representations in Vision-Language-Action Models**|Jiale Cao Team|[2508.09071](http://arxiv.org/abs/2508.09071)|**[link](https://linsun449.github.io/GeoVLA/)**|
+|**2025-08-12**|**Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion**|Sehoon Ha Team|[2508.08982](http://arxiv.org/abs/2508.08982)|null|
+|**2025-08-12**|**Reducing Cognitive Load in Multi-Agent Reinforcement Learning for Mathematical Problem Solving: Decoupling Reasoning and Code Generation**|Yang Li Team|[2508.08882](http://arxiv.org/abs/2508.08882)|null|
+|**2025-08-12**|**Visual Prompting for Robotic Manipulation with Annotation-Guided Pick-and-Place Using ACT**|Yukiyasu Domae Team|[2508.08748](http://arxiv.org/abs/2508.08748)|null|
+|**2025-08-12**|**Towards Safe Imitation Learning via Potential Field-Guided Flow Matching**|Yoshihiko Nakamura Team|[2508.08707](http://arxiv.org/abs/2508.08707)|null|
+|**2025-08-12**|**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**|Hengdi Zhang Team|[2508.08706](http://arxiv.org/abs/2508.08706)|null|
 |**2025-08-11**|**ReconDreamer-RL: Enhancing Reinforcement Learning via Diffusion-based Scene Reconstruction**|Wenjun Mei Team|[2508.08170](http://arxiv.org/abs/2508.08170)|null|
 |**2025-08-11**|**AimBot: A Simple Auxiliary Visual Cue to Enhance Spatial Awareness of Visuomotor Policies**|Joyce Chai Team|[2508.08113](http://arxiv.org/abs/2508.08113)|null|
 |**2025-08-11**|**AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation**|Lei Han Team|[2508.07770](http://arxiv.org/abs/2508.07770)|null|
@@ -677,6 +683,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-12**|**OpenCUA: Open Foundations for Computer-Use Agents**|Tao Yu Team|[2508.09123](http://arxiv.org/abs/2508.09123)|null|
+|**2025-08-12**|**Bridging Formal Language with Chain-of-Thought Reasoning to Geometry Problem Solving**|Tian Ding Team|[2508.09099](http://arxiv.org/abs/2508.09099)|null|
+|**2025-08-12**|**Addressing Bias in VLMs for Glaucoma Detection Without Protected Attribute Supervision**|Prashnna Gyawali Team|[2508.09087](http://arxiv.org/abs/2508.09087)|null|
+|**2025-08-12**|**GeoVLA: Empowering 3D Representations in Vision-Language-Action Models**|Jiale Cao Team|[2508.09071](http://arxiv.org/abs/2508.09071)|**[link](https://linsun449.github.io/GeoVLA/)**|
+|**2025-08-12**|**VLM-3D:End-to-End Vision-Language Models for Open-World 3D Perception**|Lei He Team|[2508.09061](http://arxiv.org/abs/2508.09061)|null|
+|**2025-08-12**|**MVISU-Bench: Benchmarking Mobile Agents for Real-World Tasks by Multi-App, Vague, Interactive, Single-App and Unethical Instructions**|Jin Xu Team|[2508.09057](http://arxiv.org/abs/2508.09057)|null|
+|**2025-08-12**|**Rational Inverse Reasoning**|Leslie Pack Kaelbling Team|[2508.08983](http://arxiv.org/abs/2508.08983)|null|
+|**2025-08-12**|**How Does a Virtual Agent Decide Where to Look? - Symbolic Cognitive Reasoning for Embodied Head Rotation**|Hyeongyeop Kang Team|[2508.08930](http://arxiv.org/abs/2508.08930)|null|
+|**2025-08-12**|**Safe Semantics, Unsafe Interpretations: Tackling Implicit Reasoning Safety in Large Vision-Language Models**|Xuelong Li Team|[2508.08926](http://arxiv.org/abs/2508.08926)|null|
+|**2025-08-12**|**3DFroMLLM: 3D Prototype Generation only from Pretrained Multimodal LLMs**|Eddy Ilg Team|[2508.08821](http://arxiv.org/abs/2508.08821)|null|
+|**2025-08-12**|**SafeFix: Targeted Model Repair via Controlled Image Generation**|Yunhui Guo Team|[2508.08701](http://arxiv.org/abs/2508.08701)|null|
+|**2025-08-12**|**STELAR-VISION: Self-Topology-Aware Efficient Learning for Aligned Reasoning in Vision**|Marios Savvides Team|[2508.08688](http://arxiv.org/abs/2508.08688)|null|
+|**2025-08-12**|**AME: Aligned Manifold Entropy for Robust Vision-Language Distillation**|Yuming Ou Team|[2508.08644](http://arxiv.org/abs/2508.08644)|null|
+|**2025-08-12**|**Transferable Model-agnostic Vision-Language Model Adaptation for Efficient Weak-to-Strong Generalization**|Hyunwoo J. Kim Team|[2508.08604](http://arxiv.org/abs/2508.08604)|null|
+|**2025-08-12**|**Superclass-Guided Representation Disentanglement for Spurious Correlation Mitigation**|Qi Lei Team|[2508.08570](http://arxiv.org/abs/2508.08570)|null|
+|**2025-08-11**|**VISOR: Visual Input-based Steering for Output Redirection in Vision-Language Models**|Ravikumar Balakrishnan Team|[2508.08521](http://arxiv.org/abs/2508.08521)|null|
+|**2025-08-11**|**Re:Verse -- Can Your VLM Read a Manga?**|Shruti Vyas Team|[2508.08508](http://arxiv.org/abs/2508.08508)|null|
 |**2025-08-11**|**ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks**|Chunhua Shen Team|[2508.08240](http://arxiv.org/abs/2508.08240)|null|
 |**2025-08-11**|**Spatial-ORMLLM: Improve Spatial Relation Understanding in the Operating Room with Multimodal Large Language Model**|Shaoliang Peng Team|[2508.08199](http://arxiv.org/abs/2508.08199)|null|
 |**2025-08-11**|**BadPromptFL: A Novel Backdoor Threat to Prompt-based Federated Learning in Multimodal Models**|Bo Wang Team|[2508.08040](http://arxiv.org/abs/2508.08040)|null|
@@ -1788,6 +1811,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-12**|**GeoVLA: Empowering 3D Representations in Vision-Language-Action Models**|Jiale Cao Team|[2508.09071](http://arxiv.org/abs/2508.09071)|**[link](https://linsun449.github.io/GeoVLA/)**|
+|**2025-08-12**|**Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding**|Aleksandr I. Panov Team|[2508.09032](http://arxiv.org/abs/2508.09032)|null|
+|**2025-08-12**|**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**|Hengdi Zhang Team|[2508.08706](http://arxiv.org/abs/2508.08706)|null|
 |**2025-08-11**|**Reinforcement Learning in Vision: A Survey**|Mike Zheng Shou Team|[2508.08189](http://arxiv.org/abs/2508.08189)|null|
 |**2025-08-11**|**MolmoAct: Action Reasoning Models that can Reason in Space**|Ranjay Krishna Team|[2508.07917](http://arxiv.org/abs/2508.07917)|**[link](https://allenai.org/blog/molmoact)**|
 |**2025-08-11**|**AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation**|Lei Han Team|[2508.07770](http://arxiv.org/abs/2508.07770)|null|
@@ -2103,6 +2129,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-12**|**Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors**|Hua Zou Team|[2508.08896](http://arxiv.org/abs/2508.08896)|null|
+|**2025-08-12**|**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**|Hengdi Zhang Team|[2508.08706](http://arxiv.org/abs/2508.08706)|null|
 |**2025-08-11**|**PCHands: PCA-based Hand Pose Synergy Representation on Manipulators with N-DoF**|Lorenzo Natale Team|[2508.07945](http://arxiv.org/abs/2508.07945)|null|
 |**2025-08-09**|**DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit**|Monroe Kennedy III Team|[2508.07118](http://arxiv.org/abs/2508.07118)|null|
 |**2025-08-05**|**UniFucGrasp: Human-Hand-Inspired Unified Functional Grasp Annotation Strategy and Dataset for Diverse Dexterous Hands**|Yaonan Wang Team|[2508.03339](http://arxiv.org/abs/2508.03339)|**[link](https://haochen611.github.io/UFG)**|
