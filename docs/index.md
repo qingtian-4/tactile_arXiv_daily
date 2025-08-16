@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection**|Lorenzo Natale Team|[2508.10511](http://arxiv.org/abs/2508.10511)|null|
+|**2025-08-14**|**Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning**|Ping Kuang Team|[2508.10399](http://arxiv.org/abs/2508.10399)|null|
+|**2025-08-14**|**Leveraging OS-Level Primitives for Robotic Action Management**|Haibo Chen Team|[2508.10259](http://arxiv.org/abs/2508.10259)|null|
+|**2025-08-13**|**Masquerade: Learning from In-the-wild Human Videos using Data-Editing**|Jeannette Bohg Team|[2508.09976](http://arxiv.org/abs/2508.09976)|**[link](https://masquerade-robot.github.io/)**|
+|**2025-08-13**|**Toward Human-Robot Teaming: Learning Handover Behaviors from 3D Scenes**|Changjae Oh Team|[2508.09855](http://arxiv.org/abs/2508.09855)|null|
+|**2025-08-13**|**Physical Autoregressive Model for Robotic Manipulation without Action Pretraining**|Guangrun Wang Team|[2508.09822](http://arxiv.org/abs/2508.09822)|null|
+|**2025-08-13**|**Immersive Teleoperation of Beyond-Human-Scale Robotic Manipulators: Challenges and Future Directions**|Jouni Mattila Team|[2508.09700](http://arxiv.org/abs/2508.09700)|null|
+|**2025-08-13**|**CaRoBio: 3D Cable Routing with a Bio-inspired Gripper Fingernail**|Fumin Zhang Team|[2508.09558](http://arxiv.org/abs/2508.09558)|null|
+|**2025-08-13**|**Reactive Model Predictive Contouring Control for Robot Manipulators**|Jaeheung Park Team|[2508.09502](http://arxiv.org/abs/2508.09502)|null|
+|**2025-08-13**|**DAgger Diffusion Navigation: DAgger Boosted Diffusion Policy for Vision-Language Navigation**|Liqiang Nie Team|[2508.09444](http://arxiv.org/abs/2508.09444)|null|
 |**2025-08-13**|**GeoVLA: Empowering 3D Representations in Vision-Language-Action Models**|Jiale Cao Team|[2508.09071](http://arxiv.org/abs/2508.09071)|**[link](https://linsun449.github.io/GeoVLA/)**|
 |**2025-08-12**|**Unsupervised Skill Discovery as Exploration for Learning Agile Locomotion**|Sehoon Ha Team|[2508.08982](http://arxiv.org/abs/2508.08982)|null|
 |**2025-08-12**|**Reducing Cognitive Load in Multi-Agent Reinforcement Learning for Mathematical Problem Solving: Decoupling Reasoning and Code Generation**|Yang Li Team|[2508.08882](http://arxiv.org/abs/2508.08882)|null|
@@ -674,6 +684,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences**|Joey Tianyi Zhou Team|[2508.10771](http://arxiv.org/abs/2508.10771)|null|
+|**2025-08-14**|**From Diagnosis to Improvement: Probing Spatio-Physical Reasoning in Vision Language Models**|Wenqi Shao Team|[2508.10770](http://arxiv.org/abs/2508.10770)|null|
+|**2025-08-14**|**IADGPT: Unified LVLM for Few-Shot Industrial Anomaly Detection, Localization, and Reasoning via In-Context Learning**|Bin Li Team|[2508.10681](http://arxiv.org/abs/2508.10681)|null|
+|**2025-08-14**|**AddressVLM: Cross-view Alignment Tuning for Image Address Localization using Large Vision-Language Models**|Jieping Ye Team|[2508.10667](http://arxiv.org/abs/2508.10667)|null|
+|**2025-08-14**|**SemPT: Semantic Prompt Tuning for Vision-Language Models**|Zhenzhong Chen Team|[2508.10645](http://arxiv.org/abs/2508.10645)|null|
+|**2025-08-14**|**ChatENV: An Interactive Vision-Language Model for Sensor-Guided Environmental Monitoring and Scenario Simulation**|Mohsen Guizani Team|[2508.10635](http://arxiv.org/abs/2508.10635)|null|
+|**2025-08-14**|**Retrieval-Augmented Prompt for OOD Detection**|Changqing Zhang Team|[2508.10556](http://arxiv.org/abs/2508.10556)|null|
+|**2025-08-14**|**DiFaR: Enhancing Multimodal Misinformation Detection with Diverse, Factual, and Relevant Rationales**|Zhi Zeng Team|[2508.10444](http://arxiv.org/abs/2508.10444)|null|
+|**2025-08-14**|**MM-Food-100K: A 100,000-Sample Multimodal Food Intelligence Dataset with Verifiable Provenance**|Yi Zhang Team|[2508.10429](http://arxiv.org/abs/2508.10429)|**[link](https://huggingface.co/datasets/Codatta/MM-Food-100K)**|
+|**2025-08-14**|**STRIDE-QA: Visual Question Answering Dataset for Spatiotemporal Reasoning in Urban Driving Scenes**|Yu Yamaguchi Team|[2508.10427](http://arxiv.org/abs/2508.10427)|**[link](https://turingmotors.github.io/stride-qa/)**|
+|**2025-08-14**|**PQ-DAF: Pose-driven Quality-controlled Data Augmentation for Data-scarce Driver Distraction Detection**|Xinghui Song Team|[2508.10397](http://arxiv.org/abs/2508.10397)|null|
+|**2025-08-14**|**Contrast Sensitivity Function of Multimodal Vision-Language Models**|Valero Laparra Team|[2508.10367](http://arxiv.org/abs/2508.10367)|null|
+|**2025-08-14**|**JRDB-Reasoning: A Difficulty-Graded Benchmark for Visual Reasoning in Robotics**|Hamid Rezatofighi Team|[2508.10287](http://arxiv.org/abs/2508.10287)|null|
+|**2025-08-14**|**MRFD: Multi-Region Fusion Decoding with Self-Consistency for Mitigating Hallucinations in LVLMs**|Yujun Cai Team|[2508.10264](http://arxiv.org/abs/2508.10264)|null|
+|**2025-08-13**|**Efficient Forward-Only Data Valuation for Pretrained LLMs and VLMs**|Xiaoxiao Li Team|[2508.10180](http://arxiv.org/abs/2508.10180)|null|
+|**2025-08-13**|**SynSpill: Improved Industrial Spill Detection With Synthetic Data**|Shruti Vyas Team|[2508.10171](http://arxiv.org/abs/2508.10171)|null|
+|**2025-08-13**|**Interpretable Oracle Bone Script Decipherment through Radical and Pictographic Analysis with LVLMs**|Bin Li Team|[2508.10113](http://arxiv.org/abs/2508.10113)|null|
+|**2025-08-13**|**LLMC+: Benchmarking Vision-Language Model Compression with a Plug-and-play Toolkit**|Wenya Wang Team|[2508.09981](http://arxiv.org/abs/2508.09981)|null|
+|**2025-08-13**|**January Food Benchmark (JFB): A Public Benchmark Dataset and Evaluation Suite for Multimodal Food Analysis**|Mark Woodward Team|[2508.09966](http://arxiv.org/abs/2508.09966)|null|
+|**2025-08-13**|**Prototype-Guided Diffusion: Visual Conditioning without External Memory**|Mustapha Lebbah Team|[2508.09922](http://arxiv.org/abs/2508.09922)|null|
 |**2025-08-12**|**OpenCUA: Open Foundations for Computer-Use Agents**|Tao Yu Team|[2508.09123](http://arxiv.org/abs/2508.09123)|null|
 |**2025-08-12**|**Bridging Formal Language with Chain-of-Thought Reasoning to Geometry Problem Solving**|Tian Ding Team|[2508.09099](http://arxiv.org/abs/2508.09099)|null|
 |**2025-08-12**|**Addressing Bias in VLMs for Glaucoma Detection Without Protected Attribute Supervision**|Prashnna Gyawali Team|[2508.09087](http://arxiv.org/abs/2508.09087)|null|
@@ -1800,10 +1830,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model**|Hao Dong Team|[2508.10416](http://arxiv.org/abs/2508.10416)|null|
+|**2025-08-14**|**Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning**|Ping Kuang Team|[2508.10399](http://arxiv.org/abs/2508.10399)|null|
+|**2025-08-14**|**ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver**|Haoang Li Team|[2508.10333](http://arxiv.org/abs/2508.10333)|null|
 |**2025-08-13**|**GeoVLA: Empowering 3D Representations in Vision-Language-Action Models**|Jiale Cao Team|[2508.09071](http://arxiv.org/abs/2508.09071)|**[link](https://linsun449.github.io/GeoVLA/)**|
 |**2025-08-12**|**Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding**|Aleksandr I. Panov Team|[2508.09032](http://arxiv.org/abs/2508.09032)|null|
 |**2025-08-12**|**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**|Hengdi Zhang Team|[2508.08706](http://arxiv.org/abs/2508.08706)|null|
-|**2025-08-11**|**Reinforcement Learning in Vision: A Survey**|Mike Zheng Shou Team|[2508.08189](http://arxiv.org/abs/2508.08189)|null|
+|**2025-08-14**|**Reinforcement Learning in Vision: A Survey**|Mike Zheng Shou Team|[2508.08189](http://arxiv.org/abs/2508.08189)|null|
 |**2025-08-12**|**MolmoAct: Action Reasoning Models that can Reason in Space**|Ranjay Krishna Team|[2508.07917](http://arxiv.org/abs/2508.07917)|**[link](https://allenai.org/blog/molmoact)**|
 |**2025-08-13**|**AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation**|Lei Han Team|[2508.07770](http://arxiv.org/abs/2508.07770)|null|
 |**2025-08-11**|**GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions**|Hong Zhang Team|[2508.07650](http://arxiv.org/abs/2508.07650)|null|
@@ -1811,7 +1844,7 @@ layout: default
 |**2025-08-06**|**Static and Plugged: Make Embodied Evaluation Simple**|Guangtao Zhai Team|[2508.06553](http://arxiv.org/abs/2508.06553)|null|
 |**2025-08-06**|**A tutorial note on collecting simulated data for vision-language-action models**|Jingfeng Zhang Team|[2508.06547](http://arxiv.org/abs/2508.06547)|null|
 |**2025-08-07**|**Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control**|Hamid Reza Karimi Team|[2508.05342](http://arxiv.org/abs/2508.05342)|null|
-|**2025-08-07**|**Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction**|Jorge Peña Queralta Team|[2508.05294](http://arxiv.org/abs/2508.05294)|null|
+|**2025-08-14**|**Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction**|Jorge Peña Queralta Team|[2508.05294](http://arxiv.org/abs/2508.05294)|null|
 |**2025-08-07**|**Learning to See and Act: Task-Aware View Planning for Robotic Manipulation**|Liang Lin Team|[2508.05186](http://arxiv.org/abs/2508.05186)|**[link](https://hcplab-sysu.github.io/TAVP)**|
 |**2025-08-06**|**Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions**|Xiaokang Yang Team|[2508.04681](http://arxiv.org/abs/2508.04681)|**[link](https://liangxuy.github.io/InterVLA/)**|
 |**2025-08-04**|**MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming**|Zhaoxin Fan Team|[2508.02549](http://arxiv.org/abs/2508.02549)|null|
@@ -1973,6 +2006,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-14**|**MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion**|Yanjie Li Team|[2508.10423](http://arxiv.org/abs/2508.10423)|null|
+|**2025-08-13**|**GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation**|Jun-Guo Lu Team|[2508.09960](http://arxiv.org/abs/2508.09960)|null|
 |**2025-08-11**|**PCHands: PCA-based Hand Pose Synergy Representation on Manipulators with N-DoF**|Lorenzo Natale Team|[2508.07945](http://arxiv.org/abs/2508.07945)|null|
 |**2025-08-11**|**End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy**|Junwei Liang Team|[2508.07611](http://arxiv.org/abs/2508.07611)|null|
 |**2025-08-09**|**Learning a Vision-Based Footstep Planner for Hierarchical Walking Control**|Michael Posa Team|[2508.06779](http://arxiv.org/abs/2508.06779)|null|
