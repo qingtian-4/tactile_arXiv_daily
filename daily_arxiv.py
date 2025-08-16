@@ -438,12 +438,12 @@ if __name__ == "__main__":
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
 
-    # try:
-    #     subprocess.run(["git", "add", "."], check=True)
-    #     subprocess.run(["git", "commit", "-m", "commit"], check=True)
-    #     subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
-    #     print("Git commands executed successfully.")
-    # except subprocess.CalledProcessError as e:
-    #     pass
+    try:
+        subprocess.run(["git", "add", "."], check=True)
+        subprocess.run(["git", "commit", "-m", "commit"], check=True)
+        subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
+        print("Git commands executed successfully.")
+    except subprocess.CalledProcessError as e:
+        pass
 
     
