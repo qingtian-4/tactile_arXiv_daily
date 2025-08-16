@@ -127,47 +127,40 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]    
         paper_url = arxiv_url + 'abs/' + paper_key
         
-        try:
-            resp = requests.get(code_url)
-            if resp.status_code == 200 and 'application/json' in resp.headers.get('Content-Type', ''):
-                r = resp.json()
-                repo_url = None
-                if "official" in r and r["official"]:
-                    repo_url = r["official"]["url"]
-            else:
-                repo_url = None
-            
-            if not repo_url and comments:
-                # 用正则提取 http/https 链接
-                urls = re.findall(r'(https?://[^\s,;]+)', comments)
-                if urls:
-                    repo_url = urls[0]  # 取第一个链接
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_last_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_last_author,paper_url,paper_url,repo_url,repo_url)
+        # 初始化 repo_url 为 None
+        repo_url = None
+        
+        # 直接从 comments 中提取代码链接
+        if comments:
+            # 用正则提取 http/https 链接
+            urls = re.findall(r'(https?://[^\s,;]+)', comments)
+            if urls:
+                repo_url = urls[0]  # 取第一个链接
+        
+        # TODO: not found, two more chances  
+        # if not repo_url:
+        #    repo_url = get_code_link(paper_title)
+        #    if repo_url is None:
+        #        repo_url = get_code_link(paper_key)
+        
+        # 根据是否有代码链接来生成 content
+        if repo_url is not None:
+            content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|**[link]({})**|\n".format(
+                   update_time,paper_title,paper_last_author,paper_key,paper_url,repo_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({}), Code: **[{}]({})**".format(
+                   update_time,paper_title,paper_last_author,paper_url,paper_url,repo_url,repo_url)
+        else:
+            content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|null|\n".format(
+                   update_time,paper_title,paper_last_author,paper_key,paper_url)
+            content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({})".format(
+                   update_time,paper_title,paper_last_author,paper_url,paper_url)
 
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_last_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({})".format(
-                       update_time,paper_title,paper_last_author,paper_url,paper_url)
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
-
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+        # TODO: select useful comments
+        comments = None
+        if comments != None:
+            content_to_web[paper_key] += f", {comments}\n"
+        else:
+            content_to_web[paper_key] += f"\n"
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -210,19 +203,9 @@ def update_paper_links(filename):
                 valid_link = False if '|null|' in contents else True
                 if valid_link:
                     continue
-                try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
-                    repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
-
-                except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
+                # 直接从 comments 中提取代码链接（如果有的话）
+                # 这里暂时保持原有的 null 状态，因为 update_paper_links 主要用于更新已有数据
+                # 如果需要从其他地方获取代码链接，可以在这里添加逻辑
         # dump to json file
         with open(filename,"w") as f:
             json.dump(json_data,f)
@@ -455,12 +438,12 @@ if __name__ == "__main__":
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
 
-    try:
-        subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", "commit"], check=True)
-        subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
-        print("Git commands executed successfully.")
-    except subprocess.CalledProcessError as e:
-        pass
+    # try:
+    #     subprocess.run(["git", "add", "."], check=True)
+    #     subprocess.run(["git", "commit", "-m", "commit"], check=True)
+    #     subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
+    #     print("Git commands executed successfully.")
+    # except subprocess.CalledProcessError as e:
+    #     pass
 
     
