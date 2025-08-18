@@ -1,4 +1,4 @@
-## Updated on 2025.08.17
+## Updated on 2025.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-14**|**KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection**|Lorenzo Natale Team|[2508.10511](http://arxiv.org/abs/2508.10511)|null|
+|**2025-08-15**|**KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection**|Lorenzo Natale Team|[2508.10511](http://arxiv.org/abs/2508.10511)|null|
 |**2025-08-14**|**Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning**|Ping Kuang Team|[2508.10399](http://arxiv.org/abs/2508.10399)|null|
 |**2025-08-14**|**Leveraging OS-Level Primitives for Robotic Action Management**|Haibo Chen Team|[2508.10259](http://arxiv.org/abs/2508.10259)|null|
 |**2025-08-13**|**Masquerade: Learning from In-the-wild Human Videos using Data-Editing**|Jeannette Bohg Team|[2508.09976](http://arxiv.org/abs/2508.09976)|**[link](https://masquerade-robot.github.io/)**|
@@ -687,7 +687,7 @@
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yue Wang Team|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-30**|**Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking**|Florian T. Pokorny Team|[2503.23571](http://arxiv.org/abs/2503.23571)|null|
 
-<p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 ## VLM
 
@@ -712,7 +712,7 @@
 |**2025-08-13**|**Interpretable Oracle Bone Script Decipherment through Radical and Pictographic Analysis with LVLMs**|Bin Li Team|[2508.10113](http://arxiv.org/abs/2508.10113)|null|
 |**2025-08-13**|**LLMC+: Benchmarking Vision-Language Model Compression with a Plug-and-play Toolkit**|Wenya Wang Team|[2508.09981](http://arxiv.org/abs/2508.09981)|null|
 |**2025-08-13**|**January Food Benchmark (JFB): A Public Benchmark Dataset and Evaluation Suite for Multimodal Food Analysis**|Mark Woodward Team|[2508.09966](http://arxiv.org/abs/2508.09966)|null|
-|**2025-08-13**|**Prototype-Guided Diffusion: Visual Conditioning without External Memory**|Mustapha Lebbah Team|[2508.09922](http://arxiv.org/abs/2508.09922)|null|
+|**2025-08-14**|**Prototype-Guided Diffusion: Visual Conditioning without External Memory**|Mustapha Lebbah Team|[2508.09922](http://arxiv.org/abs/2508.09922)|null|
 |**2025-08-12**|**OpenCUA: Open Foundations for Computer-Use Agents**|Tao Yu Team|[2508.09123](http://arxiv.org/abs/2508.09123)|null|
 |**2025-08-12**|**Bridging Formal Language with Chain-of-Thought Reasoning to Geometry Problem Solving**|Tian Ding Team|[2508.09099](http://arxiv.org/abs/2508.09099)|null|
 |**2025-08-12**|**Addressing Bias in VLMs for Glaucoma Detection Without Protected Attribute Supervision**|Prashnna Gyawali Team|[2508.09087](http://arxiv.org/abs/2508.09087)|null|
@@ -1835,7 +1835,7 @@
 |**2025-04-02**|**BioAtt: Anatomical Prior Driven Low-Dose CT Denoising**|UiHyun Cho Team|[2504.01662](http://arxiv.org/abs/2504.01662)|null|
 |**2025-04-02**|**Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language Models**|Ming-Hsuan Yang Team|[2504.01589](http://arxiv.org/abs/2504.01589)|null|
 
-<p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 ## VLA
 
@@ -1851,7 +1851,7 @@
 |**2025-08-12**|**MolmoAct: Action Reasoning Models that can Reason in Space**|Ranjay Krishna Team|[2508.07917](http://arxiv.org/abs/2508.07917)|**[link](https://allenai.org/blog/molmoact)**|
 |**2025-08-13**|**AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation**|Lei Han Team|[2508.07770](http://arxiv.org/abs/2508.07770)|null|
 |**2025-08-11**|**GraphCoT-VLA: A 3D Spatial-Aware Reasoning Vision-Language-Action Model for Robotic Manipulation with Ambiguous Instructions**|Hong Zhang Team|[2508.07650](http://arxiv.org/abs/2508.07650)|null|
-|**2025-08-12**|**IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model**|Li Sun Team|[2508.06571](http://arxiv.org/abs/2508.06571)|null|
+|**2025-08-15**|**IRL-VLA: Training an Vision-Language-Action Policy via Reward World Model**|Li Sun Team|[2508.06571](http://arxiv.org/abs/2508.06571)|null|
 |**2025-08-06**|**Static and Plugged: Make Embodied Evaluation Simple**|Guangtao Zhai Team|[2508.06553](http://arxiv.org/abs/2508.06553)|null|
 |**2025-08-06**|**A tutorial note on collecting simulated data for vision-language-action models**|Jingfeng Zhang Team|[2508.06547](http://arxiv.org/abs/2508.06547)|null|
 |**2025-08-07**|**Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control**|Hamid Reza Karimi Team|[2508.05342](http://arxiv.org/abs/2508.05342)|null|
@@ -2013,7 +2013,7 @@
 |**2025-03-04**|**Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding**|Haoang Li Team|[2503.02310](http://arxiv.org/abs/2503.02310)|null|
 |**2025-03-03**|**CognitiveDrone: A VLA Model and Evaluation Benchmark for Real-Time Cognitive Task Solving and Reasoning in UAVs**|Dzmitry Tsetserukou Team|[2503.01378](http://arxiv.org/abs/2503.01378)|null|
 
-<p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 ## Humanoid
 
@@ -2158,13 +2158,13 @@
 |**2025-03-13**|**HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots**|Renjing Xu Team|[2503.09010](http://arxiv.org/abs/2503.09010)|null|
 |**2025-03-11**|**LiPS: Large-Scale Humanoid Robot Reinforcement Learning with Parallel-Series Structures**|Renjing Xu Team|[2503.08349](http://arxiv.org/abs/2503.08349)|null|
 
-<p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
 ## Dexterous
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-13**|**Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors**|Hua Zou Team|[2508.08896](http://arxiv.org/abs/2508.08896)|null|
+|**2025-08-15**|**Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors**|Hua Zou Team|[2508.08896](http://arxiv.org/abs/2508.08896)|null|
 |**2025-08-12**|**OmniVTLA: Vision-Tactile-Language-Action Model with Semantic-Aligned Tactile Sensing**|Hengdi Zhang Team|[2508.08706](http://arxiv.org/abs/2508.08706)|null|
 |**2025-08-11**|**PCHands: PCA-based Hand Pose Synergy Representation on Manipulators with N-DoF**|Lorenzo Natale Team|[2508.07945](http://arxiv.org/abs/2508.07945)|null|
 |**2025-08-09**|**DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit**|Monroe Kennedy III Team|[2508.07118](http://arxiv.org/abs/2508.07118)|null|
@@ -2268,5 +2268,5 @@
 |**2025-02-28**|**ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration**|Feifei Feng Team|[2502.19250](http://arxiv.org/abs/2502.19250)|null|
 |**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Yuanpei Chen Team|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 
-<p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250818>back to top</a>)</p>
 
