@@ -16,6 +16,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-15**|**MultiPark: Multimodal Parking Transformer with Next-Segment Prediction**|Tong Qin Team|[2508.11537](http://arxiv.org/abs/2508.11537)|null|
+|**2025-08-15**|**Learning Differentiable Reachability Maps for Optimization-based Humanoid Motion Generation**|Fumio Kanehiro Team|[2508.11275](http://arxiv.org/abs/2508.11275)|null|
+|**2025-08-15**|**Multi-Group Equivariant Augmentation for Reinforcement Learning in Robot Manipulation**|Kwok Wai Samuel Au Team|[2508.11204](http://arxiv.org/abs/2508.11204)|null|
+|**2025-08-15**|**Actor-Critic for Continuous Action Chunks: A Reinforcement Learning Framework for Long-Horizon Robotic Manipulation with Sparse Reward**|Yu-Gang Jiang Team|[2508.11143](http://arxiv.org/abs/2508.11143)|null|
+|**2025-08-14**|**Robot Policy Evaluation for Sim-to-Real Transfer: A Benchmarking Perspective**|Fabio Ramos Team|[2508.11117](http://arxiv.org/abs/2508.11117)|null|
+|**2025-08-14**|**GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning**|Ruohan Gao Team|[2508.11049](http://arxiv.org/abs/2508.11049)|null|
+|**2025-08-14**|**3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation**|Katerina Fragkiadaki Team|[2508.11002](http://arxiv.org/abs/2508.11002)|null|
 |**2025-08-15**|**KDPE: A Kernel Density Estimation Strategy for Diffusion Policy Trajectory Selection**|Lorenzo Natale Team|[2508.10511](http://arxiv.org/abs/2508.10511)|null|
 |**2025-08-14**|**Large Model Empowered Embodied AI: A Survey on Decision-Making and Embodied Learning**|Ping Kuang Team|[2508.10399](http://arxiv.org/abs/2508.10399)|null|
 |**2025-08-14**|**Leveraging OS-Level Primitives for Robotic Action Management**|Haibo Chen Team|[2508.10259](http://arxiv.org/abs/2508.10259)|null|
@@ -693,6 +700,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-15**|**Reinforcing Video Reasoning Segmentation to Think Before It Segments**|Huchuan Lu Team|[2508.11538](http://arxiv.org/abs/2508.11538)|null|
+|**2025-08-15**|**OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation**|Aleksandr Panov Team|[2508.11479](http://arxiv.org/abs/2508.11479)|null|
+|**2025-08-15**|**ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving**|Li Zhang Team|[2508.11428](http://arxiv.org/abs/2508.11428)|null|
+|**2025-08-15**|**Semantically Guided Adversarial Testing of Vision Models Using Language Models**|Jorge M. Cruz-Duarte Team|[2508.11341](http://arxiv.org/abs/2508.11341)|null|
+|**2025-08-15**|**Noise Matters: Optimizing Matching Noise for Diffusion Classifiers**|Long Chen Team|[2508.11330](http://arxiv.org/abs/2508.11330)|null|
+|**2025-08-15**|**Logic Unseen: Revealing the Logical Blindspots of Vision-Language Models**|Tat-Seng Chua Team|[2508.11317](http://arxiv.org/abs/2508.11317)|null|
+|**2025-08-15**|**Vision-Language Models display a strong gender bias**|Sreedath Panat Team|[2508.11262](http://arxiv.org/abs/2508.11262)|null|
+|**2025-08-15**|**Generalized Decoupled Learning for Enhancing Open-Vocabulary Dense Perception**|Zhuotao Tian Team|[2508.11256](http://arxiv.org/abs/2508.11256)|null|
+|**2025-08-15**|**UAV-VL-R1: Generalizing Vision-Language Models via Supervised Fine-Tuning and Multi-Stage GRPO for UAV Visual Reasoning**|Yue Zhang Team|[2508.11196](http://arxiv.org/abs/2508.11196)|null|
+|**2025-08-15**|**Fine-Grained VLM Fine-tuning via Latent Hierarchical Adapter Learning**|Bin Luo Team|[2508.11176](http://arxiv.org/abs/2508.11176)|null|
+|**2025-08-15**|**Better Supervised Fine-tuning for VQA: Integer-Only Loss**|Junhui Cui Team|[2508.11170](http://arxiv.org/abs/2508.11170)|null|
+|**2025-08-14**|**Utilizing Vision-Language Models as Action Models for Intent Recognition and Assistance**|Rustam Stolkin Team|[2508.11093](http://arxiv.org/abs/2508.11093)|null|
+|**2025-08-14**|**Are Large Pre-trained Vision Language Models Effective Construction Safety Inspectors?**|Zhengbo Zou Team|[2508.11011](http://arxiv.org/abs/2508.11011)|null|
+|**2025-08-14**|**Not There Yet: Evaluating Vision Language Models in Simulating the Visual Perception of People with Low Vision**|Anhong Guo Team|[2508.10972](http://arxiv.org/abs/2508.10972)|null|
 |**2025-08-14**|**AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences**|Joey Tianyi Zhou Team|[2508.10771](http://arxiv.org/abs/2508.10771)|null|
 |**2025-08-14**|**From Diagnosis to Improvement: Probing Spatio-Physical Reasoning in Vision Language Models**|Wenqi Shao Team|[2508.10770](http://arxiv.org/abs/2508.10770)|null|
 |**2025-08-14**|**IADGPT: Unified LVLM for Few-Shot Industrial Anomaly Detection, Localization, and Reasoning via In-Context Learning**|Bin Li Team|[2508.10681](http://arxiv.org/abs/2508.10681)|null|
@@ -2019,6 +2040,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-15**|**A Comparative Study of Floating-Base Space Parameterizations for Agile Whole-Body Motion Planning**|Konstantinos Chatzilygeroudis Team|[2508.11520](http://arxiv.org/abs/2508.11520)|null|
+|**2025-08-15**|**Learning Differentiable Reachability Maps for Optimization-based Humanoid Motion Generation**|Fumio Kanehiro Team|[2508.11275](http://arxiv.org/abs/2508.11275)|null|
+|**2025-08-15**|**Geometry-Aware Predictive Safety Filters on Humanoids: From Poisson Safety Functions to CBF Constrained MPC**|Aaron D. Ames Team|[2508.11129](http://arxiv.org/abs/2508.11129)|null|
 |**2025-08-14**|**MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion**|Yanjie Li Team|[2508.10423](http://arxiv.org/abs/2508.10423)|null|
 |**2025-08-13**|**GBC: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation**|Jun-Guo Lu Team|[2508.09960](http://arxiv.org/abs/2508.09960)|null|
 |**2025-08-11**|**PCHands: PCA-based Hand Pose Synergy Representation on Manipulators with N-DoF**|Lorenzo Natale Team|[2508.07945](http://arxiv.org/abs/2508.07945)|null|
