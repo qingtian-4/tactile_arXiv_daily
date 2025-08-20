@@ -23,13 +23,5 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     # --------- My Keywords ---------
-    "Manipulation":
-        filters: ["Robot Manipulation", "Robotic Manipulation", "Robot Learning", "Imitation Learning"]
-    "VLM":
-        filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
-    "VLA":
-        filters: ["Vision Language Action","Vision-Language-Action"]
-    "Humanoid":
-        filters: ["Humanoid Robot", "Humanoid"]
-    "Dexterous":
-        filters: ["Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous"]
+    "Tactile":
+        filters: ["Tactile", "Visual-Tactile", "Visuotactile", "Sensor"]
