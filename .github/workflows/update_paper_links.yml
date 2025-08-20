@@ -15,10 +15,10 @@ on:
 
 env:
 
-  GITHUB_USER_NAME: Jiangran Lyu
-  GITHUB_USER_EMAIL: jiangran.lyu@stu.pku.edu.cn
-  
-  
+  GITHUB_USER_NAME: qingtian-4
+  GITHUB_USER_EMAIL: wang17613317787@126.com
+
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
